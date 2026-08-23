@@ -1,0 +1,39 @@
+name: 説明のまちがいを指摘する
+description: 事実と違う記述を見つけたとき
+labels: ["まちがいの指摘"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ありがとうございます。**直し方が分からなくても大丈夫です。**
+        気づいたことだけ書いてください。あとは誰かが引き取ります。
+  - type: input
+    id: page
+    attributes:
+      label: どのページですか
+      description: URL を貼るか、手法名・人物名を書いてください
+      placeholder: 例）Tグループ／https://helping.jp/map/methods/t_group
+    validations:
+      required: true
+  - type: textarea
+    id: quote
+    attributes:
+      label: 気になった箇所
+      description: そのままコピーして貼ってください
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 何が違うと思いますか
+      description: 正しいと思う内容を書いてください。「たぶん違う気がする」でも構いません
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 出どころ（分かれば）
+      description: |
+        本・論文・公式サイトなど、あとから確かめられるものがあれば教えてください。
+        日本語で読めるものだと、多くの読者がたどれます。分からなければ空欄で構いません。
+      placeholder: 例）津村俊充『プロセス・エデュケーション』金子書房, 2012, p.45

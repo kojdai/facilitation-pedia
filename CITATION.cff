@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: ファシリテーション 学習地図 (A Learning Atlas of Facilitation)
+message: 引用は必須ではありません（CC0）。必要な方はこちらをお使いください。
+type: dataset
+authors:
+  - family-names: Kojima
+    given-names: Daiki
+    alias: dkojima
+  - name: helping and contributors
+license: CC0-1.0
+abstract: >-
+  ファシリテーション（人と人とが関わるところに生じる問題を扱う営み）の手法を、
+  13の研究伝統・38の中核概念・501の手法・105の人物として構造化した知識データセット。
+  手法を平置きにせず、源流からの包含関係と重要度でたどれるようにしている。
+keywords:
+  - facilitation
+  - workshop
+  - organization development
+  - experiential learning
+  - knowledge graph

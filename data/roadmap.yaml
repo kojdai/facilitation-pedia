@@ -1,0 +1,242 @@
+edu_philosophy:
+- title: 教育とは何か
+  author: ゲルト・ビースタ ほか
+  level: 入門
+  note: 教育の目的を問い直す入口。
+- title: 被抑圧者の教育学
+  author: パウロ・フレイレ
+  level: 中級
+  publisher: 亜紀書房
+  essential: true
+  note: 対話と意識化による解放の教育。批判教育学の原典。
+- title: どのような教育が「よい」教育か
+  author: ガート・ビースタ
+  level: 中級
+  publisher: 白澤社
+- title: 教育人間学のために
+  author: 西平直
+  level: 上級
+  publisher: 東京大学出版会
+pragmatism:
+- title: 「経験学習」入門
+  author: 松尾睦
+  level: 入門
+  publisher: ダイヤモンド社
+  note: 経験から学ぶ仕組みを平易に。
+- title: 教師教育学
+  author: F・コルトハーヘン
+  level: 中級
+  publisher: 学文社
+  essential: true
+  note: 行為の中の省察を教師教育に具体化（リアリスティック・アプローチ）。
+- title: 経験からの学習
+  author: 松尾睦
+  level: 中級
+  publisher: 同文舘出版
+- title: パワー・オブ・リフレクション
+  author: F・コルトハーヘン／E・ナイツェン
+  level: 上級
+  publisher: 学文社
+humanistic:
+- title: 自己カウンセリングとアサーションのすすめ
+  author: 平木典子
+  level: 入門
+  publisher: 金子書房
+  note: 傾聴・アサーションの入口。
+- title: NVC 人と人との関係にいのちを吹き込む法
+  author: マーシャル・B・ローゼンバーグ
+  level: 入門
+  publisher: 日本経済新聞出版
+  essential: true
+- title: フロー体験入門
+  author: M・チクセントミハイ
+  level: 中級
+  publisher: 世界思想社
+- title: 人を伸ばす力 内発と自律のすすめ
+  author: エドワード・L・デシ
+  level: 上級
+  publisher: 新曜社
+  note: 自己決定理論（SDT）の原典的入門。
+learning_sci:
+- title: 研修設計マニュアル
+  author: 鈴木克明
+  level: 入門
+  publisher: 北大路書房
+  note: インストラクショナルデザインの実践入口。
+- title: 研修開発入門「研修転移」の理論と実践
+  author: 中原淳 編著
+  level: 中級
+  publisher: ダイヤモンド社
+  note: 学びが現場の成果に転移する条件。HPI（環境側のレバレッジ）と同じ問いを日本語で扱う。
+- title: 教育の効果 メタ分析による学力に影響を与える要因の効果の可視化
+  author: ジョン・ハッティ
+  level: 中級
+  publisher: 図書文化社
+  essential: true
+- title: 状況に埋め込まれた学習 正統的周辺参加
+  author: J・レイヴ／E・ウェンガー
+  level: 中級
+  publisher: 産業図書
+- title: 学習科学ハンドブック（第二版）
+  author: R・K・ソーヤー 編
+  level: 上級
+  publisher: 北大路書房
+lab_method:
+- title: 人間関係トレーニング（第2版）
+  author: 南山大学人間関係研究センター 監修
+  level: 入門
+  publisher: ナカニシヤ出版
+  note: ラボラトリー方式の体験学習の入口。
+- title: プロセス・エデュケーション
+  author: 津村俊充
+  level: 中級
+  publisher: 金子書房
+  essential: true
+  note: ファシリテーションの理論と実践（Tグループの系譜）。
+- title: ファシリテーター・トレーニング
+  author: 津村俊充／石田裕久 編
+  level: 中級
+  publisher: ナカニシヤ出版
+- title: 人間関係の学び方
+  author: 津村俊充
+  level: 上級
+  publisher: ナカニシヤ出版
+drama_edu:
+- title: インプロ 自由自在な行動表現
+  author: キース・ジョンストン
+  level: 入門
+  publisher: 而立書房
+  note: 即興演劇の古典的入門。
+- title: インプロ教育の探究 学校教育とインプロの二項対立を超えて
+  author: 高尾隆／園部友里恵 編
+  level: 中級
+  publisher: 新曜社
+  essential: true
+- title: Learning×Performance インプロする組織
+  author: 高尾隆／中原淳
+  level: 中級
+  publisher: 三省堂
+- title: 〈教師〉になる劇場 演劇的手法による学びとコミュニケーションのデザイン
+  author: ほか
+  level: 上級
+dialogue:
+- title: ワールド・カフェ カフェ的会話が未来を創る
+  author: アニータ・ブラウン／デイビッド・アイザックス
+  level: 入門
+  publisher: ヒューマンバリュー
+  note: 大人数対話の代表手法の入口。
+- title: 関係からはじまる 社会構成主義がひらく人間観
+  author: ケネス・J・ガーゲン
+  level: 中級
+  publisher: ナカニシヤ出版
+  essential: true
+- title: 他者と働く 「わかりあえなさ」から始める組織論
+  author: 宇田川元一
+  level: 中級
+  publisher: NewsPicksパブリッシング
+- title: ダイアローグ 対立から共生へ、議論から対話へ
+  author: デヴィッド・ボーム
+  level: 上級
+  publisher: 英治出版
+- title: PLURALITY 対立を創造に変える、協働テクノロジーと民主主義の未来
+  author: オードリー・タン、E・グレン・ワイル
+  level: 中級
+  publisher: サイボウズ式ブックス
+  note: 対立を消さずに活かす、という発想の原典。全文がオンラインで無料公開されている。
+org_dev:
+- title: 組織開発の探究 理論に学び、実践に活かす
+  author: 中原淳／中村和彦
+  level: 入門
+  publisher: ダイヤモンド社
+  essential: true
+  note: ODの歴史と理論を一望できる入口。
+- title: 対話型組織開発 その理論的系譜と実践
+  author: G・ブッシュ／R・マーシャク 編
+  level: 中級
+  publisher: 英治出版
+- title: 人を助けるとはどういうことか
+  author: エドガー・H・シャイン
+  level: 中級
+  publisher: 英治出版
+- title: プロセス・コンサルテーション
+  author: エドガー・H・シャイン
+  level: 上級
+  publisher: 白桃書房
+knowledge:
+- title: ワイズカンパニー 知識創造から知識実践への新しいモデル
+  author: 野中郁次郎／竹内弘高
+  level: 入門
+  publisher: 東洋経済新報社
+  note: 知識創造論の最新の入口。
+- title: 知識創造企業（新装版）
+  author: 野中郁次郎／竹内弘高
+  level: 上級
+  publisher: 東洋経済新報社
+  essential: true
+  note: SECIモデルと『場』を提示した原典。
+systems:
+- title: 世界はシステムで動く
+  author: ドネラ・H・メドウズ
+  level: 入門
+  publisher: 英治出版
+  essential: true
+  note: システム思考の最良の入門。
+- title: 学習する組織 システム思考で未来を創造する
+  author: ピーター・M・センゲ
+  level: 中級
+  publisher: 英治出版
+- title: 社会変革のためのシステム思考実践ガイド
+  author: デイヴィッド・ピーター・ストロー
+  level: 中級
+  publisher: 英治出版
+- title: 最強組織の法則
+  author: ピーター・M・センゲ
+  level: 上級
+  publisher: 徳間書店
+adult_dev:
+- title: なぜ人と組織は変われないのか ハーバード流 自己変革の理論と実践
+  author: R・キーガン／L・L・レイヒー
+  level: 入門
+  publisher: 英治出版
+  essential: true
+- title: 行動探求 個人・チーム・組織を高めるアクション・インクワイアリー
+  author: ビル・トルバート
+  level: 中級
+  publisher: 英治出版
+- title: 成人発達理論による能力の成長 ダイナミックスキル理論の実践的活用法
+  author: 加藤洋平
+  level: 上級
+  publisher: 日本能率協会マネジメントセンター
+theory_u:
+- title: U理論入門
+  author: 中土井僚
+  level: 入門
+  publisher: PHP研究所
+  note: U理論を平易に。
+- title: U理論[エッセンシャル版]
+  author: C・オットー・シャーマー
+  level: 中級
+  publisher: 英治出版
+  essential: true
+- title: 出現する未来から導く U理論で自己と組織、社会のシステムを変革する
+  author: C・O・シャーマー／K・カウファー
+  level: 上級
+  publisher: 英治出版
+- title: U理論（第二版）
+  author: C・オットー・シャーマー
+  level: 上級
+  publisher: 英治出版
+integral:
+- title: 入門 インテグラル理論 人・組織・社会の可能性を最大化するメタ・アプローチ
+  author: 鈴木規夫 ほか
+  level: 入門
+  publisher: 日本能率協会マネジメントセンター
+- title: インテグラル理論 多様で複雑な世界を読み解く新次元の成長モデル
+  author: ケン・ウィルバー
+  level: 中級
+  publisher: 日本能率協会マネジメントセンター
+  essential: true
+- title: インテグラル心理学 心の複雑さと可能性を読み解く意識発達モデル
+  author: ケン・ウィルバー
+  level: 上級
+  publisher: 日本能率協会マネジメントセンター

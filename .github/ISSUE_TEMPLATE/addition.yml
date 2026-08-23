@@ -1,0 +1,39 @@
+name: 手法・人物の追加を提案する
+description: 地図に載っていないものを見つけたとき
+labels: ["追加の提案"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 種類
+      options: ["手法", "人物", "中核概念", "機関", "書籍"]
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: 名前
+      placeholder: 例）ブロードリスニング / Broad Listening
+    validations:
+      required: true
+  - type: textarea
+    id: desc
+    attributes:
+      label: どんなものですか
+      description: 2〜3行で構いません
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: どのあたりに置くとよさそうですか
+      description: 分かれば。源流や中核概念の名前で構いません
+  - type: textarea
+    id: source
+    attributes:
+      label: 出どころ
+      description: |
+        本・論文・公式サイトなど、あとから確かめられるものを挙げてください。
+        この地図は CC0（誰でも自由に使ってよい）なので、出典の確かさが特に大事になります。
+    validations:
+      required: true

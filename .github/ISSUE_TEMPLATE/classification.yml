@@ -1,0 +1,34 @@
+name: 分類がおかしいと感じた
+description: 手法が属する中核概念・源流が違うと思うとき
+labels: ["分類"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **分類はまず機械が推測しているので、よく外れます。**
+        「これは違う」という感覚は、あなたの専門性がいちばん効くところです。
+  - type: input
+    id: method
+    attributes:
+      label: どの手法ですか
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: いまどこに置かれていますか
+      placeholder: 例）ホールシステム・アプローチ の下
+  - type: input
+    id: proposed
+    attributes:
+      label: どこに置くのが適切だと思いますか
+      placeholder: 例）システム思考 の下
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: そう思う理由
+      description: 系譜・出自・実践上の位置づけなど、判断の根拠になったことを教えてください
+    validations:
+      required: true

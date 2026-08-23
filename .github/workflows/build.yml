@@ -1,0 +1,40 @@
+name: 検査とビルド
+
+# data/ を直す提案（PR）が来たときに、書き方が壊れていないかを自動で確かめる。
+# 目的は「落とすこと」ではなく、**提案した人がその場で直せるようにする**こと。
+# だから validate.py は traceback ではなく日本語の指摘を出す。
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+
+      - name: 書き方の検査
+        run: python3 pipeline/validate.py
+
+      - name: 生成できるか
+        run: python3 pipeline/build.py
+
+      - name: 並び順に依存しないか
+        # 概念の割当ては related グラフを伝播して決まる。実装を誤ると
+        # ファイルを1つ足しただけで無関係な手法の分類が動き、レビュー不能な差分が出る。
+        run: python3 pipeline/test_determinism.py
+
+      - name: 生成物が正本と食い違っていないか
+        # dist/atlas.json は生成物。手で直されていたらここで気づける。
+        run: |
+          if ! git diff --quiet -- dist/atlas.json; then
+            echo "::warning::dist/atlas.json が data/ から作り直した結果と違います。"
+            echo "生成物は直接編集せず、data/ の側を直してください。"
+            git diff --stat -- dist/atlas.json
+          fi

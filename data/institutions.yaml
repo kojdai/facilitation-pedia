@@ -1,0 +1,81 @@
+- id: ntl
+  name: NTL Institute (National Training Laboratories)
+  country: 米国
+  year: 1947–
+  desc: クルト・レヴィンらの影響を受け1947年に設立された現代組織開発の事実上の発祥の地。Tグループ（感受性訓練）の実践を通じて、エドガー・シャインやクリス・アージリスなど後のODを牽引する巨星たちが集った。
+  url: https://www.ntl.org/
+  status: Draft
+  last_verified_at: null
+  last_modified_at: '2026-04-29T23:44:57.845Z'
+- id: mit_sloan
+  name: MIT Sloan School of Management
+  country: 米国
+  year: 1914–
+  desc: ピーター・センゲのシステム思考に基づく「学習する組織」、オットー・シャーマーの「U理論」、エドガー・シャインの「プロセス・コンサルテーション」など、システム論と自己内省を統合する画期的なアプローチを生み出した重要拠点。
+  url: null
+  status: Draft
+  last_verified_at: null
+  last_modified_at: '2026-04-29T23:44:57.845Z'
+- id: ahrd
+  name: AHRD (Academy of Human Resource Development)
+  country: 米国
+  year: 1994–
+  desc: 人材開発と組織開発の架け橋となり、成人学習理論の実証的研究を支援する学術機関。
+  url: https://www.ahrd.org/
+  status: Draft
+  last_verified_at: null
+  last_modified_at: '2026-04-29T23:44:57.845Z'
+- id: jiel
+  name: NPO法人 日本体験学習研究所 (JIEL)
+  country: 日本
+  year: 2004–
+  desc: 津村俊充らによって設立。ラボラトリー方式の体験学習の普及を牽引し、ファシリテーターの自己基盤（Being）を鍛え上げる重要な役割を果たしてきた。
+  url: https://jiel.jp/
+  status: Draft
+  last_verified_at: null
+  last_modified_at: '2026-04-29T23:44:57.845Z'
+- id: todai_yamauchi
+  name: 東京大学大学院 情報学環 山内研究室
+  country: 日本
+  year: 2000–
+  desc: 山内祐平を中心に、構成主義に基づく学習環境デザインの研究拠点として、安斎勇樹ら次世代の研究者・実践家を輩出。
+  url: https://www.iii.u-tokyo.ac.jp/
+  status: Draft
+  last_verified_at: null
+  last_modified_at: '2026-04-29T23:44:57.845Z'
+- id: nanzan_jinkan
+  name: 南山大学 人間関係研究センター
+  country: 日本
+  year: 1972–
+  desc: 星野欣生・津村俊充らによって人間関係研究とTグループの実践拠点として発展。日本のラボラトリー方式体験学習の中核。
+  url: https://www.ic.nanzan-u.ac.jp/JINKAN/
+  status: Draft
+  last_verified_at: null
+  last_modified_at: '2026-04-29T23:44:57.845Z'
+- id: faj
+  name: NPO法人 日本ファシリテーション協会 (FAJ)
+  country: 日本
+  year: 2003–
+  desc: 堀公俊らによって設立された日本最大のファシリテーター実践コミュニティ。ビジネス・ファシリテーションの普及を牽引。
+  url: https://www.faj.or.jp/
+  status: Draft
+  last_verified_at: null
+  last_modified_at: '2026-04-29T23:44:57.845Z'
+- id: ispi
+  name: ISPI (International Society for Performance Improvement)
+  country: 米国
+  year: 1962–
+  desc: HPT（人間パフォーマンス工学）とHPIの専門学会。ギルバート・メーガー・ラムラーらが集い、成果改善を「研修」から「環境と帰結の設計」へ広げる診断的パラダイムを体系化した。
+  url: https://www.ispi.org/
+  status: Draft
+  last_verified_at: null
+  last_modified_at: null
+- id: bmi
+  name: Bushe-Marshak Institute (BMI)
+  country: カナダ／米国
+  year: 2015–
+  desc: ジャーヴェス・ブッシュとロバート・マーシャクが設立し、対話型組織開発（Dialogic OD）の理論と実践を推進する機関。書籍シリーズの刊行、変革的変化のリーダーシップに関する教育・認定を行う。
+  url: https://b-m-institute.com/
+  status: Draft
+  last_verified_at: null
+  last_modified_at: null

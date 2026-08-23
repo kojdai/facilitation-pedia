@@ -1,0 +1,43 @@
+---
+id: pestle_analysis
+ja: PESTLE分析
+en: PESTLE Analysis
+icon: 🌍
+essential: false
+status: Draft
+disciplines:
+- org_dev
+- systems
+related:
+- swot_analysis
+- scenario_planning
+- systems_thinking
+- strategic_planning
+- three_horizons
+books:
+- title: 戦略サファリ
+  author: Henry Mintzberg, Bruce Ahlstrand, Joseph Lampel
+  year: 1998
+  lang: ja
+  reason: 多様な戦略論を批判的に概観した名著。PESTLEの位置づけと限界を理解するための広い視野を提供する。
+created_at: '2026-05-20T11:22:56.385Z'
+last_modified_at: '2026-05-20T11:22:56.384Z'
+desc: 政治、経済、社会、技術、法律、環境の6つの外部要因から事業環境を分析する戦略策定フレームワーク。組織の機会と脅威を特定し、意思決定を支援します。
+---
+
+## PESTLE分析（PESTLE Analysis）
+
+**概要**
+PESTLE分析（または PEST 分析）は、組織が直面する外部マクロ環境を「政治（Political）・経済（Economic）・社会（Social）・技術（Technological）・法的（Legal）・環境（Environmental）」の6つの側面から体系的にスキャンする戦略的分析フレームワークである。
+
+**理論的背景**
+フランシス・アゴーが1967年に「ETPS」として提案し、その後拡張されて現在の形になった。ポーターの「5力分析」が競争的微視環境を扱うのに対して、PESTLEはマクロレベルの外部環境要因を分析する相補的ツールとして位置づけられる。環境スキャン（environmental scanning）と戦略的計画の基礎ツールとして幅広く活用されている。
+
+**実践方法・プロセス**
+① テンプレート設計：PESTLEの各カテゴリーを含む分析シートを用意。② ブレインストーミング：各カテゴリーの関連要因を自由に列挙（単独またはグループで）。③ 優先順位付け：各要因の影響度・可能性・緊急度を評価。④ 機会・脅威への変換：各要因が組織にとって機会か脅威かを判断。⑤ SWOTとの統合：SWOT分析の「機会・脅威」部分としてPESTLE結果を反映する。
+
+**ファシリテーションでの活用**
+戦略立案・事業計画・組織変革のワークショップに広く使われる。グループで各カテゴリーを分担してスキャンし、全体像を統合するプロセスが参加者のシステム思考を育む。シナリオ分析や将来予測ワークとも組み合わせやすい。
+
+**効果と限界**
+シンプルで包括的な環境スキャンを迅速に実施できる。しかし要因の列挙に留まりやすく、要因間の相互作用や動態的変化の分析が弱い。定期的な更新がなければ陳腐化しやすい。

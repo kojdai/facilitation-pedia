@@ -1,0 +1,27 @@
+name: 読んでも分からなかった
+description: 説明が分かりにくかったとき
+labels: ["分かりにくい"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **これはまちがいの指摘と同じくらい価値のある報告です。**
+        分かりにくいのは読む人の問題ではなく、書き方の問題です。遠慮なく出してください。
+  - type: input
+    id: page
+    attributes:
+      label: どのページですか
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: どこで詰まりましたか
+      description: 分からなかった箇所をそのまま貼るか、状況を書いてください
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 何が分かれば先へ進めそうでしたか
+      description: 「そもそもこの言葉の意味が分からない」「具体例がほしい」など
