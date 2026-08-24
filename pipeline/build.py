@@ -831,6 +831,18 @@ def main():
         k: v for k, v in patch['roadmap_books'].items() if k in disc_ids}
     data['facilitation_applications'] = patch['facilitation_applications']
 
+    # 「まだ書かれていない手法」を生成物に載せる。
+    # related のリンク切れは生成の過程で除去されるので、アプリ側からは算出できない。
+    # これはデータの事実（すでに必要だと表明されている手法の一覧）なので、
+    # UI の都合ではなくパイプラインの成果物として持たせる。
+    wanted = {}
+    for src, target in gaps.get('related', []):
+        wanted.setdefault(target, []).append(src)
+    data['missing_methods'] = [
+        {'id': t, 'referenced_by': sorted(refs), 'count': len(refs)}
+        for t, refs in sorted(wanted.items(), key=lambda kv: (-len(kv[1]), kv[0]))
+    ]
+
     data.pop('_gaps', None)
     report, broken = validate(data)
 
