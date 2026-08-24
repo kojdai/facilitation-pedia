@@ -24,7 +24,7 @@ backend:
 publish_mode: editorial_workflow
 
 locale: ja
-site_url: https://helping.jp/map
+site_url: https://helping.jp/facilitation-pedia
 
 # 画像は扱わない（この地図は文章と関係だけで構成されている）
 media_folder: data/_media

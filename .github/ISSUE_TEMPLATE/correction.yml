@@ -12,7 +12,7 @@ body:
     attributes:
       label: どのページですか
       description: URL を貼るか、手法名・人物名を書いてください
-      placeholder: 例）Tグループ／https://helping.jp/map/methods/t_group
+      placeholder: 例）Tグループ／https://helping.jp/facilitation-pedia/methods/t_group
     validations:
       required: true
   - type: textarea

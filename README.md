@@ -177,6 +177,7 @@ python3 pipeline/audit_sources.py    # 出典の充足状況
 
 ## 公開されている地図
 
-この地図は [helping](https://helping.jp) が運営しています。
+この地図は [helping](https://helping.jp) が運営し、
+**https://helping.jp/facilitation-pedia** で公開しています。
 helping は、ワークショップ・ファシリテーションの世界で培われてきた
 「支援」「関わり」の力を、多くの人に開いていく試みです。
