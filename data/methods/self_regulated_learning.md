@@ -6,17 +6,17 @@ icon: 🧠
 essential: false
 status: Verified
 disciplines:
-- learning_sci
-- humanistic
+  - learning_sci
+  - humanistic
 related:
-- metacognition
-- self_directed_learning_facilitation
-- backward_design
-- cognitive_coaching
-- sdt
+  - metacognition
+  - self_directed_learning_facilitation
+  - backward_design
+  - cognitive_coaching
+  - sdt
 books:
-- ref: アウトプット大全
-  note: 自己調整学習を日本語で実践的に解説。アウトプットによる学習定着の神経科学的根拠
+  - ref: アウトプット大全
+    note: 自己調整学習を日本語で実践的に解説。アウトプットによる学習定着の神経科学的根拠
 created_at: '2026-05-15T16:23:09.321Z'
 last_modified_at: '2026-05-15T16:23:09.321Z'
 desc: 学習者が自身の学習目標を設定し、戦略を選択・実行し、そのプロセスと結果を自己評価・調整する能力を育むための理論と実践。ファシリテーターは学習者の自己調整能力の育成を支援する。
@@ -28,7 +28,7 @@ desc: 学習者が自身の学習目標を設定し、戦略を選択・実行�
 自己調整学習（Self-Regulated Learning: SRL）は、学習者が自分の認知・動機・行動を能動的にモニタリング・調整・評価しながら学習目標を達成するプロセスであり、「学び方を学ぶ」能力の核心をなす。ファシリテーションでは、参加者が受動的な情報受信者ではなく自律的な学習の主体者になれるよう場を設計する理論的根拠として活用される。
 
 **理論的背景**
-バリー・ジマーマンが1980年代から体系化し、アルバート・バンデューラの社会認知理論（自己効力感・自己観察・自己評価・自己反応のサイクル）を基盤とする。ポール・ピントリッチの動機的調整研究、ジョン・ハッティのメタ認知研究とも深く関連する。SRLの3段階：計画（Forethought）→遂行（Performance）→自己省察（Self-Reflection）のサイクルが中心的な枠組みをなす。
+バリー・ジマーマンが1980年代から体系化し、アルバート・バンデューラの社会認知理論（自己効力感・自己観察・自己評価・自己反応のサイクル）を基盤とする。ポール・ピントリッチの動機的調整研究、ジョン・ハッティのメタ認知研究とも深く関連する。SRLの3段階：予見（Forethought）→遂行（Performance）→自己省察（Self-Reflection）のサイクルが中心的な枠組みをなす。
 
 **実践方法・プロセス**
 1. **学習目標の自己設定**：参加者が自分自身の学習目標を具体的に設定し言語化する
