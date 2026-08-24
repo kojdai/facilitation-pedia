@@ -6,17 +6,17 @@ icon: 🧠
 essential: false
 status: Verified
 disciplines:
-  - learning_sci
-  - humanistic
+- learning_sci
+- humanistic
 related:
-  - metacognition
-  - self_directed_learning_facilitation
-  - backward_design
-  - cognitive_coaching
-  - sdt
+- metacognition
+- self_directed_learning_facilitation
+- backward_design
+- cognitive_coaching
+- sdt
 books:
-  - ref: アウトプット大全
-    note: 自己調整学習を日本語で実践的に解説。アウトプットによる学習定着の神経科学的根拠
+- ref: アウトプット大全
+  note: 自己調整学習を日本語で実践的に解説。アウトプットによる学習定着の神経科学的根拠
 created_at: '2026-05-15T16:23:09.321Z'
 last_modified_at: '2026-05-15T16:23:09.321Z'
 desc: 学習者が自身の学習目標を設定し、戦略を選択・実行し、そのプロセスと結果を自己評価・調整する能力を育むための理論と実践。ファシリテーターは学習者の自己調整能力の育成を支援する。
