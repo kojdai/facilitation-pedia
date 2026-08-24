@@ -8,7 +8,7 @@
 
 backend:
   name: github
-  repo: OWNER/REPO          # 公開時に置き換える
+  repo: kojdai/facilitation-pedia          # 公開時に置き換える
   branch: main
   # 書き込み権限のない人でも、自分のフォーク経由で提案できるようにする。
   # これがないと「編集できるのは限られた人だけ」になり、開いた意味が薄れる。

@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: やり方が分からない・相談したい
-    url: https://github.com/OWNER/REPO/issues/new
+    url: https://github.com/kojdai/facilitation-pedia/issues/new
     about: 「使い方が分からない」という Issue を立てて構いません。誰かが必ず答えます。
   - name: はじめての方へ（貢献のしかた）
-    url: https://github.com/OWNER/REPO/blob/main/CONTRIBUTING.md
+    url: https://github.com/kojdai/facilitation-pedia/blob/main/CONTRIBUTING.md
     about: GitHub を使ったことがない方向けの手順があります。
