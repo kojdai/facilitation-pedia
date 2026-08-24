@@ -15,10 +15,7 @@ related:
 - adult_development_theory
 - shadow_work_facilitation
 books:
-- title: サイコシンセシス 統合的な人間観と実践のマニュアル
-  author: ロベルト・アサジョーリ
-  publisher: 誠信書房
-  year: 1997
+- ref: サイコシンセシス 統合的な人間観と実践のマニュアル
 created_at: '2026-05-20T01:23:08.135Z'
 last_modified_at: '2026-05-20T01:23:08.133Z'
 desc: Roberto Assagioliが提唱した、個人の多様な側面（サブパーソナリティ）を統合し、自己実現と全体性を目指す心理学。グループでは、メンバーの役割や内面世界の探求を促進し、集合的な意識と行動の変容を支援する。

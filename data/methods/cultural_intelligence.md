@@ -15,11 +15,8 @@ related:
 - intergroup_dialogue
 - cultural_orientations_facilitation
 books:
-- title: 文化的知性
-  author: デービッド・リバモア
-  year: 2014
-  lang: ja
-  reason: CQフレームワークを日本語で解説した入門的実践書
+- ref: 文化的知性
+  note: CQフレームワークを日本語で解説した入門的実践書
 created_at: '2026-05-11T20:22:36.105Z'
 last_modified_at: '2026-05-11T20:22:36.104Z'
 desc: 異なる文化背景を持つ人々との効果的な関わり方を可能にする能力を育成するフレームワーク。多様なグループのファシリテーションにおいて、相互理解と協働を深めるための重要な視点を提供する。

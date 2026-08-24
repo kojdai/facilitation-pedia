@@ -19,10 +19,7 @@ related:
 - council_practice
 - empathy_mapping
 books:
-- title: NVC 人と人との関係にいのちを吹き込む法
-  author: マーシャル・B・ローゼンバーグ
-  year: 2018
-  publisher: 日本経済新聞出版社
+- ref: NVC 人と人との関係にいのちを吹き込む法
 created_at: '2026-04-30T07:46:05.318Z'
 last_modified_at: '2026-04-30T23:58:31.009Z'
 desc: Marshall Rosenbergが提唱。観察、感情、ニーズ、要求の4要素で構成され、共感を基盤とした効果的なコミュニケーションを促進。対立解決や相互理解を深めるのに役立つ。

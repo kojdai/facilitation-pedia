@@ -16,11 +16,8 @@ related:
 - double_loop
 - reflection
 books:
-- title: 組織の罠
-  author: クリス・アージリス
-  year: 2016
-  lang: ja
-  reason: アクションサイエンスの核心概念・防衛的推論と学習阻害の徹底分析
+- ref: 組織の罠
+  note: アクションサイエンスの核心概念・防衛的推論と学習阻害の徹底分析
 created_at: '2026-04-30T07:31:10.470Z'
 last_modified_at: '2026-04-30T23:58:24.536Z'
 desc: 人々の「推論の梯子」を明らかにし、防衛的ルーティンを打破するための介入手法。

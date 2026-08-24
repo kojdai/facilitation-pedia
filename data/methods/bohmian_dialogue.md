@@ -18,10 +18,7 @@ related:
 - open_dialogue
 - kantor_structural_dynamics
 books:
-- title: ダイアローグ 対立から共生へ、議論から対話へ
-  author: デヴィッド・ボーム
-  year: 2007
-  publisher: 英治出版
+- ref: ダイアローグ 対立から共生へ、議論から対話へ
 created_at: '2026-04-30T16:22:43.637Z'
 last_modified_at: '2026-04-30T16:22:43.636Z'
 desc: 物理学者デヴィッド・ボームが提唱した、共通の理解と意味の生成を目指す深い対話手法。思考の前提や暗黙の仮定を露わにし、集団の意識を深める。

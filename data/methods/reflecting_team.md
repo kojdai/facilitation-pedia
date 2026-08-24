@@ -15,11 +15,8 @@ related:
 - gestalt_facilitation
 - group_analysis
 books:
-- title: 会話・言語・そして可能性
-  author: ハーレーン・アンダーソン
-  year: 2001
-  lang: ja
-  reason: リフレクティング・プロセスの哲学的背景を解説した日本語版
+- ref: 会話・言語・そして可能性
+  note: リフレクティング・プロセスの哲学的背景を解説した日本語版
 created_at: '2026-05-16T23:23:05.397Z'
 last_modified_at: '2026-05-16T23:23:05.396Z'
 desc: 参加者が会話を観察し、その内容について互いに公開で話し合うことで、新たな視点や解決策を促進するファシリテーション手法。

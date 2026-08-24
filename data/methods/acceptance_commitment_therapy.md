@@ -15,11 +15,8 @@ related:
 - the_work_byron_katie
 - sdt
 books:
-- title: ACTをはじめる
-  author: スティーブン・ヘイズ
-  year: 2019
-  lang: ja
-  reason: ACTの提唱者ヘイズによる理論と実践の入門書の日本語版
+- ref: ACTをはじめる
+  note: ACTの提唱者ヘイズによる理論と実践の入門書の日本語版
 created_at: '2026-05-08T06:22:43.547Z'
 last_modified_at: '2026-05-08T06:22:43.547Z'
 desc: 「受け入れること」と「行動すること」に焦点を当て、心理的柔軟性を高めることで、困難な思考や感情と向き合い、価値に基づいた行動を促進する。

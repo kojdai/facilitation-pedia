@@ -17,10 +17,7 @@ related:
 - mental_models
 - theoryu
 books:
-- title: 学習する組織
-  author: ピーター・M・センゲ
-  year: 2011
-  publisher: 英治出版
+- ref: 学習する組織
 created_at: '2026-05-17T16:22:55.776Z'
 last_modified_at: '2026-05-17T16:22:55.775Z'
 desc: ピーター・センゲが提唱する組織学習のフレームワーク。システム思考を中心に、個人熟達、メンタルモデル、共有ビジョン、チーム学習の5つの規律を統合し、組織変革を促進する。

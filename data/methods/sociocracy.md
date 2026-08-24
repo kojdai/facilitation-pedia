@@ -15,11 +15,8 @@ related:
 - distributed_leadership
 - consent_decision
 books:
-- title: 自律分散型組織のつくり方
-  author: ブライアン・ロバートソン
-  year: 2016
-  lang: ja
-  reason: ホラクラシー（ソシオクラシーの発展型）の公式ガイド日本語版
+- ref: 自律分散型組織のつくり方
+  note: ホラクラシー（ソシオクラシーの発展型）の公式ガイド日本語版
 created_at: '2026-05-01T04:22:27.749Z'
 last_modified_at: '2026-05-01T04:22:27.747Z'
 desc: 組織内の意思決定とガバナンスを円滑に進める手法。全員参加と合意形成（コンセント）に基づき、組織の目的達成とメンバーの成長を両立させることを目指す。

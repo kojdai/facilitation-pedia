@@ -15,11 +15,8 @@ related:
 - constructive_alignment
 - nineevt
 books:
-- title: e-ラーニングの教え方
-  author: 鈴木克明
-  year: 2015
-  lang: ja
-  reason: ARCSモデルを含む動機づけ学習設計の日本語実践ガイド
+- ref: e-ラーニングの教え方
+  note: ARCSモデルを含む動機づけ学習設計の日本語実践ガイド
 created_at: '2026-05-08T00:22:43.853Z'
 last_modified_at: '2026-05-08T00:22:43.853Z'
 desc: 学習者の注意(Attention)、関連性(Relevance)、自信(Confidence)、満足感(Satisfaction)を高めることで、学習意欲を向上させるための教育設計モデル。ファシリテーションにおける参加者のエンゲージメント創出に応用可能。

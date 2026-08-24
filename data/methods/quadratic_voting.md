@@ -10,10 +10,7 @@ related:
 - quadratic_funding
 - broad_listening
 books:
-- title: ラディカル・マーケット 脱・私有財産の世紀
-  author: エリック・A・ポズナー、E・グレン・ワイル
-  publisher: 東洋経済新報社
-  year: 2020
+- ref: ラディカル・マーケット 脱・私有財産の世紀
 sources:
 - オードリー・タン, E・グレン・ワイル『PLURALITY 対立を創造に変える、協働テクノロジーと民主主義の未来』山形浩生訳, 鈴木健解説, サイボウズ式ブックス, 2025
 - Plurality 日本語版オンライン全文 https://plurality.net/ja/read/

@@ -16,11 +16,8 @@ related:
 - person_centered
 - transactional_analysis
 books:
-- title: NLPの原理
-  author: リチャード・バンドラー, ジョン・グリンダー
-  year: 2014
-  lang: ja
-  reason: NLPの創始者による理論の基礎を解説した日本語版入門書
+- ref: NLPの原理
+  note: NLPの創始者による理論の基礎を解説した日本語版入門書
 created_at: '2026-05-03T17:22:37.569Z'
 last_modified_at: '2026-05-03T17:22:37.557Z'
 desc: 思考、言語、行動のパターンを分析し、卓越した成果を生み出すためのコミュニケーションと自己変革の手法。ファシリテーションでは、参加者の内面理解と効果的な対話促進に応用される。

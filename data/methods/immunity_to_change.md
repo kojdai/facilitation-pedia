@@ -18,11 +18,8 @@ related:
 - developmental_facilitation
 - adult_development_theory
 books:
-- title: なぜ人と組織は変われないのか
-  author: ロバート・キーガン, リサ・ラスコウ・ラヘイ
-  year: 2013
-  lang: ja
-  reason: 変化への免疫理論の提唱者による実践ガイド・必読書
+- ref: なぜ人と組織は変われないのか
+  note: 変化への免疫理論の提唱者による実践ガイド・必読書
 created_at: '2026-04-30T15:22:33.313Z'
 last_modified_at: '2026-04-30T15:22:33.313Z'
 desc: ケイガンとレイヒーが提唱。個人や組織が変化を望みながらも達成できない「抵抗力」を特定し、それを乗り越えるための認識変容を促すファシリテーション手法。

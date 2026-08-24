@@ -15,10 +15,7 @@ related:
 - social_judgment_theory
 - behavior_change
 books:
-- title: 影響力の武器
-  author: ロバート・B・チャルディーニ
-  year: 2014
-  publisher: 誠信書房
+- ref: 影響力の武器
 created_at: '2026-05-21T08:22:43.187Z'
 last_modified_at: '2026-05-21T08:22:43.182Z'
 desc: 態度変容が、情報の精緻化度合いに応じて中心的ルートまたは周辺的ルートのいずれかを通じて起こるかを説明するモデル。参加者の情報処理傾向に合わせてファシリテーション戦略を調整するのに役立つ。

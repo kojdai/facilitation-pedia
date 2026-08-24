@@ -15,14 +15,8 @@ related:
 - transition_design
 - causal_layered_analysis
 books:
-- title: 世界はシステムで動く
-  author: ドネラ・H・メドウズ
-  year: 2015
-  publisher: 英治出版
-- title: 社会変革のためのシステム思考実践ガイド
-  author: デイヴィッド・ピーター・ストロー
-  year: 2018
-  publisher: 英治出版
+- ref: 世界はシステムで動く
+- ref: 社会変革のためのシステム思考実践ガイド
 created_at: '2026-05-05T06:22:34.979Z'
 last_modified_at: '2026-05-05T06:22:34.974Z'
 desc: 複雑な社会システムにおける介入を設計する手法。システム思考とデザイン思考を統合し、厄介な問題解決と持続可能な変革を促進する。

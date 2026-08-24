@@ -15,11 +15,8 @@ related:
 - theory_of_change_facilitation
 - transition_design
 books:
-- title: シナリオ・プランニングの技法
-  author: クライブ・ハーデン
-  year: 2004
-  lang: ja
-  reason: バックキャスティングと補完的なシナリオプランニングの日本語実践書
+- ref: シナリオ・プランニングの技法
+  note: バックキャスティングと補完的なシナリオプランニングの日本語実践書
 created_at: '2026-05-12T15:22:55.144Z'
 last_modified_at: '2026-05-12T15:22:55.144Z'
 desc: 望ましい未来の状態を明確にし、そこから現在へと遡って必要なステップや意思決定を特定する戦略的計画手法。複雑な問題解決やビジョン策定に活用される。

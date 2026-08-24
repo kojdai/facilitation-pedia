@@ -15,11 +15,8 @@ related:
 - deliberative_dialogue
 - intergroup_dialogue
 books:
-- title: ファシリテーターの道具箱
-  author: クリスティン・ヴィーセ
-  year: 2009
-  lang: ja
-  reason: フィッシュボールを含む多様なグループ対話手法を実践的に解説
+- ref: ファシリテーターの道具箱
+  note: フィッシュボールを含む多様なグループ対話手法を実践的に解説
 created_at: '2026-05-02T21:22:29.345Z'
 last_modified_at: '2026-05-02T21:22:29.343Z'
 desc: 参加者が内側の輪と外側の輪に分かれ、内輪の少人数が対話、外輪が傾聴・観察する形式。多様な視点からの深い対話と気づきを促す。

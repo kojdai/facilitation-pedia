@@ -15,14 +15,8 @@ related:
 - ryff_scale
 - flourishingscale
 books:
-- title: ポジティブ心理学の挑戦 “幸福”から“持続的幸福”へ
-  author: マーティン・セリグマン
-  year: 2014
-  publisher: ディスカヴァー・トゥエンティワン
-- title: 世界でひとつだけの幸せ ポジティブ心理学が教えてくれる満ち足りた人生
-  author: マーティン・セリグマン
-  year: 2004
-  publisher: アスペクト
+- ref: ポジティブ心理学の挑戦 “幸福”から“持続的幸福”へ
+- ref: 世界でひとつだけの幸せ ポジティブ心理学が教えてくれる満ち足りた人生
 created_at: '2026-04-30T14:40:54.852Z'
 last_modified_at: '2026-04-30T23:58:43.873Z'
 desc: セリグマンが提唱したFlourishing（持続的繁栄）の5要素モデル。Positive Emotion（ポジティブ感情）／Engagement（エンゲージメント／フロー）／Relationships（良好な人間関係）／Meaning（意味と目的）／Accomplishment（達成）。教育・職場・コーチングのウェルビーイング介入の基盤。

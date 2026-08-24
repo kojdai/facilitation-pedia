@@ -21,14 +21,8 @@ related:
 - appreciative_inquiry_summit
 - soar_framework
 books:
-- title: AI「最高の瞬間」を引き出す組織開発
-  author: クーパーライダー／ウィットニー
-  year: 2006
-  publisher: PHP研究所
-- title: ポジティブ・チェンジ
-  author: ダイアナ・ホイットニー／アマンダ・トロステンブルーム
-  year: 2006
-  publisher: ヒューマンバリュー
+- ref: AI「最高の瞬間」を引き出す組織開発
+- ref: ポジティブ・チェンジ
 sources:
 - デイヴィッド・クーパライダー／スレシュ・スリヴァストバ (1987)
 - クーパライダー & ウィットニー『AI〈アプリシエイティブ・インクワイアリー〉』

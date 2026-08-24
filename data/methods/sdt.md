@@ -16,14 +16,8 @@ related:
 - andrag
 - selfauthorship
 books:
-- title: 人を伸ばす力 内発と自律のすすめ
-  author: エドワード・L・デシ
-  year: 1999
-  publisher: 新曜社
-- title: モチベーション3.0 持続する「やる気!」をいかに引き出すか
-  author: ダニエル・ピンク
-  year: 2010
-  publisher: 講談社
+- ref: 人を伸ばす力 内発と自律のすすめ
+- ref: モチベーション3.0 持続する「やる気!」をいかに引き出すか
 created_at: '2026-04-30T14:41:01.383Z'
 last_modified_at: '2026-04-30T23:58:46.239Z'
 desc: 人間には自律性（Autonomy）・有能感（Competence）・関係性（Relatedness）という3つの基本的心理欲求があり、これらが満たされると内発的動機・成長・ウェルビーイングが促進されるとする動機づけ理論。教育・スポーツ・医療・職場で世界最も実証された動機づけ枠組み。

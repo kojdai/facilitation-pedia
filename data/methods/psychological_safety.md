@@ -19,10 +19,7 @@ related:
 - holding_space
 - scarf_model
 books:
-- title: 恐れのない組織
-  author: エイミー・C・エドモンドソン
-  year: 2021
-  publisher: 英治出版
+- ref: 恐れのない組織
 sources:
 - エイミー・C・エドモンドソン『恐れのない組織 — 「心理的安全性」が学習・イノベーション・成長をもたらす』(野津智子 訳, 英治出版)
 created_at: '2026-05-02T20:22:32.600Z'

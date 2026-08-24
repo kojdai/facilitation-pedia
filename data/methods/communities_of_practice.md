@@ -18,10 +18,7 @@ related:
 - situated_learning
 - seci_model
 books:
-- title: コミュニティ・オブ・プラクティス
-  author: エティエンヌ・ウェンガー ほか
-  year: 2002
-  publisher: 翔泳社
+- ref: コミュニティ・オブ・プラクティス
 created_at: '2026-05-01T17:22:30.670Z'
 last_modified_at: '2026-05-01T17:22:30.669Z'
 desc: 共通の関心事や専門性を持つ人々が、継続的な相互作用を通じて知識を共有・創造する非公式な学習集団。実践知の創出と普及を促進する。

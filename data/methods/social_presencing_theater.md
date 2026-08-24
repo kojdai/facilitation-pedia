@@ -17,15 +17,9 @@ related:
 - somatic_facilitation
 - applied_improvisation
 books:
-- title: U理論（第二版）
-  author: C・オットー・シャーマー
-  year: 2018
-  lang: ja
-  reason: SPTの理論的基盤であるTheory Uの完全版
-- title: 出現する未来
-  author: P・センゲ／C・O・シャーマー ほか
-  year: 2006
-  publisher: 講談社
+- ref: U理論（第二版）
+  note: SPTの理論的基盤であるTheory Uの完全版
+- ref: 出現する未来
 created_at: '2026-05-03T01:22:36.818Z'
 last_modified_at: '2026-05-03T01:22:36.818Z'
 desc: 身体的な動きと静止を通して、個人や集団の深い洞察を引き出し、未来の可能性を「体現」する変容的な手法。

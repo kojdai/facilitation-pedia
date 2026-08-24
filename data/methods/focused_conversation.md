@@ -15,11 +15,8 @@ related:
 - dynamic_facilitation
 - diamond_decision_making
 books:
-- title: ファシリテーション入門
-  author: 堀公俊
-  year: 2004
-  lang: ja
-  reason: 日本のファシリテーション実践の入門書。構造化会話の手法を分かりやすく解説
+- ref: ファシリテーション入門
+  note: 日本のファシリテーション実践の入門書。構造化会話の手法を分かりやすく解説
 created_at: '2026-05-13T08:23:04.179Z'
 last_modified_at: '2026-05-13T08:23:04.177Z'
 desc: 経験、内省、解釈、決定の4段階で会話を構造化し、グループの対話を深め、共通理解と効果的な行動を導くファシリテーション手法。

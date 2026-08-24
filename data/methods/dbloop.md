@@ -21,14 +21,8 @@ related:
 - double_loop
 - learning_org
 books:
-- title: 省察的実践とは何か
-  author: ドナルド・A・ショーン
-  year: 2007
-  publisher: 鳳書房
-- title: 組織の罠 人間行動の現実
-  author: クリス・アージリス
-  year: 2016
-  publisher: 文眞堂
+- ref: 省察的実践とは何か
+- ref: 組織の罠 人間行動の現実
 created_at: '2026-04-29T23:44:57.845Z'
 last_modified_at: '2026-04-30T23:57:46.062Z'
 desc: エラーが発生した際、行動を修正するだけ（シングルループ）ではなく、行動の背後にある「前提」や「規範（統制変数）」そのものを問い直し、変容させる学習。

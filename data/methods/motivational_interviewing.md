@@ -14,11 +14,8 @@ related:
 - person_centered
 - transtheoretical_model
 books:
-- title: 動機づけ面接法（第3版）
-  author: ウィリアム・ミラー, スティーブン・ロルニック
-  year: 2019
-  lang: ja
-  reason: MIの創始者による決定版・日本語訳最新版
+- ref: 動機づけ面接法（第3版）
+  note: MIの創始者による決定版・日本語訳最新版
 created_at: '2026-05-01T09:22:30.900Z'
 last_modified_at: '2026-05-01T09:22:30.900Z'
 desc: クライアントの固有の動機を引き出し、強化することで、行動変容を促す協調的な対話手法。共感と自己効力感を重視する。

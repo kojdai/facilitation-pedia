@@ -15,11 +15,8 @@ related:
 - psychosynthesis
 - dialogical_self_theory
 books:
-- title: セルフセラピー
-  author: ジェイ・アール・ウルマン
-  year: 2013
-  lang: ja
-  reason: IFSモデルの自己適用ガイド・日本語で読めるIFS入門書
+- ref: セルフセラピー
+  note: IFSモデルの自己適用ガイド・日本語で読めるIFS入門書
 created_at: '2026-05-04T04:22:37.603Z'
 last_modified_at: '2026-05-04T04:22:37.602Z'
 desc: 個人の心や組織を「パーツ」の集合体と捉え、内なる「自己」のリーダーシップで調和を促す手法。自己とパーツの対話を通じて、対立解消や内省を深める。

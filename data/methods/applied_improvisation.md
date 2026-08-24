@@ -16,11 +16,8 @@ related:
 - playback_theatre
 - process_drama
 books:
-- title: インプロ
-  author: キース・ジョンストン
-  year: 2012
-  lang: ja
-  reason: 応用インプロの理論的基礎・インプロビゼーション哲学の古典
+- ref: インプロ
+  note: 応用インプロの理論的基礎・インプロビゼーション哲学の古典
 sources:
 - キース・ジョンストン『インプロ — 自由自在な行動表現』(三輪えり花 訳, 而立書房)
 created_at: '2026-05-07T12:22:37.197Z'

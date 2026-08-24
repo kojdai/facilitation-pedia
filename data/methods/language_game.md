@@ -12,11 +12,8 @@ people:
 related:
 - social_constructionism
 books:
-- title: 哲学的探究
-  author: ルートヴィヒ・ウィトゲンシュタイン
-  year: 2013
-  lang: ja
-  reason: 言語ゲームの原典・ウィトゲンシュタイン後期哲学の主著の日本語訳
+- ref: 哲学的探究
+  note: 言語ゲームの原典・ウィトゲンシュタイン後期哲学の主著の日本語訳
 created_at: '2026-04-30T07:23:49.484Z'
 last_modified_at: '2026-04-30T23:58:09.205Z'
 desc: 言葉の意味はその使用される文脈（ゲーム）に依存するという概念。社会構成主義的アプローチの前提。

@@ -18,10 +18,7 @@ related:
 - psychological_safety
 - sociometry
 books:
-- title: 社会的葛藤の解決
-  author: クルト・レヴィン
-  year: 2017
-  publisher: ちとせプレス
+- ref: 社会的葛藤の解決
 sources:
 - クルト・レヴィン『社会科学における場の理論』(ちとせプレス)
 created_at: '2026-05-04T12:22:35.310Z'

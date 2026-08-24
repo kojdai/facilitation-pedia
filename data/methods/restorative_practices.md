@@ -15,11 +15,8 @@ related:
 - deep_democracy
 - intergroup_dialogue
 books:
-- title: 修復的司法とは何か
-  author: ハワード・ゼア
-  year: 2003
-  lang: ja
-  reason: 回復的実践の思想的基盤となる回復的司法の古典的入門書
+- ref: 修復的司法とは何か
+  note: 回復的実践の思想的基盤となる回復的司法の古典的入門書
 created_at: '2026-05-01T18:22:29.911Z'
 last_modified_at: '2026-05-01T18:22:29.897Z'
 desc: 対話を通じて関係性の修復、共同体の構築、紛争解決を目指す手法。被害者・加害者の対話だけでなく、予防的なコミュニティ形成にも応用される。

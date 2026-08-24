@@ -15,10 +15,7 @@ related:
 - lpp
 - communities_of_practice
 books:
-- title: 状況に埋め込まれた学習
-  author: ジーン・レイヴ／エティエンヌ・ウェンガー
-  year: 1993
-  publisher: 産業図書
+- ref: 状況に埋め込まれた学習
 created_at: '2026-05-10T02:22:40.736Z'
 last_modified_at: '2026-05-10T02:22:40.736Z'
 desc: 専門家の思考プロセスやスキルを、モデリング、コーチング、足場かけ、明確化、内省、探求といった段階を経て学習者に伝達する教育理論。複雑な認知スキル習得に有効。

@@ -16,11 +16,8 @@ related:
 - action_science
 - ai
 books:
-- title: アクション・リサーチ入門
-  author: 小河智佳子
-  year: 2015
-  lang: ja
-  reason: 日本語で読めるアクションリサーチの実践ガイド
+- ref: アクション・リサーチ入門
+  note: 日本語で読めるアクションリサーチの実践ガイド
 created_at: '2026-04-30T07:30:34.594Z'
 last_modified_at: '2026-04-30T23:58:15.217Z'
 desc: 現場の実践と研究を同時に進めるアプローチ。

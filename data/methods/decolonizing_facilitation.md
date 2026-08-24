@@ -15,10 +15,7 @@ related:
 - critical_race_theory
 - epistemic_justice_facilitation
 books:
-- title: 被抑圧者の教育学
-  author: パウロ・フレイレ
-  year: 2011
-  publisher: 亜紀書房
+- ref: 被抑圧者の教育学
 created_at: '2026-05-08T04:22:47.655Z'
 last_modified_at: '2026-05-08T04:22:47.654Z'
 desc: 既存の権力構造や文化的偏見を問い直し、多様な声と知識を尊重し、より公平で包括的な参加と共創を促すファシリテーションのアプローチ。

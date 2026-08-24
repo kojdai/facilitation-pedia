@@ -15,10 +15,7 @@ related:
 - systems_psychodynamics
 - bion_group_theory
 books:
-- title: 紛争の心理学 融合の炎のワーク
-  author: アーノルド・ミンデル
-  publisher: 講談社
-  year: 2001
+- ref: 紛争の心理学 融合の炎のワーク
 created_at: '2026-04-30T21:22:31.540Z'
 last_modified_at: '2026-04-30T21:22:31.538Z'
 desc: グループ内のあらゆる声、特に周縁化された声や無意識のプロセスに耳を傾け、対立を通じて集合知と統合を促すファシリテーション手法。アーノルド・ミンデルが提唱。

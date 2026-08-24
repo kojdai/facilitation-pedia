@@ -15,11 +15,8 @@ related:
 - somatic_facilitation
 - polyvagal_theory
 books:
-- title: マインドフルネスストレス低減法
-  author: ジョン・カバット・ジン
-  year: 2007
-  lang: ja
-  reason: MBSRの開発者による原典の日本語訳・マインドフルネスの実践的基礎
+- ref: マインドフルネスストレス低減法
+  note: MBSRの開発者による原典の日本語訳・マインドフルネスの実践的基礎
 created_at: '2026-05-15T01:22:53.226Z'
 last_modified_at: '2026-05-15T01:22:53.225Z'
 desc: 参加者の注意、感情、プレゼンスを高めるために、マインドフルネスの原則と実践をファシリテーションに応用する手法。深い傾聴と共感を育む。

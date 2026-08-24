@@ -23,10 +23,7 @@ related:
 - lsp
 - experiential
 books:
-- title: 経験からの学習
-  author: 松尾睦
-  year: 2006
-  publisher: 同文舘出版
+- ref: 経験からの学習
 created_at: '2026-04-29T23:44:57.845Z'
 last_modified_at: '2026-04-30T23:57:22.622Z'
 desc: 「具体的経験→省察的観察→抽象的概念化→能動的実験」という4段階のサイクルを通じて、直接的な経験が汎用的な知識へと変換されるプロセスモデル。

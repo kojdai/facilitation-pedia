@@ -15,11 +15,8 @@ related:
 - affinity_diagram
 - design_sprint
 books:
-- title: ドメイン駆動設計入門
-  author: 成瀬允宣
-  year: 2020
-  lang: ja
-  reason: イベントストーミングを含むDDDの日本語実践ガイド
+- ref: ドメイン駆動設計入門
+  note: イベントストーミングを含むDDDの日本語実践ガイド
 created_at: '2026-05-09T02:22:42.735Z'
 last_modified_at: '2026-05-09T02:22:42.732Z'
 desc: 複雑なビジネスドメインを関係者全員で視覚的にモデル化するコラボレーション手法。イベントを起点にシステムの振る舞いを理解し、改善点を特定する。

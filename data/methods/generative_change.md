@@ -15,10 +15,7 @@ related:
 - strengths_based_approach
 - emerstrat
 books:
-- title: 出現する未来
-  author: P・センゲ／C・O・シャーマー ほか
-  year: 2006
-  publisher: 講談社
+- ref: 出現する未来
 created_at: '2026-05-14T07:22:52.296Z'
 last_modified_at: '2026-05-14T07:22:52.295Z'
 desc: 参加者が創造的な「ジェネラティブな状態」に入り、過去の問題解決から未来の可能性を創出することを目指す変革手法。意識と無意識の協調を促し、新しい現実を生成する。

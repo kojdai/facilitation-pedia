@@ -18,11 +18,8 @@ related:
 - inquiry_based_learning
 - montmethod
 books:
-- title: 心はどのように構成されるか
-  author: ジャン・ピアジェ
-  year: 2007
-  lang: ja
-  reason: 認知的構成主義の創始者ピアジェによる認識論の主著の日本語訳
+- ref: 心はどのように構成されるか
+  note: 認知的構成主義の創始者ピアジェによる認識論の主著の日本語訳
 sources:
 - 久保田賢一『構成主義パラダイムと学習環境デザイン』(関西大学出版部)
 - ヴィゴツキー『思考と言語』(新読書社)

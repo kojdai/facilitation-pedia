@@ -14,10 +14,7 @@ related:
 - distributed_leadership
 - self_organizing_facilitation
 books:
-- title: リーダーシップとニューサイエンス
-  author: マーガレット・J・ウィートリー
-  year: 2009
-  publisher: 英治出版
+- ref: リーダーシップとニューサイエンス
 created_at: '2026-05-07T20:23:15.753Z'
 last_modified_at: '2026-05-07T20:23:15.752Z'
 desc: 複雑適応系としての組織を捉え、予測不能な環境下でのリーダーシップと組織開発のあり方を探る。秩序とカオスが共存する状況での創発的な変化を促す。

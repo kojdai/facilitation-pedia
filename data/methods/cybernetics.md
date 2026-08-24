@@ -15,10 +15,7 @@ related:
 - feedback_loops
 - second_order_cybernetics
 books:
-- title: 精神の生態学へ
-  author: グレゴリー・ベイトソン
-  year: 2023
-  publisher: 岩波書店
+- ref: 精神の生態学へ
 created_at: '2026-05-15T18:23:24.071Z'
 last_modified_at: '2026-05-15T18:23:24.071Z'
 desc: システムの制御、通信、フィードバックループを研究する古典的理論。特に第2次サイバネティクスは、観察者とシステムの相互作用に焦点を当て、ファシリテーターの自己認識と場への介入を深く理解する基盤となる。

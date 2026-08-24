@@ -16,10 +16,7 @@ related:
 - polyvagal_theory
 - gestalt_facilitation
 books:
-- title: 身体はトラウマを記録する
-  author: ベッセル・ヴァン・デア・コーク
-  year: 2016
-  publisher: 紀伊國屋書店
+- ref: 身体はトラウマを記録する
 created_at: '2026-05-02T16:22:30.824Z'
 last_modified_at: '2026-05-02T16:22:30.823Z'
 desc: 身体感覚や非言語的側面を重視し、参加者の全体的な存在を通して深い洞察や協働を促す手法。グループの集合的な知性を高める。

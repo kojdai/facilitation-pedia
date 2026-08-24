@@ -16,10 +16,7 @@ related:
 - empathy_mapping
 - systemic_design
 books:
-- title: クリエイティブ・マインドセット
-  author: トム・ケリー／デイヴィッド・ケリー
-  year: 2014
-  publisher: 日経BP社
+- ref: クリエイティブ・マインドセット
 sources:
 - ティム・ブラウン『デザイン思考が世界を変える』(千葉敏生 訳, 早川書房)
 created_at: '2026-04-30T11:22:27.648Z'

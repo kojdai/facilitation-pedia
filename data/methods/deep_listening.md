@@ -16,14 +16,8 @@ related:
 - person_centered
 - isaacs_dialogue
 books:
-- title: U理論
-  author: C・オットー・シャーマー
-  year: 2010
-  publisher: 英治出版
-- title: NVC 人と人との関係にいのちを吹き込む法
-  author: マーシャル・B・ローゼンバーグ
-  year: 2018
-  publisher: 日本経済新聞出版社
+- ref: U理論
+- ref: NVC 人と人との関係にいのちを吹き込む法
 created_at: '2026-05-08T07:22:41.516Z'
 last_modified_at: '2026-05-08T07:22:41.514Z'
 desc: 相手の言葉の裏にある感情や意図、沈黙に耳を傾け、判断を保留し、共感的に深く理解しようとするファシリテーションの基礎技術。深い信頼と安全な場を育む。

@@ -15,11 +15,8 @@ related:
 - nineevt
 - formative_assessment_facil
 books:
-- title: 研修設計マニュアル
-  author: 中村文子, ボブ・パイク
-  year: 2018
-  lang: ja
-  reason: バックワードデザインを含む日本語の研修設計の実践的ガイド
+- ref: 研修設計マニュアル
+  note: バックワードデザインを含む日本語の研修設計の実践的ガイド
 created_at: '2026-05-09T10:22:54.733Z'
 last_modified_at: '2026-05-09T10:22:54.732Z'
 desc: 最終的な学習目標や成果から逆算し、評価と学習活動を設計する手法。ファシリテーションでは、セッションの目的達成と効果的なプロセス構築に不可欠。

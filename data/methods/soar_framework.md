@@ -14,10 +14,7 @@ related:
 - asset_based_community_development
 - soar
 books:
-- title: AI「最高の瞬間」を引き出す組織開発
-  author: クーパーライダー／ウィットニー
-  year: 2006
-  publisher: PHP研究所
+- ref: AI「最高の瞬間」を引き出す組織開発
 created_at: '2026-05-09T22:22:34.412Z'
 last_modified_at: '2026-05-09T22:22:34.412Z'
 desc: 組織の強み(Strengths)、機会(Opportunities)、願望(Aspirations)、結果(Results)に焦点を当て、ポジティブな未来を共同で構築する戦略的計画と組織開発の手法。

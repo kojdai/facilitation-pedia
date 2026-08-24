@@ -15,10 +15,7 @@ related:
 - systems_psychodynamics
 - group_dynamics
 books:
-- title: 集団の経験 ビオンの精神分析的集団論
-  author: W・R・ビオン
-  publisher: 金剛出版
-  year: 2016
+- ref: 集団の経験 ビオンの精神分析的集団論
 created_at: '2026-05-07T23:22:49.486Z'
 last_modified_at: '2026-05-07T23:22:49.486Z'
 desc: W.R. ビオンが提唱した集団の無意識的な仮定と基本的な行動パターンに関する理論。ファシリテーションにおいて、集団の力動を深く理解する視点を提供する。

@@ -15,10 +15,7 @@ related:
 - soft_systems_methodology
 - collective_intelligence
 books:
-- title: 世界はシステムで動く
-  author: ドネラ・H・メドウズ
-  year: 2015
-  publisher: 英治出版
+- ref: 世界はシステムで動く
 created_at: '2026-05-18T03:23:04.643Z'
 last_modified_at: '2026-05-18T03:23:04.642Z'
 desc: 複雑な問題やシステムの相互関係をグループで視覚的にマッピングし、共有された理解と行動への洞察を深める手法。

@@ -16,10 +16,7 @@ related:
 - applied_improvisation
 - embodied_facilitation
 books:
-- title: 戦略を形にする思考術 レゴ®シリアスプレイ®で組織はよみがえる
-  author: ロバート・ラスムセン
-  publisher: 徳間書店
-  year: 2016
+- ref: 戦略を形にする思考術 レゴ®シリアスプレイ®で組織はよみがえる
 created_at: '2026-04-29T23:44:57.845Z'
 last_modified_at: '2026-04-30T23:57:40.080Z'
 desc: レゴブロックで模型を作り、それを語ることで思考を外化する協働手法。「手で考える」ことで、言葉だけでは出てこない暗黙知やメタファーを引き出し、全員が等しく発言・参加する場をつくる。

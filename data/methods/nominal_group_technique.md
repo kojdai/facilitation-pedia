@@ -15,11 +15,8 @@ related:
 - consensus_workshop
 - collective_intelligence
 books:
-- title: ファシリテーション入門
-  author: 堀公俊
-  year: 2004
-  lang: ja
-  reason: NGTを含む集団意思決定手法を日本語で解説した実践的入門書
+- ref: ファシリテーション入門
+  note: NGTを含む集団意思決定手法を日本語で解説した実践的入門書
 created_at: '2026-05-03T04:26:09.056Z'
 last_modified_at: '2026-05-03T04:26:09.056Z'
 desc: アイデア生成と意思決定のための構造化されたグループファシリテーション手法。参加者が個々にアイデアを出し、共有し、議論なしに投票することで、多様な意見を効率的に集約します。

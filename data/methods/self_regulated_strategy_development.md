@@ -15,11 +15,8 @@ related:
 - backward_design
 - cognitive_coaching
 books:
-- title: 自己調整学習の理論
-  author: Barry Zimmerman, Dale Schunk (編)
-  year: 2009
-  lang: ja
-  reason: 自己調整学習の理論的多様性を概観した論文集。SRSDの理論的文脈を深く理解できる。
+- ref: 自己調整学習の理論
+  note: 自己調整学習の理論的多様性を概観した論文集。SRSDの理論的文脈を深く理解できる。
 created_at: '2026-05-19T03:23:10.802Z'
 last_modified_at: '2026-05-19T03:23:10.801Z'
 desc: 学習者が課題解決や学習プロセスにおいて、自らの認知・行動・動機づけを効果的に管理するための具体的な方略を開発し、自己調整能力を高めるための指導・ファシリテーション手法。

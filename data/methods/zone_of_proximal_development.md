@@ -17,15 +17,9 @@ related:
 - cognitive_apprenticeship
 - dst
 books:
-- title: 思考と言語
-  author: レフ・ヴィゴツキー
-  year: 2001
-  lang: ja
-  reason: ZPDの提唱者ヴィゴツキーによる主要著作の日本語版
-- title: 文化的-歴史的精神発達の理論
-  author: L・S・ヴィゴツキー
-  year: 2005
-  publisher: 学文社
+- ref: 思考と言語
+  note: ZPDの提唱者ヴィゴツキーによる主要著作の日本語版
+- ref: 文化的-歴史的精神発達の理論
 created_at: '2026-05-11T00:22:55.132Z'
 last_modified_at: '2026-05-11T00:22:55.109Z'
 desc: 学習者が一人では解決できないが、他者の援助があれば解決できる発達段階を指す。ファシリテーションにおいて、適切な足場かけ（scaffolding）を通じて学習者の成長を促す基盤となる理論。

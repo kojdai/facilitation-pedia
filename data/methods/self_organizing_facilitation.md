@@ -15,18 +15,9 @@ related:
 - libstr
 - self_organizing_systems_design
 books:
-- title: リーダーシップとニューサイエンス
-  author: マーガレット・J・ウィートリー
-  year: 2009
-  publisher: 英治出版
-- title: ティール組織
-  author: フレデリック・ラルー
-  year: 2018
-  publisher: 英治出版
-- title: オープン・スペース・テクノロジー
-  author: ハリソン・オーエン
-  year: 2007
-  publisher: ヒューマンバリュー
+- ref: リーダーシップとニューサイエンス
+- ref: ティール組織
+- ref: オープン・スペース・テクノロジー
 created_at: '2026-05-13T23:23:11.074Z'
 last_modified_at: '2026-05-13T23:23:11.073Z'
 desc: 意図的に構造を最小限に抑え、グループの自律的な繋がりと創発的な行動を促すファシリテーション手法。複雑系科学の原理に基づく。

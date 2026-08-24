@@ -15,15 +15,9 @@ related:
 - narrative_practice
 - frame_analysis
 books:
-- title: 組織とアイデンティティ
-  author: カール・ワイク
-  year: 1997
-  lang: ja
-  reason: センスメイキング理論の核心を組織行動の実例で解説
-- title: センスメーキング イン オーガニゼーションズ
-  author: カール・E・ワイク
-  year: 2001
-  publisher: 文眞堂
+- ref: 組織とアイデンティティ
+  note: センスメイキング理論の核心を組織行動の実例で解説
+- ref: センスメーキング イン オーガニゼーションズ
 created_at: '2026-05-01T21:22:35.938Z'
 last_modified_at: '2026-05-01T21:22:35.938Z'
 desc: 人々が経験や情報に意味を与え、不確実な状況下で行動を導くプロセス。組織が変化に適応し、集団的な理解を構築するための対話と解釈を促進する。

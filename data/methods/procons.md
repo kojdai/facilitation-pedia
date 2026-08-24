@@ -19,14 +19,8 @@ related:
 - tuckman_stages
 - gestalt_facilitation
 books:
-- title: プロセス・コンサルテーション
-  author: エドガー・H・シャイン
-  year: 2002
-  publisher: 白桃書房
-- title: 謙虚なコンサルティング
-  author: エドガー・H・シャイン
-  year: 2017
-  publisher: 英治出版
+- ref: プロセス・コンサルテーション
+- ref: 謙虚なコンサルティング
 sources:
 - エドガー・H・シャイン『プロセス・コンサルテーション — その理論と実際』（稲葉元吉・尾川丈一訳, 白桃書房）
 created_at: '2026-04-29T23:44:57.845Z'

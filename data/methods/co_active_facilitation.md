@@ -15,11 +15,8 @@ related:
 - relational_depth
 - self_directed_learning_facilitation
 books:
-- title: コーチング・バイブル
-  author: ロラ・ウィットワース他
-  year: 2003
-  lang: ja
-  reason: コアクティブコーチングの理論と実践の日本語版・ファシリテーションへの応用基盤
+- ref: コーチング・バイブル
+  note: コアクティブコーチングの理論と実践の日本語版・ファシリテーションへの応用基盤
 created_at: '2026-05-08T15:22:40.721Z'
 last_modified_at: '2026-05-08T15:22:40.721Z'
 desc: 参加者の全人的な可能性を信じ、好奇心、傾聴、直感を活用して、自己決定と共同創造を促進するファシリテーション手法。コーチングの原則をグループに応用する。

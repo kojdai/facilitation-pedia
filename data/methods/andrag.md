@@ -19,10 +19,7 @@ related:
 - translrn
 - adult_development_theory
 books:
-- title: 成人教育の現代的実践 ペダゴジーからアンドラゴジーへ
-  author: マルカム・ノールズ
-  year: 2002
-  publisher: 鳳書房
+- ref: 成人教育の現代的実践 ペダゴジーからアンドラゴジーへ
 sources:
 - マルカム・ノールズ『成人教育の現代的実践 — ペダゴジーからアンドラゴジーへ』
 created_at: '2026-04-29T23:44:57.845Z'

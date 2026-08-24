@@ -15,11 +15,8 @@ related:
 - communities_of_practice
 - project_based_learning
 books:
-- title: 協同学習入門
-  author: ロバート・ジョンソン, デービッド・ジョンソン
-  year: 2010
-  lang: ja
-  reason: ジグソー法を含む協同学習の理論と実践の日本語入門書
+- ref: 協同学習入門
+  note: ジグソー法を含む協同学習の理論と実践の日本語入門書
 created_at: '2026-05-10T21:22:48.449Z'
 last_modified_at: '2026-05-10T21:22:48.448Z'
 desc: 学習者がグループ内で専門家となり、他のグループメンバーに教え合うことで協調学習を促進する教育・ファシリテーション手法。相互依存と深い理解を育む。

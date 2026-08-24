@@ -15,10 +15,7 @@ related:
 - nudge_theory
 - persuasion
 books:
-- title: 影響力の武器
-  author: ロバート・B・チャルディーニ
-  year: 2014
-  publisher: 誠信書房
+- ref: 影響力の武器
 created_at: '2026-05-19T00:23:03.228Z'
 last_modified_at: '2026-05-19T00:23:03.214Z'
 desc: 個人の既存の信念や態度が、新しい情報や他者の意見をどのように知覚・評価し、受容・拒否に影響するかを説明する理論。グループ内の意見形成やコンセンサス形成を理解する上で重要。

@@ -19,10 +19,7 @@ related:
 - circle_way
 - real_time_strategic_change
 books:
-- title: オープン・スペース・テクノロジー
-  author: ハリソン・オーエン
-  year: 2007
-  publisher: ヒューマンバリュー
+- ref: オープン・スペース・テクノロジー
 sources:
 - ハリソン・オーエン『オープン・スペース・テクノロジー — 5人から1000人が輪になって考えるファシリテーション』
 created_at: '2026-04-29T23:44:57.845Z'

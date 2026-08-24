@@ -12,10 +12,7 @@ related:
 - collective_intelligence_design
 - deliberative_polling
 books:
-- title: PLURALITY 対立を創造に変える、協働テクノロジーと民主主義の未来
-  author: オードリー・タン、E・グレン・ワイル
-  publisher: サイボウズ式ブックス
-  year: 2025
+- ref: PLURALITY 対立を創造に変える、協働テクノロジーと民主主義の未来
 sources:
 - オードリー・タン, E・グレン・ワイル『PLURALITY 対立を創造に変える、協働テクノロジーと民主主義の未来』山形浩生訳, 鈴木健解説, サイボウズ式ブックス, 2025
 - Plurality 日本語版オンライン全文 https://plurality.net/ja/read/

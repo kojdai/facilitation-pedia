@@ -15,11 +15,8 @@ related:
 - self_as_instrument
 - interpersonal_neurobiology
 books:
-- title: EQ こころの知能指数
-  author: ダニエル・ゴールマン
-  year: 1996
-  lang: ja
-  reason: 感情知性を世界に広めたゴールマンの古典的ベストセラー
+- ref: EQ こころの知能指数
+  note: 感情知性を世界に広めたゴールマンの古典的ベストセラー
 created_at: '2026-05-14T03:22:42.752Z'
 last_modified_at: '2026-05-14T03:22:42.730Z'
 desc: 自己と他者の感情を認識し、理解し、管理する能力。ファシリテーションにおいて、グループの感情的な雰囲気や対人関係を効果的に扱うための基盤となる。

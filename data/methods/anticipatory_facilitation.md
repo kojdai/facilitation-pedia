@@ -15,10 +15,7 @@ related:
 - participatory_futures
 - transition_design
 books:
-- title: U理論
-  author: C・オットー・シャーマー
-  year: 2010
-  publisher: 英治出版
+- ref: U理論
 created_at: '2026-05-14T19:22:50.972Z'
 last_modified_at: '2026-05-14T19:22:50.972Z'
 desc: 未来の不確実性に対応するため、組織やグループが将来の可能性を予見し、適応戦略を共創するプロセスを導く手法。

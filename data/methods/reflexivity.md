@@ -15,15 +15,9 @@ related:
 - action_science
 - thick_description
 books:
-- title: 社会学的反省
-  author: ピエール・ブルデュー
-  year: 2007
-  lang: ja
-  reason: 再帰性の概念の学術的基盤・ブルデューの社会学者の社会学の日本語版
-- title: 省察的実践とは何か
-  author: ドナルド・A・ショーン
-  year: 2007
-  publisher: 鳳書房
+- ref: 社会学的反省
+  note: 再帰性の概念の学術的基盤・ブルデューの社会学者の社会学の日本語版
+- ref: 省察的実践とは何か
 created_at: '2026-05-10T20:22:43.921Z'
 last_modified_at: '2026-05-10T20:22:43.920Z'
 desc: 自身の視点、価値観、行動がファシリテーションプロセスに与える影響を批判的に検討し、意識的に管理する実践。客観性を保ち、参加者との関係性を深める上で不可欠な姿勢。

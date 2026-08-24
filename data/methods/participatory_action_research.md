@@ -15,11 +15,8 @@ related:
 - community_of_inquiry
 - thick_description
 books:
-- title: アクション・リサーチ入門
-  author: 小河智佳子
-  year: 2015
-  lang: ja
-  reason: 参加型アクションリサーチの理論と日本での実践を解説した入門書
+- ref: アクション・リサーチ入門
+  note: 参加型アクションリサーチの理論と日本での実践を解説した入門書
 created_at: '2026-05-05T07:22:40.478Z'
 last_modified_at: '2026-05-05T07:22:40.478Z'
 desc: コミュニティや組織のメンバーが研究プロセスに主体的に関わり、知識を共同で生成し、変革を実践する協働的なアプローチ。

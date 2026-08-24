@@ -16,11 +16,8 @@ related:
 - connectivism
 - transactive_memory_systems
 books:
-- title: 知識創造企業
-  author: 野中郁次郎, 竹内弘高
-  year: 1995
-  lang: ja
-  reason: SECIモデルの原典。暗黙知と形式知の相互変換プロセスを体系化した組織知識論の必読書。
+- ref: 知識創造企業
+  note: SECIモデルの原典。暗黙知と形式知の相互変換プロセスを体系化した組織知識論の必読書。
 sources:
 - 野中郁次郎・竹内弘高『知識創造企業』(東洋経済新報社)
 - 野中郁次郎・竹内弘高『ワイズカンパニー』(東洋経済新報社)

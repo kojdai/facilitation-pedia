@@ -15,11 +15,8 @@ related:
 - cmm
 - hermeneutic_facilitation
 books:
-- title: 間主観性の哲学
-  author: デイビッド・モワルダ
-  year: 2020
-  lang: ja
-  reason: 間主観性の哲学的概念を現代的に解説した日本語の入門書
+- ref: 間主観性の哲学
+  note: 間主観性の哲学的概念を現代的に解説した日本語の入門書
 created_at: '2026-05-18T09:23:11.964Z'
 last_modified_at: '2026-05-18T09:23:11.955Z'
 desc: 共有された理解や意味形成のプロセスに焦点を当てる理論。ファシリテーターは参加者間の相互作用を促進し、集合的な知の創出を支援する。

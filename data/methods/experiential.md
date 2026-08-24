@@ -16,20 +16,11 @@ related:
 - transformative
 - reflection
 books:
-- title: 経験から学ぶ力
-  author: デービッド・コルブ
-  year: 2023
-  lang: ja
-  reason: 経験学習サイクルの提唱者による理論の集大成
-- title: 経験学習リーダーシップ
-  author: 松尾睦
-  year: 2011
-  lang: ja
-  reason: コルブ理論を日本の職場に応用した実践的研究
-- title: 経験からの学習
-  author: 松尾睦
-  year: 2006
-  publisher: 同文舘出版
+- ref: 経験から学ぶ力
+  note: 経験学習サイクルの提唱者による理論の集大成
+- ref: 経験学習リーダーシップ
+  note: コルブ理論を日本の職場に応用した実践的研究
+- ref: 経験からの学習
 created_at: '2026-04-30T07:30:30.335Z'
 last_modified_at: '2026-04-30T23:58:13.366Z'
 desc: 経験→省察→概念化→実践の4段階の学習サイクル。

@@ -15,11 +15,8 @@ related:
 - social_cognitive_theory
 - attachment_theory
 books:
-- title: 他者の心を読む
-  author: ニコラス・エプリー
-  year: 2014
-  lang: ja
-  reason: 他者の心を理解しようとする際の心理的プロセスと誤りを実証的に論じる
+- ref: 他者の心を読む
+  note: 他者の心を理解しようとする際の心理的プロセスと誤りを実証的に論じる
 created_at: '2026-05-13T22:22:52.662Z'
 last_modified_at: '2026-05-13T22:22:52.657Z'
 desc: 他者の信念、意図、感情などを推測し理解する認知能力に関する理論。ファシリテーションにおいて、共感、多様な視点の統合、対話の質向上に不可欠な基盤となる。

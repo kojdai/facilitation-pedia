@@ -19,14 +19,8 @@ related:
 - cmm
 - dialogical_inquiry
 books:
-- title: 対話型組織開発 その理論的系譜と実践
-  author: ジャルヴァース・R・ブッシュ／ロバート・J・マーシャク
-  year: 2018
-  publisher: 英治出版
-- title: あなたへの社会構成主義
-  author: ケネス・J・ガーゲン
-  year: 2004
-  publisher: ナカニシヤ出版
+- ref: 対話型組織開発 その理論的系譜と実践
+- ref: あなたへの社会構成主義
 sources:
 - ジャーヴェス・ブッシュ／ロバート・マーシャク 編『対話型組織開発 — その理論的系譜と実践』(中村和彦 監訳, 英治出版)
 created_at: '2026-05-04T03:22:33.620Z'

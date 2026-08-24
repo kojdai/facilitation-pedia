@@ -15,11 +15,8 @@ related:
 - somatic_facilitation
 - applied_improvisation
 books:
-- title: 合気道と対話
-  author: テリー・ドブソン
-  year: 2002
-  lang: ja
-  reason: 合気道の原則を対話・ファシリテーションに応用した日本語の実践書
+- ref: 合気道と対話
+  note: 合気道の原則を対話・ファシリテーションに応用した日本語の実践書
 created_at: '2026-05-18T01:23:04.467Z'
 last_modified_at: '2026-05-18T01:23:04.450Z'
 desc: 合気道の原則をファシリテーションに応用。衝突を避け調和を促す。グループ内の抵抗をエネルギーとして受け入れ、流れを変えることで、協調的な対話と合意形成を支援する。

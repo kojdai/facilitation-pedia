@@ -18,15 +18,9 @@ related:
 - narrative_practice
 - appreciative_inquiry_summit
 books:
-- title: 現実の社会的構成
-  author: ピーター・バーガー, トーマス・ルックマン
-  year: 2003
-  lang: ja
-  reason: 社会構成主義の社会学的源流・現代社会学の必読古典
-- title: あなたへの社会構成主義
-  author: ケネス・J・ガーゲン
-  year: 2004
-  publisher: ナカニシヤ出版
+- ref: 現実の社会的構成
+  note: 社会構成主義の社会学的源流・現代社会学の必読古典
+- ref: あなたへの社会構成主義
 created_at: '2026-05-05T00:23:04.991Z'
 last_modified_at: '2026-05-05T00:23:04.990Z'
 desc: 参加者が対話を通じて現実、知識、意味を共に構築するという理論。合意形成や多様な視点の統合を促すファシリテーションの基盤。

@@ -15,11 +15,8 @@ related:
 - metacognition
 - self_as_instrument
 books:
-- title: 省察的実践とは何か
-  author: ドナルド・ショーン
-  year: 2007
-  lang: ja
-  reason: 実践の省察という概念を体系化した古典。IPRの省察的枠組みと深く共鳴
+- ref: 省察的実践とは何か
+  note: 実践の省察という概念を体系化した古典。IPRの省察的枠組みと深く共鳴
 created_at: '2026-05-17T00:22:39.348Z'
 last_modified_at: '2026-05-17T00:22:39.347Z'
 desc: 参加者の相互作用を録画し、ファシリテーターがその映像を見ながら、参加者の思考、感情、意図を探索する手法。自己認識と対人理解を深めます。

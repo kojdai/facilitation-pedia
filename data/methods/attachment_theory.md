@@ -15,11 +15,8 @@ related:
 - psychological_safety
 - co_regulation
 books:
-- title: 母と子のアタッチメント
-  author: ジョン・ボウルビィ
-  year: 1998
-  lang: ja
-  reason: アタッチメント理論の創始者ボウルビィによる主要著作の日本語訳
+- ref: 母と子のアタッチメント
+  note: アタッチメント理論の創始者ボウルビィによる主要著作の日本語訳
 created_at: '2026-05-08T16:22:40.925Z'
 last_modified_at: '2026-05-08T16:22:40.925Z'
 desc: 個人間の関係性やグループ内の相互作用における愛着スタイルを理解し、安全な関係構築と対話の促進に役立つ心理学理論。

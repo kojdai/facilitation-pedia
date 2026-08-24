@@ -15,11 +15,8 @@ related:
 - deliberative_rhetoric
 - collective_intelligence
 books:
-- title: 熟議民主主義ハンドブック
-  author: ジェームズ・フィッシュキン
-  year: 2011
-  lang: ja
-  reason: 熟議民主主義の実践理論を提唱するフィッシュキンによる主要著作
+- ref: 熟議民主主義ハンドブック
+  note: 熟議民主主義の実践理論を提唱するフィッシュキンによる主要著作
 created_at: '2026-05-07T21:22:50.450Z'
 last_modified_at: '2026-05-07T21:22:50.438Z'
 desc: 市民が多様な視点から論理的な議論と熟考を通じて公共の意思決定に参加する民主主義の形態。対話と情報共有を重視し、より良い合意形成と集団的知性の創出を目指す。

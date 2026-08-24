@@ -15,14 +15,8 @@ related:
 - mental_models
 - soft_systems_methodology
 books:
-- title: 学習する組織
-  author: ピーター・M・センゲ
-  year: 2011
-  publisher: 英治出版
-- title: 社会変革のためのシステム思考実践ガイド
-  author: デイヴィッド・ピーター・ストロー
-  year: 2018
-  publisher: 英治出版
+- ref: 学習する組織
+- ref: 社会変革のためのシステム思考実践ガイド
 created_at: '2026-05-15T10:23:01.523Z'
 last_modified_at: '2026-05-15T10:23:01.521Z'
 desc: 問題を表層的な出来事だけでなく、パターン、構造、メンタルモデルといった深層の原因まで掘り下げて探求するシステム思考のフレームワーク。

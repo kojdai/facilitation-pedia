@@ -15,11 +15,8 @@ related:
 - embodied_cognition
 - learning_ecosystems_design
 books:
-- title: 「学ぶ力」を育てる
-  author: ハワード・ガードナー
-  year: 1999
-  lang: ja
-  reason: MIを含むガードナーの教育論の日本語版。多様な知性への包括的視点
+- ref: 「学ぶ力」を育てる
+  note: MIを含むガードナーの教育論の日本語版。多様な知性への包括的視点
 created_at: '2026-05-16T19:22:49.308Z'
 last_modified_at: '2026-05-16T19:22:49.307Z'
 desc: 人間の知能を言語、論理数学、空間、身体運動、音楽、対人、内省、博物など多面的に捉える理論。ファシリテーターは多様な知能に合わせた活動を設計し、参加者のエンゲージメントと学習効果を高めることができる。

@@ -15,11 +15,8 @@ related:
 - grow_model
 - psychological_capital
 books:
-- title: 目標による管理
-  author: ピーター・ドラッカー
-  year: 2001
-  lang: ja
-  reason: MBOの原点。目標設定がいかに動機と成果を左右するかの古典的論考
+- ref: 目標による管理
+  note: MBOの原点。目標設定がいかに動機と成果を左右するかの古典的論考
 created_at: '2026-05-13T14:22:58.360Z'
 last_modified_at: '2026-05-13T14:22:58.360Z'
 desc: 明確で挑戦的な目標がパフォーマンス向上に繋がるという理論。ファシリテーションにおいて、参加者のコミットメントと行動を促す上で重要。

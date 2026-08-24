@@ -1,0 +1,16 @@
+# 手法の別名 → 正式な id。
+#
+# 記事を書くときに「アプリシエイティブ・インクワイアリー」を `ai` と書いてしまう、
+# といったことは避けられない。人を責めるより、別名を受け止めて機械が正式な id へ
+# 寄せるほうが早い。ここに1行足せば、その書き方も通るようになる。
+#
+# 載せてよいのは「参照先の名前に、その別名が明示的に含まれている」場合だけ。
+# 一般語（coaching / leadership など）を特定の手法へ寄せると、書き手の意図と違う
+# 手法に繋がってしまうので載せない。そういうものは「まだ書かれていない手法」として扱う。
+
+ai: appinq                              # アプリシエイティブ・インクワイアリー (AI)
+reflective_practice: reflection         # 省察的実践 (Reflective Practice)
+kj_method: affinity_diagram             # 親和図法（KJ法）
+second_order_cybernetics: cybernetics   # サイバネティクス（第2次サイバネティクスを含む）
+soar: soar_framework                    # SOARフレームワーク
+knowledge_creation: seci_model          # SECIモデル（知識創造プロセス）

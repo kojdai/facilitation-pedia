@@ -15,11 +15,8 @@ related:
 - phenomenological_facilitation
 - circle_of_trust
 books:
-- title: マインドフルネスストレス低減法
-  author: ジョン・カバット・ジン
-  year: 2007
-  lang: ja
-  reason: コンテンプラティブ実践の世俗的応用の出発点であるMBSRの創始者による著作
+- ref: マインドフルネスストレス低減法
+  note: コンテンプラティブ実践の世俗的応用の出発点であるMBSRの創始者による著作
 created_at: '2026-05-18T17:23:00.705Z'
 last_modified_at: '2026-05-18T17:23:00.704Z'
 desc: 参加者の内省と気づきを促し、深い洞察と集合的知恵を引き出すファシリテーション。静寂、マインドフルネス、熟考を通じて、より本質的な対話と学びを深めます。

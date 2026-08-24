@@ -15,10 +15,7 @@ related:
 - psychological_safety
 - belbin_team_roles
 books:
-- title: あなたのチームは、機能してますか?
-  author: パトリック・レンシオーニ
-  year: 2003
-  publisher: 翔泳社
+- ref: あなたのチームは、機能してますか
 created_at: '2026-05-14T06:22:33.647Z'
 last_modified_at: '2026-05-14T06:22:33.593Z'
 desc: 形成期、混乱期、統一期、機能期、散会期という5つの段階を通じてグループが発達するという古典的な理論。ファシリテーションの基礎。

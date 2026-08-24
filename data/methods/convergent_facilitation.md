@@ -15,10 +15,7 @@ related:
 - dynamic_facilitation
 - deliberative_dialogue
 books:
-- title: NVC 人と人との関係にいのちを吹き込む法
-  author: マーシャル・B・ローゼンバーグ
-  year: 2018
-  publisher: 日本経済新聞出版社
+- ref: NVC 人と人との関係にいのちを吹き込む法
 created_at: '2026-05-23T02:22:34.024Z'
 last_modified_at: '2026-05-23T02:22:34.011Z'
 desc: 多様な視点を尊重しつつ、グループが複雑な課題に対し、合意形成と具体的な解決策を導き出すための構造化されたファシリテーション手法。

@@ -15,11 +15,8 @@ related:
 - transtheoretical_model
 - game_theory
 books:
-- title: 行動変容の科学
-  author: ダン・アリエリー
-  year: 2008
-  lang: ja
-  reason: 行動経済学の知見を意思決定と行動変容に応用した実践的入門書
+- ref: 行動変容の科学
+  note: 行動経済学の知見を意思決定と行動変容に応用した実践的入門書
 created_at: '2026-05-13T13:22:52.551Z'
 last_modified_at: '2026-05-13T13:22:52.544Z'
 desc: 行動経済学に基づき、選択の自由を奪わずに望ましい行動を促す「そっと後押し（ナッジ）」を設計する理論。ファシリテーションにおける環境設計に応用される。

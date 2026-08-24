@@ -15,11 +15,8 @@ related:
 - storytelling_facilitation
 - adult_development_theory
 books:
-- title: 千の顔をもつ英雄
-  author: ジョセフ・キャンベル
-  year: 2004
-  lang: ja
-  reason: ヒーローズジャーニーの提唱者キャンベルによる原典の日本語訳
+- ref: 千の顔をもつ英雄
+  note: ヒーローズジャーニーの提唱者キャンベルによる原典の日本語訳
 created_at: '2026-05-10T08:22:36.669Z'
 last_modified_at: '2026-05-10T08:22:36.660Z'
 desc: 神話学者ジョゼフ・キャンベルが提唱した、普遍的な物語の構造モデル。個人や組織の変容プロセスを理解し、対話し、新たな物語を創造するためのファシリテーションに応用される。

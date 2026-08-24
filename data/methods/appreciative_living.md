@@ -15,11 +15,8 @@ related:
 - growth_mindset
 - positive_deviance
 books:
-- title: 幸福の習慣
-  author: トム・ラス＆ジム・ハーター
-  year: 2011
-  lang: ja
-  reason: ポジティブ心理学に基づくウェルビーイングの5要素と実践方法
+- ref: 幸福の習慣
+  note: ポジティブ心理学に基づくウェルビーイングの5要素と実践方法
 created_at: '2026-05-15T04:22:55.577Z'
 last_modified_at: '2026-05-15T04:22:55.576Z'
 desc: 個人や組織が強み、成功、可能性に焦点を当て、ポジティブな変化と成長を促進する、アプリシエイティブ・インクワイアリーに基づく実践的アプローチ。

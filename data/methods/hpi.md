@@ -19,16 +19,8 @@ related:
 - nineevt
 - systems_thinking
 books:
-- title: 研修開発入門「研修転移」の理論と実践
-  author: 中原淳 編著
-  publisher: ダイヤモンド社
-  year: 2018
-  level: 入門
-- title: 人材開発研究大全
-  author: 中原淳 編
-  publisher: 東京大学出版会
-  year: 2017
-  level: 上級
+- ref: 研修開発入門「研修転移」の理論と実践
+- ref: 人材開発研究大全
 sources:
 - 中原淳 編『人材開発研究大全』東京大学出版会
 desc: 成果の不足を「研修＝知識技能の不足」に短絡させず、環境・情報・道具・誘因まで含めて原因を分析し、研修に限らない解を設計する人材開発の診断的パラダイム。HPT（人間パフォーマンス工学）を理論基盤とする。

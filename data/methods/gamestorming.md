@@ -14,10 +14,7 @@ related:
 - lateral_thinking
 - serious_games_facilitation
 books:
-- title: ゲームストーミング
-  author: デイブ・グレイ／サニー・ブラウン／ジェームス・マカヌフォ
-  year: 2011
-  publisher: オライリー・ジャパン
+- ref: ゲームストーミング
 created_at: '2026-05-11T22:22:48.773Z'
 last_modified_at: '2026-05-11T22:22:48.772Z'
 desc: ゲームやワークショップを通じて、チームのコラボレーション、アイデア創出、問題解決を促進する、実践的なファシリテーション手法。創造的対話を重視する。

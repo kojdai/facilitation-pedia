@@ -15,11 +15,8 @@ related:
 - deliberative_dialogue
 - cultural_intelligence
 books:
-- title: 異文化理解力
-  author: エリン・メイヤー
-  year: 2015
-  lang: ja
-  reason: 異なる文化的背景を持つ人々の相互理解を促す実践的フレームワーク
+- ref: 異文化理解力
+  note: 異なる文化的背景を持つ人々の相互理解を促す実践的フレームワーク
 created_at: '2026-05-14T05:22:47.941Z'
 last_modified_at: '2026-05-14T05:22:47.939Z'
 desc: 適切な条件下での集団間の接触が偏見を減らし、関係を改善するメカニズムを説明する理論。多様性、包摂、対話促進に不可欠。

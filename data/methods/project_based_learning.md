@@ -15,11 +15,8 @@ related:
 - case_method
 - cooperative_learning
 books:
-- title: 探究する学び
-  author: 藤原さと
-  year: 2020
-  lang: ja
-  reason: 日本のPBL・探究学習の実践を豊富な事例で解説した入門書
+- ref: 探究する学び
+  note: 日本のPBL・探究学習の実践を豊富な事例で解説した入門書
 created_at: '2026-05-16T16:22:51.621Z'
 last_modified_at: '2026-05-16T16:22:51.621Z'
 desc: 実際の課題解決プロジェクトを通じて、学習者が知識を統合し、スキルを習得する協調的な学習手法。実践と探究を重視する。

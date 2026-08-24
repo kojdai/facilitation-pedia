@@ -15,11 +15,8 @@ related:
 - participatory_action_research
 - after_action_review
 books:
-- title: 参加型評価入門
-  author: 源由理子編
-  year: 2010
-  lang: ja
-  reason: 日本での参加型評価の理論と実践を事例豊富に解説した入門書
+- ref: 参加型評価入門
+  note: 日本での参加型評価の理論と実践を事例豊富に解説した入門書
 created_at: '2026-05-16T11:23:05.983Z'
 last_modified_at: '2026-05-16T11:23:05.980Z'
 desc: 参加者が評価の企画、実施、分析、学習プロセスに主体的に関わることで、組織やコミュニティの学習と能力向上を促進するファシリテーション手法。評価を通じてエンパワーメントと継続的な改善を促す。

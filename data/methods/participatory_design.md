@@ -15,11 +15,8 @@ related:
 - equity_centered_design
 - user_centered
 books:
-- title: ブレインストーミングの秘密
-  author: トム・ケリー
-  year: 2002
-  lang: ja
-  reason: 参加型デザインの実践を含むIDEOのデザイン思考の実践書
+- ref: ブレインストーミングの秘密
+  note: 参加型デザインの実践を含むIDEOのデザイン思考の実践書
 created_at: '2026-05-05T17:22:54.249Z'
 last_modified_at: '2026-05-05T17:22:54.249Z'
 desc: ユーザーやステークホルダーがデザインプロセスに積極的に参加し、共創を通じて問題解決や製品・サービスの開発を行う手法。

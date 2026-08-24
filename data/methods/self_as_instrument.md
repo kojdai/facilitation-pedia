@@ -15,10 +15,7 @@ related:
 - action_inquiry
 - gestalt_facilitation
 books:
-- title: 出現する未来
-  author: P・センゲ／C・O・シャーマー ほか
-  year: 2006
-  publisher: 講談社
+- ref: 出現する未来
 created_at: '2026-05-14T17:23:46.796Z'
 last_modified_at: '2026-05-14T17:23:46.796Z'
 desc: 促進者が自身の感情、思考、身体感覚、存在そのものをグループのダイナミクスを理解し、介入するための主要な「道具」として意識的に活用するアプローチ。

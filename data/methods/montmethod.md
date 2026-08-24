@@ -15,11 +15,8 @@ related:
 - translrn
 - selfauthorship
 books:
-- title: モンテッソーリ教育を受けた子どもたち
-  author: アンジェリン・リリアード
-  year: 2017
-  lang: ja
-  reason: モンテッソーリメソッドの科学的検証・研究エビデンスの包括的レビュー
+- ref: モンテッソーリ教育を受けた子どもたち
+  note: モンテッソーリメソッドの科学的検証・研究エビデンスの包括的レビュー
 created_at: '2026-04-30T14:42:44.245Z'
 last_modified_at: '2026-04-30T23:59:09.685Z'
 desc: 「子どもには自ら成長する力がある」という哲学に基づく教育法。準備された環境（Prepared Environment）、敏感期（Sensitive Periods）、教具による具体から抽象への学び、混合年齢クラス、教師の観察役割を特徴とする。自己主導学習・人間性教育の現代的源流。

@@ -20,10 +20,7 @@ related:
 - immunity_to_change
 - kegan_cdm
 books:
-- title: ティール組織
-  author: フレデリック・ラルー
-  year: 2018
-  publisher: 英治出版
+- ref: ティール組織
 sources:
 - フレデリック・ラルー『ティール組織 — マネジメントの常識を覆す次世代型組織の出現』(2014)
 created_at: '2026-04-29T23:44:57.845Z'

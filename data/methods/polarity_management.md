@@ -14,11 +14,8 @@ related:
 - dialectical_method
 - constructive_controversy
 books:
-- title: 両極端の解決策はどちらも正しい
-  author: バリー・ジョンソン
-  year: 2020
-  lang: ja
-  reason: 極性管理の日本語入門書として読みやすい解説版
+- ref: 両極端の解決策はどちらも正しい
+  note: 極性管理の日本語入門書として読みやすい解説版
 created_at: '2026-05-01T01:22:32.920Z'
 last_modified_at: '2026-05-01T01:22:32.901Z'
 desc: 解決すべき問題ではなく、継続的に管理すべき二律背反（ポラリティ）を識別し、両極のメリットを最大化するフレームワーク。組織の持続的な成長と変革を支援します。

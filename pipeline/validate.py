@@ -103,7 +103,7 @@ def check_records(subdir, id_field, required, problems):
                 str(path), f"`status: {st}` は使えない値です。",
                 f"使えるのは {' / '.join(sorted(STATUSES))} のいずれかです。"
                 "監修が済んでいないものは Draft のままにしてください。"))
-        if not (body or "").strip():
+        if not (body or "").strip() and subdir != "books":
             problems.append(Problem(str(path), "本文が空です。",
                                     "情報欄を閉じる `---` の下に、解説の本文を書きます。"))
         records[rid] = front
@@ -113,12 +113,13 @@ def check_records(subdir, id_field, required, problems):
 def main():
     problems = []
     methods = check_records("methods", "id", ["ja", "desc"], problems)
+    books = check_records("books", "id", ["title"], problems)
     people = check_records("people", "id", ["name"], problems)
     concepts = load_yaml("concepts.yaml", problems) or []
     disciplines = load_yaml("disciplines.yaml", problems) or []
     for name in ("relations.yaml", "concept-lineage.yaml", "discipline-lineage.yaml",
                  "facilitation.yaml", "roadmap.yaml", "institutions.yaml",
-                 "books.yaml", "merges.yaml", "meta.yaml"):
+                 "merges.yaml", "meta.yaml"):
         load_yaml(name, problems)
 
     concept_ids = {c.get("id") for c in concepts if isinstance(c, dict)}
@@ -133,6 +134,18 @@ def main():
                     path, f"`people` に書かれた `{pid}` という人物が見つかりません。",
                     f"data/people/ に {pid}.md があるか確認してください。"
                     "人物ページを先に作るか、綴りを直します。"))
+        for ref in (m.get("books") or []):
+            if not isinstance(ref, dict):
+                problems.append(Problem(
+                    path, "`books` の書き方が古い形式です。",
+                    "いまは `- ref: 書名` の形で書籍レコードを参照します。"
+                    "その手法にとっての意味は `note:` に書けます。"))
+                continue
+            if ref.get("ref") not in books:
+                problems.append(Problem(
+                    path, f"`books` が参照している「{ref.get('ref')}」という書籍が見つかりません。",
+                    f"data/books/ に該当のファイルがあるか確認してください。"
+                    "新しい本なら、先に書籍レコードを作ります。"))
         cid = m.get("concept")
         if cid and cid not in concept_ids:
             problems.append(Problem(
@@ -158,7 +171,7 @@ def main():
                 f"概念 `{c.get('id')}` の代表手法 `{a}` が見つかりません。",
                 f"data/methods/{a}.md を作るか、別の手法を指してください。"))
 
-    print(f"検査しました： 手法 {len(methods)} / 人物 {len(people)} / "
+    print(f"検査しました： 手法 {len(methods)} / 人物 {len(people)} / 書籍 {len(books)} / "
           f"中核概念 {len(concept_ids)} / 源流 {len(disc_ids)}")
     if not problems:
         print("\n✅ 問題は見つかりませんでした。")

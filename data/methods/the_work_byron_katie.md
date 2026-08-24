@@ -15,11 +15,8 @@ related:
 - shadow_work_facilitation
 - reflection
 books:
-- title: 愛することと知ること
-  author: バイロン・ケイティ
-  year: 2009
-  lang: ja
-  reason: ザ・ワークの提唱者ケイティによる主要著作の日本語訳
+- ref: 愛することと知ること
+  note: ザ・ワークの提唱者ケイティによる主要著作の日本語訳
 created_at: '2026-05-04T18:22:43.596Z'
 last_modified_at: '2026-05-04T18:22:43.596Z'
 desc: 思考を質問し、逆転させることで、ストレスの原因となる信念を探求し、解放するための自己探求メソッド。グループでの対話や対立解消にも有効。

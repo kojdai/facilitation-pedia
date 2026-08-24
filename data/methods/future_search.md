@@ -16,11 +16,8 @@ related:
 - real_time_strategic_change
 - scenario_planning
 books:
-- title: 大規模組織変革の実践
-  author: マービン・ワイズボード
-  year: 2005
-  lang: ja
-  reason: フューチャーサーチを含む大規模参加型手法の日本語解説
+- ref: 大規模組織変革の実践
+  note: フューチャーサーチを含む大規模参加型手法の日本語解説
 created_at: '2026-05-01T00:22:28.341Z'
 last_modified_at: '2026-05-01T00:22:28.341Z'
 desc: 多様なステークホルダーが参加し、過去の共有、現在の課題、未来の共通ビジョンを構築し、具体的な行動計画を策定する大規模グループ介入手法。

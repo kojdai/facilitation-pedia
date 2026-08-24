@@ -15,11 +15,8 @@ related:
 - collective_intelligence
 - diamond_decision_making
 books:
-- title: ファシリテーターの道具箱
-  author: 森時彦
-  year: 2008
-  lang: ja
-  reason: 意思決定ファシリテーションのツールと手法を日本語で解説した実践書
+- ref: ファシリテーターの道具箱
+  note: 意思決定ファシリテーションのツールと手法を日本語で解説した実践書
 created_at: '2026-05-17T20:22:49.122Z'
 last_modified_at: '2026-05-17T20:22:49.119Z'
 desc: 複雑な意思決定課題に対し、ファシリテーターが分析モデルや意思決定支援システムを活用し、参加者の合意形成を支援する構造化されたアプローチ。

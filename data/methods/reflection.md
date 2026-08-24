@@ -15,10 +15,7 @@ related:
 - action_science
 - transformative
 books:
-- title: 省察的実践とは何か
-  author: ドナルド・A・ショーン
-  year: 2007
-  publisher: 鳳書房
+- ref: 省察的実践とは何か
 created_at: '2026-04-30T07:31:22.473Z'
 last_modified_at: '2026-04-30T23:58:27.751Z'
 desc: 「行為の最中の省察」と「行為の後の省察」を通じて、専門家が不確実な状況に対応するプロセス。

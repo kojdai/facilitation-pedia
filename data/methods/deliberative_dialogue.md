@@ -15,11 +15,8 @@ related:
 - fishbowl_conversation
 - constructive_controversy
 books:
-- title: 熟議民主主義ハンドブック
-  author: ジョン・S・ドライゼク他編
-  year: 2019
-  lang: ja
-  reason: 熟議民主主義の理論と実践を網羅した日本語の包括的参考書
+- ref: 熟議民主主義ハンドブック
+  note: 熟議民主主義の理論と実践を網羅した日本語の包括的参考書
 created_at: '2026-05-13T16:22:51.684Z'
 last_modified_at: '2026-05-13T16:22:51.681Z'
 desc: 複雑な公共問題に対し、多様な視点から情報を共有し、深く議論することで、熟慮された合意形成を目指す構造化された対話手法。

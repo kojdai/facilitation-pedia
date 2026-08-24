@@ -17,16 +17,8 @@ related:
 - hpi
 - performance_consulting
 books:
-- title: 入門 組織開発 — 活き活きと働ける職場をつくる
-  author: 中村和彦
-  publisher: 光文社新書
-  year: 2015
-  level: 入門
-- title: 組織開発の探究 — 理論に学び、実践に生かす
-  author: 中原淳・中村和彦
-  publisher: ダイヤモンド社
-  year: 2018
-  level: 中級
+- ref: 入門 組織開発 — 活き活きと働ける職場をつくる
+- ref: 組織開発の探究 — 理論に学び、実践に生かす
 sources:
 - 中村和彦『入門 組織開発』光文社新書
 - 中原淳・中村和彦『組織開発の探究』ダイヤモンド社

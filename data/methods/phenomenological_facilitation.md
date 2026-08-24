@@ -15,11 +15,8 @@ related:
 - deep_listening
 - contemplative_facilitation
 books:
-- title: 現象学の理念
-  author: エドムント・フッサール
-  year: 1997
-  lang: ja
-  reason: 現象学的ファシリテーションの哲学的基盤・フッサールによる現象学の原典日本語版
+- ref: 現象学の理念
+  note: 現象学的ファシリテーションの哲学的基盤・フッサールによる現象学の原典日本語版
 created_at: '2026-05-10T00:22:41.608Z'
 last_modified_at: '2026-05-10T00:22:41.606Z'
 desc: 参加者の主観的な経験や知覚に深く耳を傾け、判断を保留し、現象そのものに意識を向けるファシリテーションのアプローチ。本質的な理解と気づきを促す。

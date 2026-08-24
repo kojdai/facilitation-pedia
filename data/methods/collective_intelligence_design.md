@@ -15,10 +15,7 @@ related:
 - distributed_cognition
 - wisdom_council_process
 books:
-- title: 「みんなの意見」は案外正しい
-  author: ジェームズ・スロウィッキー
-  year: 2006
-  publisher: 角川書店
+- ref: 「みんなの意見」は案外正しい
 created_at: '2026-05-12T13:22:54.302Z'
 last_modified_at: '2026-05-12T13:22:54.301Z'
 desc: 集合知を効果的に引き出すためのプロセス、ツール、環境を設計する手法。多様な参加者の知識と洞察を結集し、複雑な問題解決や革新的なアイデア創出を促進します。

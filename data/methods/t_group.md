@@ -19,11 +19,7 @@ related:
 - group_relations
 - psychological_safety
 books:
-- title: 人間関係の学び方 人間性豊かな関係を育む「ラボラトリー方式の体験学習」の理論と実践
-  author: 津村俊充
-  publisher: ナカニシヤ出版
-  year: 2019
-  essential: true
+- ref: 人間関係の学び方 人間性豊かな関係を育む「ラボラトリー方式の体験学習」の理論と実践
 sources:
 - 津村俊充『プロセス・エデュケーション — 学びと変容のための対話』(金子書房)
 - 南山大学人間関係研究センター 紀要『人間関係研究』

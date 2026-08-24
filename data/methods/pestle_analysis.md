@@ -15,11 +15,8 @@ related:
 - strategic_planning
 - three_horizons
 books:
-- title: 戦略サファリ
-  author: Henry Mintzberg, Bruce Ahlstrand, Joseph Lampel
-  year: 1998
-  lang: ja
-  reason: 多様な戦略論を批判的に概観した名著。PESTLEの位置づけと限界を理解するための広い視野を提供する。
+- ref: 戦略サファリ
+  note: 多様な戦略論を批判的に概観した名著。PESTLEの位置づけと限界を理解するための広い視野を提供する。
 created_at: '2026-05-20T11:22:56.385Z'
 last_modified_at: '2026-05-20T11:22:56.384Z'
 desc: 政治、経済、社会、技術、法律、環境の6つの外部要因から事業環境を分析する戦略策定フレームワーク。組織の機会と脅威を特定し、意思決定を支援します。

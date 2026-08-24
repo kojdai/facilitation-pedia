@@ -15,16 +15,10 @@ related:
 - positive_deviance
 - asset_based_community_development
 books:
-- title: 解決志向の実践マニュアル
-  author: スティーブ・ド・シェイザー, インスー・キム・バーグ
-  year: 2014
-  lang: ja
-  reason: SFBTの創始者たちによる実践的なガイドブック
-- title: コーチング・バイブル（第4版）
-  author: ヘンリー・キムジーハウスほか
-  year: 2020
-  lang: ja
-  reason: 解決志向の問いかけを含む包括的なコーチングの実践書
+- ref: 解決志向の実践マニュアル
+  note: SFBTの創始者たちによる実践的なガイドブック
+- ref: コーチング・バイブル（第4版）
+  note: 解決志向の問いかけを含む包括的なコーチングの実践書
 created_at: '2026-05-01T07:22:32.681Z'
 last_modified_at: '2026-05-01T07:22:32.674Z'
 desc: 問題分析よりも解決策の構築に焦点を当て、参加者の強みやリソースを引き出し、望ましい未来に向けた具体的な行動を促す協働的な対話手法。

@@ -16,11 +16,8 @@ related:
 - gestalt_cycle_of_experience
 - somatic_facilitation
 books:
-- title: ゲシュタルト療法
-  author: フレデリック・パールズ
-  year: 1990
-  lang: ja
-  reason: ゲシュタルトファシリテーションの源流となるパールズの主要著作
+- ref: ゲシュタルト療法
+  note: ゲシュタルトファシリテーションの源流となるパールズの主要著作
 created_at: '2026-05-01T02:22:32.053Z'
 last_modified_at: '2026-05-01T02:22:32.053Z'
 desc: 参加者の「今ここ」の気づきと責任に焦点を当て、対話やグループプロセスにおける未完了な状況や力動を探求し、統合を促す手法。

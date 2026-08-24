@@ -16,11 +16,8 @@ related:
 - problem_based_learning
 - after_action_review
 books:
-- title: アクション・ラーニング入門
-  author: マイケル・J・マルクワート
-  year: 2010
-  lang: ja
-  reason: アクションラーニングの理論と実践の優れた日本語入門書
+- ref: アクション・ラーニング入門
+  note: アクションラーニングの理論と実践の優れた日本語入門書
 created_at: '2026-05-01T11:22:31.557Z'
 last_modified_at: '2026-05-01T11:22:31.557Z'
 desc: 実際の経営課題や組織課題を少人数のグループで討議し、行動を通じて学びを深める手法。実践と内省を繰り返すことで、個人と組織の成長を促します。

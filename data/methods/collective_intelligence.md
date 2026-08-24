@@ -16,10 +16,7 @@ related:
 - wisdom_council_process
 - knowledge_building
 books:
-- title: 「みんなの意見」は案外正しい
-  author: ジェームズ・スロウィッキー
-  year: 2006
-  publisher: 角川書店
+- ref: 「みんなの意見」は案外正しい
 created_at: '2026-05-02T10:22:35.651Z'
 last_modified_at: '2026-05-02T10:22:35.649Z'
 desc: 複数の個人の知識、意見、洞察を統合し、集合的な知恵やより良い意思決定を生み出すプロセスと理論。ファシリテーションの重要な目標の一つ。

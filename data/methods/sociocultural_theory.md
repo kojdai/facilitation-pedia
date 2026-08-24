@@ -17,15 +17,9 @@ related:
 - lvygotsky
 - cultural_historical_activity_theory
 books:
-- title: 文化的-歴史的精神発達の理論
-  author: L・S・ヴィゴツキー
-  year: 2005
-  publisher: 学文社
-- title: 思想と言語
-  author: レフ・ヴィゴツキー
-  year: 1934
-  lang: ja
-  reason: 社会文化的理論の哲学的基盤を示すヴィゴツキーの主著日本語訳。言語・思考・社会的相互作用の関係を深く探求した必読書。
+- ref: 文化的-歴史的精神発達の理論
+- ref: 思想と言語
+  note: 社会文化的理論の哲学的基盤を示すヴィゴツキーの主著日本語訳。言語・思考・社会的相互作用の関係を深く探求した必読書。
 created_at: '2026-05-23T00:22:56.755Z'
 last_modified_at: '2026-05-23T00:22:56.751Z'
 desc: Vygotskyが提唱。学習は社会的相互作用と文化的な文脈の中で行われると捉え、言語や文化的ツールが認知発達を媒介する役割を強調する。

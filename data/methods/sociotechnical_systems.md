@@ -14,11 +14,8 @@ related:
 - participatory_design
 - human_systems_dynamics
 books:
-- title: 技術革新と組織
-  author: エリック・トリスト
-  year: 1993
-  lang: ja
-  reason: STSの提唱者トリストによる組織変革と技術革新の関係を論じた著作
+- ref: 技術革新と組織
+  note: STSの提唱者トリストによる組織変革と技術革新の関係を論じた著作
 created_at: '2026-05-02T14:22:34.184Z'
 last_modified_at: '2026-05-02T14:22:34.184Z'
 desc: 組織の社会的側面と技術的側面を統合し、両者の最適化を目指す古典的な組織開発アプローチ。参加型設計を重視し、仕事の質と生産性向上を図る。

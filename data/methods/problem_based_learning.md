@@ -15,11 +15,8 @@ related:
 - community_of_inquiry
 - case_method
 books:
-- title: 問題解決学習（PBL）入門
-  author: デービッド・ブラウド
-  year: 2012
-  lang: ja
-  reason: PBLの理論と実践を包括的に解説した教育学の定番書
+- ref: 問題解決学習（PBL）入門
+  note: PBLの理論と実践を包括的に解説した教育学の定番書
 created_at: '2026-05-03T14:22:35.943Z'
 last_modified_at: '2026-05-03T14:22:35.943Z'
 desc: 現実世界の複雑な問題をグループで解決する過程を通じて、知識習得、批判的思考、協調性を促進する学習手法。ファシリテーターが学習プロセスを支援。

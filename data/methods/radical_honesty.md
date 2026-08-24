@@ -15,10 +15,7 @@ related:
 - deep_listening
 - nvc
 books:
-- title: NVC 人と人との関係にいのちを吹き込む法
-  author: マーシャル・B・ローゼンバーグ
-  year: 2018
-  publisher: 日本経済新聞出版社
+- ref: NVC 人と人との関係にいのちを吹き込む法
 created_at: '2026-05-20T06:22:40.460Z'
 last_modified_at: '2026-05-20T06:22:40.440Z'
 desc: 隠れた思考や感情を正直に表現することで、個人やグループの深いコミュニケーションと関係性の変革を促すファシリテーション手法。

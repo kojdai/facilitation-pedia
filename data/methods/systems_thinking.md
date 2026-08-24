@@ -15,14 +15,8 @@ related:
 - theory_u
 - wcafe
 books:
-- title: 学習する組織
-  author: ピーター・M・センゲ
-  year: 2011
-  publisher: 英治出版
-- title: 世界はシステムで動く
-  author: ドネラ・H・メドウズ
-  year: 2015
-  publisher: 英治出版
+- ref: 学習する組織
+- ref: 世界はシステムで動く
 sources:
 - ドネラ・H・メドウズ『世界はシステムで動く』（小田理一郎ほか訳, 英治出版）
 - ピーター・M・センゲ『学習する組織』

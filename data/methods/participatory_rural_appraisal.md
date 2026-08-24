@@ -15,11 +15,8 @@ related:
 - co_creation_facilitation
 - collective_impact
 books:
-- title: 参加型開発の罠
-  author: サラ・コーンウォール他
-  year: 2003
-  lang: ja
-  reason: 参加型手法への批判的検討。形式的参加の問題を深く分析した重要文献
+- ref: 参加型開発の罠
+  note: 参加型手法への批判的検討。形式的参加の問題を深く分析した重要文献
 created_at: '2026-05-16T15:22:45.014Z'
 last_modified_at: '2026-05-16T15:22:45.014Z'
 desc: 地域住民が自らの状況を分析し、計画を立て、行動するための参加型手法の集合体。現地の知識や資源を尊重し、コミュニティ主導の変革を促進する。

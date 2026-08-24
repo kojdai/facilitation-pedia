@@ -14,11 +14,8 @@ related:
 - scenario_planning
 - backcasting
 books:
-- title: 競争の戦略
-  author: マイケル・ポーター
-  year: 1982
-  lang: ja
-  reason: SWOT分析の外部環境分析（5フォース）を補完するポーターの古典
+- ref: 競争の戦略
+  note: SWOT分析の外部環境分析（5フォース）を補完するポーターの古典
 created_at: '2026-05-14T00:22:51.738Z'
 last_modified_at: '2026-05-14T00:22:51.737Z'
 desc: 組織やプロジェクトの現状を、強み (Strengths)、弱み (Weaknesses)、機会 (Opportunities)、脅威 (Threats) の4つの視点から分析する戦略立案フレームワーク。グループでの議論を促進し、包括的な状況理解と意思決定を支援します。

@@ -10,11 +10,8 @@ disciplines:
 - org_dev
 - systems
 books:
-- title: 組織のイメージ
-  author: ギャレス・モーガン
-  year: 2006
-  lang: ja
-  reason: Images of Organizationの日本語訳。日本語で読める最も信頼性の高いモーガンの組織メタファー解説書。
+- ref: 組織のイメージ
+  note: Images of Organizationの日本語訳。日本語で読める最も信頼性の高いモーガンの組織メタファー解説書。
 created_at: '2026-05-22T01:22:44.745Z'
 last_modified_at: '2026-05-22T01:22:44.744Z'
 desc: 組織を機械、有機体、脳、文化、政治システムなど複数のメタファーで捉え、複雑な組織現象を理解し、効果的な介入を設計するための理論的枠組み。

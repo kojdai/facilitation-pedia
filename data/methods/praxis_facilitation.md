@@ -15,10 +15,7 @@ related:
 - participatory_action_research
 - decolonizing_facilitation
 books:
-- title: 被抑圧者の教育学
-  author: パウロ・フレイレ
-  year: 2011
-  publisher: 亜紀書房
+- ref: 被抑圧者の教育学
 created_at: '2026-05-22T12:22:55.846Z'
 last_modified_at: '2026-05-22T12:22:55.844Z'
 desc: 経験と理論を往還し、現実を批判的に考察し、変革のための行動を計画・実行する対話的プロセスを促進する手法。

@@ -16,11 +16,8 @@ related:
 - inquiry_based_learning
 - self_regulated_learning
 books:
-- title: 自己決定学習のすすめ
-  author: マルコム・ノールズ
-  year: 2013
-  lang: ja
-  reason: SDLの理論と実践を日本語で学べる入門書
+- ref: 自己決定学習のすすめ
+  note: SDLの理論と実践を日本語で学べる入門書
 created_at: '2026-05-08T05:22:37.477Z'
 last_modified_at: '2026-05-08T05:22:37.469Z'
 desc: 学習者が自身の学習目標設定、リソース探索、学習計画、評価を自律的に行うプロセスを支援するファシリテーション手法。内発的動機付けと自己効力感を高める。

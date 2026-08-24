@@ -15,11 +15,8 @@ related:
 - transactive_memory_systems
 - collective_intelligence
 books:
-- title: 視覚化思考
-  author: ダン・ローム
-  year: 2009
-  lang: ja
-  reason: 認知を外部化し視覚化することで集団思考を豊かにする実践的テキスト
+- ref: 視覚化思考
+  note: 認知を外部化し視覚化することで集団思考を豊かにする実践的テキスト
 created_at: '2026-05-13T00:22:41.065Z'
 last_modified_at: '2026-05-13T00:22:41.065Z'
 desc: 認知が個人、ツール、環境に分散される様を説明する理論。集団での知識共有、問題解決、学習の促進に深い洞察を与える。

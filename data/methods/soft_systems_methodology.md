@@ -17,15 +17,9 @@ related:
 - causal_layered_analysis
 - viable_system_model
 books:
-- title: ソフトシステムズ方法論
-  author: ピーター・チェックランド
-  year: 2000
-  lang: ja
-  reason: SSMの提唱者チェックランドによる理論と実践の原典の日本語版
-- title: 世界はシステムで動く
-  author: ドネラ・H・メドウズ
-  year: 2015
-  publisher: 英治出版
+- ref: ソフトシステムズ方法論
+  note: SSMの提唱者チェックランドによる理論と実践の原典の日本語版
+- ref: 世界はシステムで動く
 created_at: '2026-05-10T22:22:43.272Z'
 last_modified_at: '2026-05-10T22:22:43.271Z'
 desc: 複雑な状況や問題解決において、関係者の多様な視点や世界観を尊重し、対話を通じて学習と意味ある変革を促進するシステム思考アプローチ。

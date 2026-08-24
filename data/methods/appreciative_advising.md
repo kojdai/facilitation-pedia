@@ -15,10 +15,7 @@ related:
 - solution_focused
 - appreciative_living
 books:
-- title: AI「最高の瞬間」を引き出す組織開発
-  author: クーパーライダー／ウィットニー
-  year: 2006
-  publisher: PHP研究所
+- ref: AI「最高の瞬間」を引き出す組織開発
 created_at: '2026-05-19T23:22:56.368Z'
 last_modified_at: '2026-05-19T23:22:56.366Z'
 desc: ポジティブな問いかけを通じて、個人の強み、夢、可能性を引き出し、目標達成を支援するアドバイジング手法。教育やキャリア開発に適用される。

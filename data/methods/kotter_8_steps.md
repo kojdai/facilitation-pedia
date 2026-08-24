@@ -14,11 +14,8 @@ related:
 - force_field_analysis
 - diffusion_innovations
 books:
-- title: 企業変革力
-  author: ジョン・コッター
-  year: 2002
-  lang: ja
-  reason: Leading Changeの日本語訳。コッターの変革理論を日本語で読める最も信頼性の高い参考書。
+- ref: 企業変革力
+  note: Leading Changeの日本語訳。コッターの変革理論を日本語で読める最も信頼性の高い参考書。
 created_at: '2026-05-19T10:22:39.029Z'
 last_modified_at: '2026-05-19T10:22:39.028Z'
 desc: 組織変革を成功に導くための8段階モデル。緊急性確立、推進チーム構築、ビジョン策定・伝達、障害除去、短期成果、変革強化、新アプローチ定着を重視。ファシリテーションが各段階で不可欠。

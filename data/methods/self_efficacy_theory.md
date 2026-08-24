@@ -15,15 +15,9 @@ related:
 - scaffolding
 - goal_setting_theory
 books:
-- title: 激動社会の中の自己効力
-  author: アルバート・バンデューラ 編
-  year: 1997
-  publisher: 金子書房
-- title: やり抜く力（GRIT）
-  author: アンジェラ・ダックワース
-  year: 2016
-  lang: ja
-  reason: 自己効力感と関連する「やり抜く力」の研究と実践への応用
+- ref: 激動社会の中の自己効力
+- ref: やり抜く力（GRIT）
+  note: 自己効力感と関連する「やり抜く力」の研究と実践への応用
 created_at: '2026-05-17T10:22:57.207Z'
 last_modified_at: '2026-05-17T10:22:57.206Z'
 desc: 個人が特定の課題を成功させる能力への信念を扱う理論。学習、モチベーション、行動変容に深く影響し、ファシリテーションで参加者の自信と実践を促す重要な基盤となる。

@@ -15,11 +15,8 @@ related:
 - affinity_diagram
 - dialogue_mapping
 books:
-- title: グラフィックレコーディング
-  author: 清水淳子
-  year: 2019
-  lang: ja
-  reason: 日本語で学べるグラフィックレコーディングの実践入門書
+- ref: グラフィックレコーディング
+  note: 日本語で学べるグラフィックレコーディングの実践入門書
 created_at: '2026-05-02T13:26:04.694Z'
 last_modified_at: '2026-05-02T13:26:04.693Z'
 desc: 会議やワークショップで視覚的な要素（図、絵、文字）をリアルタイムで活用し、参加者の理解、記憶、共創を促進する手法。

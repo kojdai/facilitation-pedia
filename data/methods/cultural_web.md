@@ -14,11 +14,8 @@ related:
 - cultural_web
 - sensemaking
 books:
-- title: 企業文化とは何か
-  author: エドガー・シャイン
-  year: 1989
-  lang: ja
-  reason: 組織文化の三層モデルの提唱者による基本書
+- ref: 企業文化とは何か
+  note: 組織文化の三層モデルの提唱者による基本書
 created_at: '2026-05-15T12:22:58.673Z'
 last_modified_at: '2026-05-15T12:22:58.672Z'
 desc: 組織文化を構成する要素（物語、儀式、シンボル等）を視覚的にマッピングし、戦略との整合性や変革の方向性を探るフレームワーク。

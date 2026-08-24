@@ -15,11 +15,8 @@ related:
 - trauma_informed_facilitation
 - psychological_safety
 books:
-- title: 感情調節ハンドブック
-  author: 坂本真士他編
-  year: 2012
-  lang: ja
-  reason: 感情調節の科学と共同調整の臨床的・教育的応用を解説した日本語の専門書
+- ref: 感情調節ハンドブック
+  note: 感情調節の科学と共同調整の臨床的・教育的応用を解説した日本語の専門書
 created_at: '2026-05-16T18:22:36.497Z'
 last_modified_at: '2026-05-16T18:22:36.496Z'
 desc: 参加者間の感情的・生理的状態の相互作用を理解し、安全で生産的な場を創出するためのファシリテーション手法。レジリエンスとエンゲージメントを促進する。

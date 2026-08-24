@@ -15,11 +15,8 @@ related:
 - problem_based_learning
 - developmental_facilitation
 books:
-- title: わかりやすさの罪
-  author: 武田砂鉄
-  year: 2019
-  lang: ja
-  reason: 理解の難しさと深さの関係を問い直す日本語エッセイ。閾値概念への補助的視点
+- ref: わかりやすさの罪
+  note: 理解の難しさと深さの関係を問い直す日本語エッセイ。閾値概念への補助的視点
 created_at: '2026-05-17T02:22:33.898Z'
 last_modified_at: '2026-05-17T02:22:33.897Z'
 desc: 学習者が特定の概念を習得することで、その分野の理解が不可逆的に変容する「閾（いき）概念」に焦点を当てる。深い学習と視点転換を促すファシリテーションに応用される。

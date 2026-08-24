@@ -15,11 +15,8 @@ related:
 - cognitive_coaching
 - motivational_interviewing
 books:
-- title: コーチング・フォー・パフォーマンス（第4版）
-  author: ジョン・ウィットモア
-  year: 2017
-  lang: ja
-  reason: GROWモデルの提唱者ウィットモアによる原典の日本語訳最新版
+- ref: コーチング・フォー・パフォーマンス（第4版）
+  note: GROWモデルの提唱者ウィットモアによる原典の日本語訳最新版
 created_at: '2026-05-14T13:22:39.983Z'
 last_modified_at: '2026-05-14T13:22:39.982Z'
 desc: 目標(Goal)、現状(Reality)、選択肢(Options)、意思(Will/Way Forward)の4段階で課題解決や目標達成を支援するコーチングフレームワーク。グループの対話を構造化し、具体的な行動計画へと導く。

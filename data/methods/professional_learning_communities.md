@@ -15,10 +15,7 @@ related:
 - peer_coaching
 - learning_ecosystems_design
 books:
-- title: プロフェッショナル・ラーニング・コミュニティによる学校再生
-  author: 千々布敏弥
-  publisher: 教育出版
-  year: 2014
+- ref: プロフェッショナル・ラーニング・コミュニティによる学校再生
 created_at: '2026-05-22T17:23:10.948Z'
 last_modified_at: '2026-05-22T17:23:10.947Z'
 desc: 教師や専門家が協働し、実践を改善し、学習成果を高めるための継続的な対話と探求の構造化されたグループ学習手法。教育現場で広く用いられる。

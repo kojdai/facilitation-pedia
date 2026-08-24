@@ -15,11 +15,8 @@ related:
 - dialectical_method
 - six_thinking_hats
 books:
-- title: 協同学習入門
-  author: ロバート・ジョンソン, デービッド・ジョンソン
-  year: 2010
-  lang: ja
-  reason: 建設的論争を含む協同学習の包括的入門書
+- ref: 協同学習入門
+  note: 建設的論争を含む協同学習の包括的入門書
 created_at: '2026-05-05T04:22:38.488Z'
 last_modified_at: '2026-05-05T04:22:38.486Z'
 desc: 意図的に異なる視点や意見を持つグループを対立させ、深い議論と相互理解を通じて、より質の高い意思決定や創造的な問題解決を促進する協調学習・ファシリテーション手法。

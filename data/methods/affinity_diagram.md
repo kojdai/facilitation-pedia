@@ -15,15 +15,9 @@ related:
 - collective_intelligence
 - visual_facilitation
 books:
-- title: 発想法
-  author: 川喜田二郎
-  year: 1967
-  lang: ja
-  reason: アフィニティ図（KJ法）の原典・提唱者川喜田による思考法の解説書
-- title: ゲームストーミング
-  author: デイブ・グレイ／サニー・ブラウン／ジェームス・マカヌフォ
-  year: 2011
-  publisher: オライリー・ジャパン
+- ref: 発想法
+  note: アフィニティ図（KJ法）の原典・提唱者川喜田による思考法の解説書
+- ref: ゲームストーミング
 created_at: '2026-05-11T19:22:48.363Z'
 last_modified_at: '2026-05-11T19:22:48.362Z'
 desc: バラバラなアイデアや意見をグルーピングし、構造化することで、本質的なテーマや問題を発見するためのファシリテーション手法。集合知を可視化する。

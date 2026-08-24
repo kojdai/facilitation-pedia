@@ -15,11 +15,8 @@ related:
 - theory_of_constraints
 - affinity_diagram
 books:
-- title: トヨタ生産方式
-  author: 大野耐一
-  year: 1978
-  lang: ja
-  reason: 5Whyと原因分析を実践に組み込んだカイゼン哲学の原典
+- ref: トヨタ生産方式
+  note: 5Whyと原因分析を実践に組み込んだカイゼン哲学の原典
 created_at: '2026-05-16T22:22:41.639Z'
 last_modified_at: '2026-05-16T22:22:41.619Z'
 desc: 特定の「結果」に対して考えられる「原因」を体系的に洗い出し、視覚的に整理するための古典的な問題解決ツール。グループでのブレーンストーミングを促進する。

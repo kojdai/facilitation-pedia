@@ -23,10 +23,7 @@ related:
 - immunity_to_change
 - developmental_facilitation
 books:
-- title: なぜ人と組織は変われないのか
-  author: ロバート・キーガン
-  year: 2013
-  publisher: 英治出版
+- ref: なぜ人と組織は変われないのか
 sources:
 - ロバート・キーガン／リサ・ラスコウ・レイヒー『なぜ人と組織は変われないのか』(英治出版)
 - 加藤洋平『なぜ部下とうまくいかないのか — 「自他変革」の発達心理学』(日本能率協会マネジメントセンター)

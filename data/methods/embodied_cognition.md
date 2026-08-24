@@ -15,10 +15,7 @@ related:
 - constraint_based_approach
 - affordance_theory
 books:
-- title: 身体化された心 仏教思想からのエナクティブ・アプローチ
-  author: F・ヴァレラ／E・トンプソン／E・ロッシュ
-  publisher: 工作舎
-  year: 2001
+- ref: 身体化された心 仏教思想からのエナクティブ・アプローチ
 created_at: '2026-05-20T23:22:57.260Z'
 last_modified_at: '2026-05-20T23:22:57.259Z'
 desc: 心と体が不可分であり、思考や学習が身体的な経験、感覚、環境との相互作用によって形成されるという理論。ファシリテーションにおいて、参加者の身体性を活用し、より深い理解と行動変容を促す。

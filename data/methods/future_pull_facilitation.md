@@ -14,10 +14,7 @@ related:
 - theoryu
 - appreciative_inquiry_summit
 books:
-- title: U理論
-  author: C・オットー・シャーマー
-  year: 2010
-  publisher: 英治出版
+- ref: U理論
 created_at: '2026-05-16T17:22:29.765Z'
 last_modified_at: '2026-05-16T17:22:29.764Z'
 desc: 望ましい未来を明確に描き、そこから逆算して現在取るべき行動を導き出すことで、組織や個人の変革を促進する手法。参加者の内発的動機付けを重視する。

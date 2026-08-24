@@ -15,10 +15,7 @@ related:
 - systems_psychodynamics
 - group_dynamics
 books:
-- title: 集団の経験 ビオンの精神分析的集団論
-  author: W・R・ビオン
-  publisher: 金剛出版
-  year: 2016
+- ref: 集団の経験 ビオンの精神分析的集団論
 created_at: '2026-05-03T10:22:31.310Z'
 last_modified_at: '2026-05-03T10:22:31.307Z'
 desc: 集団の無意識的プロセス、権威、境界に焦点を当て、組織やリーダーシップのダイナミクスを体験的に探求する、タヴィストック発祥の理論と実践。

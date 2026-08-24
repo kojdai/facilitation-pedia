@@ -15,11 +15,8 @@ related:
 - dialogue_mapping
 - issue_based_info_system
 books:
-- title: 論理的思考力を鍛える33の思考実験
-  author: 北村良子
-  year: 2014
-  lang: ja
-  reason: 論証と論理的思考をワークショップ的に学べる日本語の実践書
+- ref: 論理的思考力を鍛える33の思考実験
+  note: 論証と論理的思考をワークショップ的に学べる日本語の実践書
 created_at: '2026-05-16T09:23:06.227Z'
 last_modified_at: '2026-05-16T09:23:06.226Z'
 desc: 議論の構造、論理、有効性を分析・構築する古典的理論。ファシリテーションにおいて、論点整理、合意形成、批判的思考を促進する基盤となる。

@@ -15,11 +15,8 @@ related:
 - boundary_object_facilitation
 - complexity_facilitation
 books:
-- title: 社会的なものを組み直す
-  author: ブリュノ・ラトゥール
-  year: 2019
-  lang: ja
-  reason: ANTを社会理論として体系化したラトゥールの代表作の日本語版
+- ref: 社会的なものを組み直す
+  note: ANTを社会理論として体系化したラトゥールの代表作の日本語版
 created_at: '2026-05-12T22:22:47.483Z'
 last_modified_at: '2026-05-12T22:22:47.482Z'
 desc: 人間と非人間的存在（モノ、技術など）が相互に作用し、ネットワークを形成することで現実が構築されると考える。複雑なシステムの理解と介入に役立つ。

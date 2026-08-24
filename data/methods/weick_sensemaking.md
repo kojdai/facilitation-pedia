@@ -15,10 +15,7 @@ related:
 - frame_analysis
 - narrative_practice
 books:
-- title: センスメーキング イン オーガニゼーションズ
-  author: カール・E・ワイク
-  year: 2001
-  publisher: 文眞堂
+- ref: センスメーキング イン オーガニゼーションズ
 created_at: '2026-05-23T05:22:44.172Z'
 last_modified_at: '2026-05-23T05:22:44.171Z'
 desc: 組織や個人が、曖昧な状況下でどのように意味を構築し、行動を導くかを説明する理論。ファシリテーションにおいて、共有された現実形成のプロセスを理解し、支援するための強力な枠組みを提供する。

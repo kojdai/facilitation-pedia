@@ -15,11 +15,8 @@ related:
 - ishikawa_diagram
 - systems_thinking
 books:
-- title: ザ・ゴール
-  author: エリヤフ・ゴールドラット
-  year: 2001
-  lang: ja
-  reason: TOCの提唱者ゴールドラットによる原典小説・生産管理の革命的アプローチ
+- ref: ザ・ゴール
+  note: TOCの提唱者ゴールドラットによる原典小説・生産管理の革命的アプローチ
 created_at: '2026-05-02T18:24:40.967Z'
 last_modified_at: '2026-05-02T18:24:40.966Z'
 desc: 組織のパフォーマンスを制約するボトルネックを発見し、それを解消することで全体最適を目指すマネジメント理論。論理思考プロセスを用いたファシリテーションが特徴。

@@ -15,11 +15,8 @@ related:
 - focused_conversation
 - diamond_decision_making
 books:
-- title: 動的ファシリテーションの可能性
-  author: 西村勇哉
-  year: 2017
-  lang: ja
-  reason: ダイナミックファシリテーションの日本での実践と展開を論じた書
+- ref: 動的ファシリテーションの可能性
+  note: ダイナミックファシリテーションの日本での実践と展開を論じた書
 created_at: '2026-05-01T19:22:32.371Z'
 last_modified_at: '2026-05-01T19:22:32.371Z'
 desc: 参加者が対立や感情を乗り越え、共通の理解と革新的な解決策に到達できるよう支援するファシリテーション手法。複雑な問題解決に有効。

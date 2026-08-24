@@ -15,15 +15,9 @@ related:
 - dialogue_education
 - deliberative_dialogue
 books:
-- title: 出現する未来
-  author: P・センゲ／C・O・シャーマー ほか
-  year: 2006
-  publisher: 講談社
-- title: ビジョナリー・カンパニー2
-  author: ジム・コリンズ他
-  year: 2001
-  lang: ja
-  reason: 未来ビジョンと現在の行動を繋げるBHAGの実践。組織変革への応用
+- ref: 出現する未来
+- ref: ビジョナリー・カンパニー2
+  note: 未来ビジョンと現在の行動を繋げるBHAGの実践。組織変革への応用
 created_at: '2026-05-17T17:23:23.749Z'
 last_modified_at: '2026-05-17T17:23:23.748Z'
 desc: 未来の可能性と現在の現実を対話的に結びつけ、行動への洞察を深める構造化されたファシリテーション手法。未来の視点から現在を問い直し、新たな選択肢を生み出します。

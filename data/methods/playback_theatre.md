@@ -15,10 +15,7 @@ related:
 - forum_theatre
 - narrative_practice
 books:
-- title: プレイバック・シアター入門 一回限りの即興劇
-  author: 宗像佳代
-  publisher: 明石書店
-  year: 2006
+- ref: プレイバック・シアター入門 一回限りの即興劇
 created_at: '2026-05-07T06:22:45.681Z'
 last_modified_at: '2026-05-07T06:22:45.680Z'
 desc: 参加者の語る個人的な物語を即興で演じ返すことで、共感と理解を深め、集団の知恵を引き出す参加型演劇手法。

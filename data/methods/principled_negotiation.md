@@ -15,11 +15,8 @@ related:
 - transformative_mediation
 - fair_process_facilitation
 books:
-- title: ハーバード流交渉術
-  author: ロジャー・フィッシャー, ウィリアム・ユーリー
-  year: 1998
-  lang: ja
-  reason: 原則的交渉法の原典の日本語訳・世界で最も読まれた交渉術の本
+- ref: ハーバード流交渉術
+  note: 原則的交渉法の原典の日本語訳・世界で最も読まれた交渉術の本
 created_at: '2026-05-03T19:22:32.054Z'
 last_modified_at: '2026-05-03T19:22:32.053Z'
 desc: 立場ではなく相互の「関心」に焦点を当て、創造的な選択肢を探る交渉手法。Win-Winの関係を築き、合意形成と紛争解決に用いられ、ファシリテーションの基礎となる。

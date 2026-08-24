@@ -15,11 +15,8 @@ related:
 - kantor_structural_dynamics
 - thick_description
 books:
-- title: 会話分析の基礎
-  author: 西阪仰
-  year: 2008
-  lang: ja
-  reason: 会話分析の理論と方法を日本語で解説した入門書
+- ref: 会話分析の基礎
+  note: 会話分析の理論と方法を日本語で解説した入門書
 created_at: '2026-05-18T00:22:49.280Z'
 last_modified_at: '2026-05-18T00:22:49.280Z'
 desc: 会話の微細な構造と相互作用を分析する社会学的手法。発話の順番、タイミング、言葉の選択から意味生成プロセスを解明し、ファシリテーションにおけるコミュニケーション理解を深める。

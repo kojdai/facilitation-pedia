@@ -15,11 +15,8 @@ related:
 - action_learning
 - reflective_practice
 books:
-- title: ケース・スタディの方法
-  author: ロバート・イン
-  year: 2011
-  lang: ja
-  reason: ケース研究の方法論を体系化したイン（Yin）の定番書の日本語版
+- ref: ケース・スタディの方法
+  note: ケース研究の方法論を体系化したイン（Yin）の定番書の日本語版
 created_at: '2026-05-06T12:22:46.431Z'
 last_modified_at: '2026-05-06T12:22:46.430Z'
 desc: 現実の事例を分析・議論することで、問題解決能力、意思決定能力、批判的思考力を養う古典的教育・ファシリテーション手法。

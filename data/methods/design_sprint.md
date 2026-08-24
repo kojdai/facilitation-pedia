@@ -15,11 +15,8 @@ related:
 - lean_coffee
 - backcasting
 books:
-- title: SPRINT 最速仕事術
-  author: ジェイク・ナップ, ジョン・ゼラツキー, ブレイデン・コウィッツ
-  year: 2016
-  lang: ja
-  reason: デザインスプリントの公式ガイドブックの日本語訳
+- ref: SPRINT 最速仕事術
+  note: デザインスプリントの公式ガイドブックの日本語訳
 created_at: '2026-05-03T03:22:36.070Z'
 last_modified_at: '2026-05-03T03:22:36.057Z'
 desc: Google発の5日間集中プロセスで、アイデアのプロトタイプ作成とテストを通じて迅速な課題解決と意思決定を支援する。

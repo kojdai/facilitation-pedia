@@ -15,11 +15,8 @@ related:
 - inquiry_based_learning
 - hermeneutic_facilitation
 books:
-- title: ソクラテスの弁明
-  author: プラトン
-  year: 2012
-  lang: ja
-  reason: ソクラテス式問答法の原典・ソクラテスの思想と実践を直接学ぶ
+- ref: ソクラテスの弁明
+  note: ソクラテス式問答法の原典・ソクラテスの思想と実践を直接学ぶ
 created_at: '2026-05-03T08:22:33.961Z'
 last_modified_at: '2026-05-03T08:22:33.960Z'
 desc: 問いかけと対話を通じて、参加者自身の内なる知識や真理を引き出し、批判的思考力と深い洞察を促す古典的なファシリテーション手法。

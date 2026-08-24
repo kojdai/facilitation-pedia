@@ -16,15 +16,9 @@ related:
 - systems_thinking
 - polarity_management
 books:
-- title: チェンジマネジメント入門
-  author: 松本順市
-  year: 2013
-  lang: ja
-  reason: 力場分析を含む変化管理ツールを実践的に解説した日本語ガイド
-- title: 社会的葛藤の解決
-  author: クルト・レヴィン
-  year: 2017
-  publisher: ちとせプレス
+- ref: チェンジマネジメント入門
+  note: 力場分析を含む変化管理ツールを実践的に解説した日本語ガイド
+- ref: 社会的葛藤の解決
 created_at: '2026-05-02T15:22:30.297Z'
 last_modified_at: '2026-05-02T15:22:30.288Z'
 desc: 変革を推進する力と阻害する力を特定し、それらを分析することで、組織変革や問題解決の戦略を策定する古典的な手法です。

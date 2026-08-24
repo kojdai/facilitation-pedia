@@ -15,10 +15,7 @@ related:
 - emergent_learning
 - chaordic_design
 books:
-- title: リーダーシップとニューサイエンス
-  author: マーガレット・J・ウィートリー
-  year: 2009
-  publisher: 英治出版
+- ref: リーダーシップとニューサイエンス
 created_at: '2026-05-08T13:22:39.023Z'
 last_modified_at: '2026-05-08T13:22:39.022Z'
 desc: 複雑系科学の原理（非線形性、創発、適応など）をファシリテーションに応用。不確実な状況下での対話と適応的学習を促進し、予測不能な変化への対応力を高める。

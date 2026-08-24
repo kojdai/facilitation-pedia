@@ -15,11 +15,8 @@ related:
 - cynefin_framework
 - complex_adaptive_systems
 books:
-- title: 世界はシステムで動く
-  author: ドネラ・メドウズ
-  year: 2015
-  lang: ja
-  reason: レバレッジポイントを含むシステム思考の総合的解説書・メドウズの最後の著作
+- ref: 世界はシステムで動く
+  note: レバレッジポイントを含むシステム思考の総合的解説書・メドウズの最後の著作
 created_at: '2026-05-23T03:22:56.358Z'
 last_modified_at: '2026-05-23T03:22:56.357Z'
 desc: システム内で最小の介入で最大の効果を生む「レバレッジポイント」を特定し、持続可能な変革を促すための理論的枠組み。

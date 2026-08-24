@@ -15,11 +15,8 @@ related:
 - frame_analysis
 - cognitive_behavioral_therapy
 books:
-- title: 認知的不協和の理論
-  author: レオン・フェスティンガー
-  year: 1965
-  lang: ja
-  reason: 認知的不協和理論の提唱者フェスティンガーによる原典の日本語版
+- ref: 認知的不協和の理論
+  note: 認知的不協和理論の提唱者フェスティンガーによる原典の日本語版
 created_at: '2026-05-11T04:22:39.410Z'
 last_modified_at: '2026-05-11T04:22:39.409Z'
 desc: 人が矛盾する信念や態度を抱える際に生じる心理的緊張と、それを解消しようとする動機を説明する理論。変化促進や対話の場で深く関係する。

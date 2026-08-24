@@ -17,11 +17,8 @@ related:
 - adult_development_theory
 - developmental_facilitation
 books:
-- title: インテグラル理論
-  author: ケン・ウィルバー
-  year: 2008
-  lang: ja
-  reason: インテグラルファシリテーションの理論的基盤・AQALフレームの包括的解説
+- ref: インテグラル理論
+  note: インテグラルファシリテーションの理論的基盤・AQALフレームの包括的解説
 created_at: '2026-05-03T18:22:37.035Z'
 last_modified_at: '2026-05-03T18:22:37.035Z'
 desc: ケン・ウィルバーのインテグラル理論に基づき、個人、集団、文化、システムを統合的に捉え、多角的な視点から対話と変革を促進する手法。

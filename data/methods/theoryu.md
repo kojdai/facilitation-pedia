@@ -19,14 +19,8 @@ related:
 - learning_org
 - theory_u
 books:
-- title: U理論
-  author: C・オットー・シャーマー
-  year: 2010
-  publisher: 英治出版
-- title: 出現する未来
-  author: P・センゲ／C・O・シャーマー ほか
-  year: 2006
-  publisher: 講談社
+- ref: U理論
+- ref: 出現する未来
 created_at: '2026-04-29T23:44:57.845Z'
 last_modified_at: '2026-04-30T23:57:42.084Z'
 desc: 過去のパターンのダウンロードを保留し、「観る」「感じ取る」を通じて源（ソース）に繋がり、未来の可能性を直観的に捉えて具現化するU字型の変容プロセス。

@@ -14,10 +14,7 @@ related:
 - critical_systems_thinking
 - causal_layered_analysis
 books:
-- title: 社会変革のためのシステム思考実践ガイド
-  author: デイヴィッド・ピーター・ストロー
-  year: 2018
-  publisher: 英治出版
+- ref: 社会変革のためのシステム思考実践ガイド
 created_at: '2026-05-02T22:22:33.724Z'
 last_modified_at: '2026-05-02T22:22:33.723Z'
 desc: 計画や介入の前提と境界を批判的に問い、ステークホルダー間の対話を促進するシステム思考の手法。12の質問群を通じて、隠れた利害関係や倫理的側面を明確化し、より包括的な意思決定を支援する。

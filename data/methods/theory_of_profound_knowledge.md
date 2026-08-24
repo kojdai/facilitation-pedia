@@ -15,10 +15,7 @@ related:
 - deming
 - continuous_improvement
 books:
-- title: デミング博士の新経営システム論 産業・行政・教育のために
-  author: W・エドワーズ・デミング
-  publisher: NTT出版
-  year: 1996
+- ref: デミング博士の新経営システム論 産業・行政・教育のために
 created_at: '2026-05-15T09:22:49.136Z'
 last_modified_at: '2026-05-15T09:22:49.136Z'
 desc: デミング提唱の組織変革フレームワーク。システム、変動、知識、心理学の4要素で構成され、深い理解に基づく意思決定と継続的改善を促進する。

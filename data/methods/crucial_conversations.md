@@ -15,11 +15,8 @@ related:
 - constructive_controversy
 - psychological_safety
 books:
-- title: 重要な対話
-  author: ケリー・パターソン他
-  year: 2012
-  lang: ja
-  reason: 重要な対話フレームワークの提唱者による原典の日本語訳
+- ref: 重要な対話
+  note: 重要な対話フレームワークの提唱者による原典の日本語訳
 created_at: '2026-05-03T07:22:34.526Z'
 last_modified_at: '2026-05-03T07:22:34.525Z'
 desc: 高い意見の相違、感情的リスク、そして結果が重要な状況での対話を効果的に進めるための具体的なスキルと原則を提供する手法。安全な対話空間の構築と共通理解の促進を重視する。

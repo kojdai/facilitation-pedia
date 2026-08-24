@@ -15,15 +15,9 @@ related:
 - zone_of_proximal_development
 - communities_of_practice
 books:
-- title: 拡張による学習 発達研究への活動理論からのアプローチ
-  author: ユーリア・エンゲストローム
-  year: 1999
-  publisher: 新曜社
-- title: マインド・イン・ソサエティ
-  author: レフ・ヴィゴツキー
-  year: 2003
-  lang: ja
-  reason: CHATの源流、ヴィゴツキーの社会文化的学習論の日本語版
+- ref: 拡張による学習 発達研究への活動理論からのアプローチ
+- ref: マインド・イン・ソサエティ
+  note: CHATの源流、ヴィゴツキーの社会文化的学習論の日本語版
 created_at: '2026-05-15T23:22:40.882Z'
 last_modified_at: '2026-05-15T23:22:40.882Z'
 desc: 人間の活動を、ツールやルール、コミュニティなどの文化・歴史的文脈に埋め込まれたシステムとして分析する理論。学習や組織開発の促進に応用される。

@@ -15,15 +15,9 @@ related:
 - reciprocal_teaching
 - game_theory
 books:
-- title: 影響力の武器
-  author: ロバート・B・チャルディーニ
-  year: 2014
-  publisher: 誠信書房
-- title: 給与・報酬・公正
-  author: アダムス，J.S.
-  year: 1963
-  lang: en
-  reason: 公正理論の原典。交換の公平性への感覚が動機と行動に与える影響を示す
+- ref: 影響力の武器
+- ref: 給与・報酬・公正
+  note: 公正理論の原典。交換の公平性への感覚が動機と行動に与える影響を示す
 created_at: '2026-05-13T15:22:51.476Z'
 last_modified_at: '2026-05-13T15:22:51.474Z'
 desc: 個人間の相互作用を報酬とコストの交換として捉える理論。ファシリテーションにおいて、参加者のモチベーションやグループ内の貢献、関係性を理解する上で重要な視点を提供する。

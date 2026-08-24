@@ -14,15 +14,9 @@ related:
 - discipline_of_teams
 - group_dynamics
 books:
-- title: チームマネジメント
-  author: マレッドス・ベルビン
-  year: 2013
-  lang: ja
-  reason: ベルビンのチームロール理論の日本語訳・原典の実践的ガイド
-- title: あなたのチームは、機能してますか?
-  author: パトリック・レンシオーニ
-  year: 2003
-  publisher: 翔泳社
+- ref: チームマネジメント
+  note: ベルビンのチームロール理論の日本語訳・原典の実践的ガイド
+- ref: あなたのチームは、機能してますか
 created_at: '2026-05-08T02:22:35.810Z'
 last_modified_at: '2026-05-08T02:22:35.810Z'
 desc: チームの効果的な機能に不可欠な9つの行動役割を特定し、チーム構成と開発を支援する古典的なフレームワーク。

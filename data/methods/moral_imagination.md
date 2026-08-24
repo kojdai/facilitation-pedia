@@ -15,11 +15,8 @@ related:
 - futures_literacy
 - deliberative_democracy
 books:
-- title: 紛争転換
-  author: ジョン・ポール・レデラック
-  year: 2014
-  lang: ja
-  reason: 道徳的想像力を平和構築の実践に応用したレデラックの日本語版著作
+- ref: 紛争転換
+  note: 道徳的想像力を平和構築の実践に応用したレデラックの日本語版著作
 created_at: '2026-05-17T23:22:59.164Z'
 last_modified_at: '2026-05-17T23:22:59.163Z'
 desc: 複雑な問題に対し倫理的視点から未来の可能性を構想し、共感と創造性をもってより良い選択肢を探求する手法。対話を通じて集合的な善を追求します。

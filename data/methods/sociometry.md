@@ -15,11 +15,8 @@ related:
 - group_dynamics
 - social_network_analysis
 books:
-- title: サイコドラマの方法
-  author: 岡田法悦
-  year: 1998
-  lang: ja
-  reason: モレノのサイコドラマとソシオメトリーを日本語で解説した実践書
+- ref: サイコドラマの方法
+  note: モレノのサイコドラマとソシオメトリーを日本語で解説した実践書
 created_at: '2026-05-02T07:22:30.035Z'
 last_modified_at: '2026-05-02T07:22:30.035Z'
 desc: グループ内の人間関係や相互作用を数値化・可視化する手法。集団力学を理解し、コミュニケーション改善やチームビルディングに活用される。

@@ -15,11 +15,8 @@ related:
 - hero_s_journey
 - developmental_facilitation
 books:
-- title: 人生を変える80対20の法則
-  author: リチャード・コッホ
-  year: 2011
-  lang: ja
-  reason: 未来志向の思考法と長期目標設定の日本語で読める実践的ガイド
+- ref: 人生を変える80対20の法則
+  note: 未来志向の思考法と長期目標設定の日本語で読める実践的ガイド
 created_at: '2026-05-15T19:22:49.698Z'
 last_modified_at: '2026-05-15T19:22:49.697Z'
 desc: 参加者が理想とする未来の自己像を具体的に描き、その実現に向けた行動計画を策定するプロセスを支援する手法。自己認識と変革を促す。

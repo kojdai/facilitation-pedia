@@ -16,10 +16,7 @@ related:
 - addie_model
 - constructive_alignment
 books:
-- title: インストラクショナルデザインの原理
-  author: R・M・ガニェ ほか
-  year: 2007
-  publisher: 北大路書房
+- ref: インストラクショナルデザインの原理
 sources:
 - ロバート・M・ガニェ『インストラクショナルデザインの原理』
 created_at: '2026-04-29T23:44:57.845Z'

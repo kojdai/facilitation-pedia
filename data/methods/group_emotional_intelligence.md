@@ -15,11 +15,8 @@ related:
 - tuckman_stages
 - relational_cultural_theory
 books:
-- title: EQ こころの知能指数
-  author: ダニエル・ゴールマン
-  year: 1996
-  lang: ja
-  reason: 感情知性の一般向け入門書。集団EIの理論的基盤を理解できる
+- ref: EQ こころの知能指数
+  note: 感情知性の一般向け入門書。集団EIの理論的基盤を理解できる
 created_at: '2026-05-17T21:22:54.261Z'
 last_modified_at: '2026-05-17T21:22:54.259Z'
 desc: チームや組織が感情を認識し、理解し、管理し、活用する集合的な能力。ファシリテーターはこれを活用し、効果的な協働と意思決定を促進する。

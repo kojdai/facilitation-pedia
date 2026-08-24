@@ -15,11 +15,8 @@ related:
 - archetypal_facilitation
 - gestalt_facilitation
 books:
-- title: ユング心理学入門
-  author: 河合隼雄
-  year: 1967
-  lang: ja
-  reason: ユング心理学（シャドウを含む）の日本語入門書の古典
+- ref: ユング心理学入門
+  note: ユング心理学（シャドウを含む）の日本語入門書の古典
 created_at: '2026-05-17T14:23:09.277Z'
 last_modified_at: '2026-05-17T14:23:09.276Z'
 desc: 個人や集団の無意識にある「影」の側面を認識し、統合を促す手法。自己受容と全体性の回復を通じて、より深い変容と成長を支援する。

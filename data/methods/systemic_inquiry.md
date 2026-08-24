@@ -15,14 +15,8 @@ related:
 - participatory_systems_mapping
 - complexity_facilitation
 books:
-- title: 学習する組織
-  author: ピーター・M・センゲ
-  year: 2011
-  publisher: 英治出版
-- title: 社会変革のためのシステム思考実践ガイド
-  author: デイヴィッド・ピーター・ストロー
-  year: 2018
-  publisher: 英治出版
+- ref: 学習する組織
+- ref: 社会変革のためのシステム思考実践ガイド
 created_at: '2026-05-21T03:22:56.151Z'
 last_modified_at: '2026-05-21T03:22:56.149Z'
 desc: 参加者が問題や状況を全体的な視点から捉え、相互依存関係やパターンを探求するファシリテーション手法。根本的な構造や力学に焦点を当て、深い理解を促進する。

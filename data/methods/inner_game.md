@@ -16,11 +16,8 @@ related:
 - psychological_flexibility
 - coaching
 books:
-- title: インナーゲーム
-  author: W・ティモシー・ガルウェイ
-  year: 2000
-  lang: ja
-  reason: インナーゲーム理論の提唱者ガルウェイによる原典の日本語訳
+- ref: インナーゲーム
+  note: インナーゲーム理論の提唱者ガルウェイによる原典の日本語訳
 created_at: '2026-05-07T03:22:46.001Z'
 last_modified_at: '2026-05-07T03:22:46.001Z'
 desc: 自己批判や内的干渉を減らし、潜在能力を引き出すことを目的としたコーチング・ファシリテーション手法。自己観察と信頼を重視し、参加者のパフォーマンス向上を促す。

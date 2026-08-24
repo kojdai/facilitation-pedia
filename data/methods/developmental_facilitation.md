@@ -18,10 +18,7 @@ related:
 - immunity_to_change
 - stages
 books:
-- title: なぜ人と組織は変われないのか
-  author: ロバート・キーガン
-  year: 2013
-  publisher: 英治出版
+- ref: なぜ人と組織は変われないのか
 created_at: '2026-05-10T18:22:36.755Z'
 last_modified_at: '2026-05-10T18:22:36.745Z'
 desc: 参加者の成人発達段階を理解し、その認識構造の変容を促すことで、より複雑な問題に対応できる能力や自己主体性の向上を支援するアプローチ。

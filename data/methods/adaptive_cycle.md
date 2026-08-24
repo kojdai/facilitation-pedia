@@ -15,10 +15,7 @@ related:
 - cynefin_framework
 - transition_design
 books:
-- title: 世界はシステムで動く
-  author: ドネラ・H・メドウズ
-  year: 2015
-  publisher: 英治出版
+- ref: 世界はシステムで動く
 created_at: '2026-05-07T16:22:44.325Z'
 last_modified_at: '2026-05-07T16:22:44.324Z'
 desc: システムが成長、保全、解放、再編成の4つの段階を経て変化するパターンを示すモデル。複雑な適応システムにおけるレジリエンスと変革を理解し、促進するために用いられる。

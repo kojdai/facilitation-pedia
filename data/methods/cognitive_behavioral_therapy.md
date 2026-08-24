@@ -15,11 +15,8 @@ related:
 - dialectical_behavior_therapy
 - cognitive_dissonance
 books:
-- title: 嫌われる勇気
-  author: 岸見一郎
-  year: 2013
-  lang: ja
-  reason: CBTの背景にあるアドラー心理学の思想を現代的に解説した日本語の名著
+- ref: 嫌われる勇気
+  note: CBTの背景にあるアドラー心理学の思想を現代的に解説した日本語の名著
 created_at: '2026-05-12T11:22:53.860Z'
 last_modified_at: '2026-05-12T11:22:53.860Z'
 desc: 思考、感情、行動の相互作用に焦点を当て、非適応的なパターンを特定し、より建設的なものに変えるためのファシリテーション理論。

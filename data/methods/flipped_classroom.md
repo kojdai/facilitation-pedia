@@ -15,10 +15,7 @@ related:
 - cooperative_learning
 - self_directed_learning_facilitation
 books:
-- title: 反転授業 基本を宿題で学んでから、授業で応用力を身につける
-  author: ジョナサン・バーグマン／アーロン・サムズ
-  publisher: オデッセイコミュニケーションズ
-  year: 2014
+- ref: 反転授業 基本を宿題で学んでから、授業で応用力を身につける
 created_at: '2026-05-23T04:23:16.272Z'
 last_modified_at: '2026-05-23T04:23:16.272Z'
 desc: 従来の講義と自宅学習の役割を反転させ、対面時間を能動的な活動や深い議論に活用する学習モデル。学習者の主体性を高める。

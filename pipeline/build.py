@@ -714,10 +714,11 @@ def load_data():
         'relations':    load_yaml('relations.yaml', []),
         'disciplines':  load_yaml('disciplines.yaml', []),
         'institutions': load_yaml('institutions.yaml', []),
-        'books':        load_yaml('books.yaml', []),
+        'books':        load_records('books', 'note'),
         'meta':         load_yaml('meta.yaml', {}),
     }
     fac = load_yaml('facilitation.yaml', {})
+    data['_aliases'] = load_yaml('aliases.yaml', {}) or {}
     patch = {
         'concepts':                  load_yaml('concepts.yaml', []),
         'methods_merge':             load_yaml('merges.yaml', {}),
@@ -740,6 +741,75 @@ def load_data():
         # frontmatter に concept が書いてあれば「人が指定した分類」として退避する。
         # 自動割当ては related グラフの多数決という弱い推測なので、人の判断が上に立つ。
         m['_pinned_concept'] = m.pop('concept', None)
+    # 関連手法（related）を整える。ここでやることは3つ：
+    #   ① 別名を正式な id へ寄せる（aliases.yaml）
+    #   ② 存在しない参照を落とす（推測で繋ぐと誤りを埋め込むので、繋がずに落とす）
+    #   ③ **両側に張る**。正本では片側だけ書けばよい。
+    #
+    # ③ が要るのは、related が向きを持たない関係だから。人が両側に書く運用にすると
+    # 必ず片側だけになる（移行前は 2,506本中 1,317本＝53% が片側だけだった）。
+    # 意志で守らせるのではなく、機械が張れば構造的に揃う。
+    aliases = data.pop('_aliases', {})
+    # 統廃合された手法への参照も、ここで統合先へ寄せておく。
+    # 後段（apply_concepts step 6）でも転送は行われるが、そこで書き換えると
+    # 下の「両側に張る」が終わったあとになり、非対称と自己参照が生まれる。
+    merges = patch.get('methods_merge', {}) or {}
+    method_ids = {m['id'] for m in data['methods']}
+    missing_related = []
+    resolved = {}
+    for m in data['methods']:
+        # 統廃合された手法は「墓標」であり、関係は統合先が引き受ける。
+        # ここを張り直しの対象に含めると、墓標→X の参照が X→墓標 として復活し、
+        # 後段の転送で X→X（自己参照）に化ける。
+        if m['id'] in merges:
+            m['related'] = []
+            resolved[m['id']] = set()
+            continue
+        out = []
+        for r in (m.get('related') or []):
+            r = aliases.get(r, r)
+            seen_merge = set()
+            while r in merges and r not in seen_merge:
+                seen_merge.add(r)
+                r = merges[r]
+            if r == m['id']:
+                continue                       # 自分自身は落とす
+            if r not in method_ids:
+                missing_related.append((m['id'], r))
+                continue
+            out.append(r)
+        resolved[m['id']] = set(out)
+    for a, targets in list(resolved.items()):  # 両側に張る
+        for b in targets:
+            resolved[b].add(a)
+    for m in data['methods']:
+        m['related'] = sorted(resolved[m['id']])
+
+    # 手法→書籍は参照（ref）で持つ。表示に必要な書誌は、ここで書籍レコードから展開する。
+    # 正本では1冊＝1レコード（コピーが枝分かれして劣化しない）、
+    # 生成物では手法に埋め込む（画面側が毎回引き直さなくて済む）。
+    # note は「この手法にとってなぜこの本か」で、同じ本でも手法ごとに違うため参照側に置いてある。
+    book_ix = {b['id']: b for b in data['books']}
+    missing_books = []
+    for m in data['methods']:
+        out = []
+        for ref in (m.get('books') or []):
+            if not isinstance(ref, dict):
+                continue
+            bk = book_ix.get(ref.get('ref'))
+            if not bk:
+                missing_books.append((m['id'], ref.get('ref')))
+                continue
+            entry = {k: v for k, v in bk.items()
+                     if k in ('title', 'author', 'publisher', 'year', 'level', 'essential')
+                     and v not in (None, '')}
+            if ref.get('note'):
+                entry['note'] = ref['note']
+            out.append(entry)
+        m['books'] = out
+    # 表示は main() に任せる。load_data はテストから何度も呼ばれるため、
+    # ここで print すると同じ警告が繰り返し出て、本当の問題が埋もれる。
+    data['_gaps'] = {'books': missing_books, 'related': missing_related}
     for i in data['institutions']:
         for k, v in INSTITUTION_DEFAULTS.items():
             i.setdefault(k, v() if callable(v) else v)
@@ -748,6 +818,7 @@ def load_data():
 
 def main():
     data, patch = load_data()
+    gaps = data.pop('_gaps', {})
 
     concepts = apply_concepts(data, patch)
     remap_people_disciplines(data)
@@ -760,12 +831,23 @@ def main():
         k: v for k, v in patch['roadmap_books'].items() if k in disc_ids}
     data['facilitation_applications'] = patch['facilitation_applications']
 
+    data.pop('_gaps', None)
     report, broken = validate(data)
 
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     with open(OUT, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
 
+    for mid, ref in gaps.get('books', [])[:5]:
+        print(f"⚠ {mid} が参照している書籍「{ref}」が見つかりません")
+    mr = gaps.get('related', [])
+    if mr:
+        import collections as _c
+        top = _c.Counter(t for _, t in mr).most_common(5)
+        print(f"未作成の手法への参照 {len(mr)} 本（{len(set(t for _, t in mr))} 種）"
+              f" よく参照されている順: {top}")
+        print("  → まだ書かれていない手法の一覧は pipeline/report_gaps.py で見られる。")
+        print()
     print(report)
     print(f"concepts: {concepts['concepts']} | methods by tier "
           f"1/2/3 = {concepts['tier1']}/{concepts['tier2']}/{concepts['tier3']}")

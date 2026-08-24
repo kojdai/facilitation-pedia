@@ -15,10 +15,7 @@ related:
 - panarchy_framework
 - complex_responsive_processes
 books:
-- title: 複雑系 科学革命の震源地・サンタフェ研究所の天才たち
-  author: M・ミッチェル・ワールドロップ
-  publisher: 新潮社
-  year: 1996
+- ref: 複雑系 科学革命の震源地・サンタフェ研究所の天才たち
 created_at: '2026-05-10T23:22:41.853Z'
 last_modified_at: '2026-05-10T23:22:41.853Z'
 desc: 組織やチームを相互作用する要素からなる複雑系と捉え、予測不能な状況下での学習と適応を促進する理論的枠組み。

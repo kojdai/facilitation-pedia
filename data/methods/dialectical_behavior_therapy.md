@@ -15,11 +15,8 @@ related:
 - cognitive_behavioral_therapy
 - emotional_intelligence
 books:
-- title: マインドフルネスストレス低減法
-  author: ジョン・カバットジン
-  year: 2007
-  lang: ja
-  reason: DBTのマインドフルネス要素の基盤となるMBSRの創始者による実践書
+- ref: マインドフルネスストレス低減法
+  note: DBTのマインドフルネス要素の基盤となるMBSRの創始者による実践書
 created_at: '2026-05-14T14:22:56.226Z'
 last_modified_at: '2026-05-14T14:22:56.225Z'
 desc: マインドフルネス、感情調整、苦痛耐性、対人関係の有効性スキルを通じて、複雑な感情や対人関係の問題を抱えるグループを支援するスキルベースの手法。

@@ -16,11 +16,8 @@ related:
 - authentic_relating
 - transactional_analysis
 books:
-- title: 自己開示とジョハリの窓
-  author: エヴェリン・シュロスバーグ
-  year: 2018
-  lang: ja
-  reason: ジョハリの窓の理論と実践を現代的文脈で解説した実践的ガイド
+- ref: 自己開示とジョハリの窓
+  note: ジョハリの窓の理論と実践を現代的文脈で解説した実践的ガイド
 created_at: '2026-05-04T15:22:41.449Z'
 last_modified_at: '2026-05-04T15:22:41.449Z'
 desc: 自己開示とフィードバックを通じて、自己理解と他者理解を深め、グループ内の信頼関係とコミュニケーションを向上させるモデル。

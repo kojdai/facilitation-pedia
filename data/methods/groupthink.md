@@ -15,10 +15,7 @@ related:
 - bion_group_theory
 - group_polarization
 books:
-- title: 「みんなの意見」は案外正しい
-  author: ジェームズ・スロウィッキー
-  year: 2006
-  publisher: 角川書店
+- ref: 「みんなの意見」は案外正しい
 created_at: '2026-05-14T23:22:56.359Z'
 last_modified_at: '2026-05-14T23:22:56.355Z'
 desc: 高い凝集性を持つ集団で、批判的思考が抑制され、不合理な意思決定に至る現象。ファシリテーターは予防策を講じる。

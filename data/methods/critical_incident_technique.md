@@ -15,11 +15,8 @@ related:
 - storytelling_facilitation
 - thick_description
 books:
-- title: ユーザーインタビューのきほん
-  author: 奥泉直子
-  year: 2021
-  lang: ja
-  reason: CITを含むユーザーリサーチ技法の日本語実践ガイド
+- ref: ユーザーインタビューのきほん
+  note: CITを含むユーザーリサーチ技法の日本語実践ガイド
 created_at: '2026-05-06T00:22:40.759Z'
 last_modified_at: '2026-05-06T00:22:40.759Z'
 desc: 経験から特に重要だった出来事を抽出し、その背景、行動、結果を詳細に分析する構造化された手法。学習と改善を促進する。

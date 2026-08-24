@@ -15,11 +15,8 @@ related:
 - nominal_group_technique
 - affinity_diagram
 books:
-- title: 6つの帽子思考法
-  author: エドワード・デ・ボノ
-  year: 2015
-  lang: ja
-  reason: デ・ボノによる原典の日本語訳・六つの帽子思考法の公式ガイド
+- ref: 6つの帽子思考法
+  note: デ・ボノによる原典の日本語訳・六つの帽子思考法の公式ガイド
 created_at: '2026-05-02T05:22:27.119Z'
 last_modified_at: '2026-05-02T05:22:27.119Z'
 desc: 思考を6つの異なる視点（帽子）に分け、参加者が一度に一つの思考モードに集中することで、建設的かつ多角的な議論を促進する手法。問題解決や意思決定に有効。

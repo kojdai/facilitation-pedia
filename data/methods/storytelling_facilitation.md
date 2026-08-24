@@ -15,11 +15,8 @@ related:
 - playback_theatre
 - collective_story_harvest
 books:
-- title: ストーリー・テリング
-  author: アネット・シモンズ
-  year: 2016
-  lang: ja
-  reason: ビジネスでのストーリーテリングの実践技術を解説した定番書
+- ref: ストーリー・テリング
+  note: ビジネスでのストーリーテリングの実践技術を解説した定番書
 created_at: '2026-05-13T20:23:23.297Z'
 last_modified_at: '2026-05-13T20:23:23.296Z'
 desc: 参加者が自身の経験や視点を物語として語り、共有することで、共感、理解、集団の記憶を育む手法。複雑な情報の伝達や組織変革の動機付けにも有効です。

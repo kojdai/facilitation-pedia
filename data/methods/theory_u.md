@@ -17,20 +17,11 @@ related:
 - presencing
 - double_loop
 books:
-- title: U理論 過去の呪縛を手放し、本当に必要な「変容」を生み出す技術
-  author: C・オットー・シャーマー
-  year: 2010
-  lang: ja
-  reason: Theory Uの原典の日本語訳・必読書
-- title: 出現する未来から導く――U理論で自己と組織、社会のシステムを変革する
-  author: C・オットー・シャーマー, カトリン・カウファー
-  year: 2015
-  lang: ja
-  reason: U理論の社会変革への応用を詳述した続編
-- title: 出現する未来
-  author: P・センゲ／C・O・シャーマー ほか
-  year: 2006
-  publisher: 講談社
+- ref: U理論 過去の呪縛を手放し、本当に必要な「変容」を生み出す技術
+  note: Theory Uの原典の日本語訳・必読書
+- ref: 出現する未来から導く――U理論で自己と組織、社会のシステムを変革する
+  note: U理論の社会変革への応用を詳述した続編
+- ref: 出現する未来
 created_at: '2026-04-30T07:30:45.613Z'
 last_modified_at: '2026-04-30T23:58:17.377Z'
 desc: 過去の延長線上にない未来を出現させるための変容プロセス。

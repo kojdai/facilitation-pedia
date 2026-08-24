@@ -18,16 +18,10 @@ related:
 - pfreire
 - critical_race_theory
 books:
-- title: 被抑圧者の教育学
-  author: パウロ・フレイレ
-  year: 2011
-  lang: ja
-  reason: 批判的教育学の原典・教育変革理論の世界的古典
-- title: 希望の教育学
-  author: パウロ・フレイレ
-  year: 2001
-  lang: ja
-  reason: フレイレの思想の深化と現代への応用を論じた発展的著作
+- ref: 被抑圧者の教育学
+  note: 批判的教育学の原典・教育変革理論の世界的古典
+- ref: 希望の教育学
+  note: フレイレの思想の深化と現代への応用を論じた発展的著作
 sources:
 - パウロ・フレイレ『被抑圧者の教育学 — 50周年記念版』(三砂ちづる 訳, 亜紀書房)
 created_at: '2026-05-01T03:22:29.949Z'

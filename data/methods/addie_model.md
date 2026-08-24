@@ -15,10 +15,7 @@ related:
 - nineevt
 - formative_assessment_facil
 books:
-- title: 教材設計マニュアル 独学を支援するために
-  author: 鈴木克明
-  publisher: 北大路書房
-  year: 2002
+- ref: 教材設計マニュアル 独学を支援するために
 created_at: '2026-05-22T00:23:01.997Z'
 last_modified_at: '2026-05-22T00:23:01.997Z'
 desc: 学習・研修プログラムの設計と開発のための5段階（分析、設計、開発、実施、評価）からなる体系的なフレームワーク。効果的な学習体験の構築に活用される。

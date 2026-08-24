@@ -14,15 +14,9 @@ related:
 - distributed_leadership
 - self_organizing_systems_design
 books:
-- title: ホラクラシー
-  author: ブライアン・J・ロバートソン
-  year: 2016
-  lang: ja
-  reason: ホラクラシーの創始者による公式ガイドブックの日本語訳
-- title: ティール組織
-  author: フレデリック・ラルー
-  year: 2018
-  publisher: 英治出版
+- ref: ホラクラシー
+  note: ホラクラシーの創始者による公式ガイドブックの日本語訳
+- ref: ティール組織
 created_at: '2026-05-02T23:22:30.692Z'
 last_modified_at: '2026-05-02T23:22:30.692Z'
 desc: 役割ベースの権限分散型組織構造と意思決定プロセス。透明性と適応性を高め、組織の俊敏性を促進する。

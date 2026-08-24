@@ -15,11 +15,8 @@ related:
 - ritual_facilitation
 - social_exchange_theory
 books:
-- title: 集合的沸騰
-  author: エミール・デュルケーム
-  year: 1912
-  lang: en
-  reason: 儀礼と集合的感情の社会学的分析。コリンズ理論の出発点
+- ref: 集合的沸騰
+  note: 儀礼と集合的感情の社会学的分析。コリンズ理論の出発点
 created_at: '2026-05-16T07:22:45.916Z'
 last_modified_at: '2026-05-16T07:22:45.916Z'
 desc: ランダル・コリンズの社会学的理論。対面での相互作用が連鎖的に感情エネルギーと集団的連帯感を生成するメカニズムを説明し、ファシリテーションにおけるグループ形成と活性化の原理を提供する。

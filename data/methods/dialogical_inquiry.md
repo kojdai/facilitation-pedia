@@ -15,11 +15,8 @@ related:
 - hermeneutic_facilitation
 - dialectical_method
 books:
-- title: 哲学的対話の技術
-  author: マシュー・リップマン
-  year: 2014
-  lang: ja
-  reason: Philosophy for Childrenを通じた対話的探究の教育実践書
+- ref: 哲学的対話の技術
+  note: Philosophy for Childrenを通じた対話的探究の教育実践書
 created_at: '2026-05-16T06:22:55.023Z'
 last_modified_at: '2026-05-16T06:22:55.022Z'
 desc: 参加者が共有の問いを通じて深く探求し、異なる視点を尊重しながら、集合的な意味や新たな理解を共同で構築するファシリテーション手法。

@@ -15,15 +15,9 @@ related:
 - strategic_doing
 - co_creation_facilitation
 books:
-- title: コレクティブインパクト入門
-  author: 野村恭彦
-  year: 2018
-  lang: ja
-  reason: コレクティブインパクトの理論と日本での応用事例を解説した入門書
-- title: 社会変革のためのシステム思考実践ガイド
-  author: デイヴィッド・ピーター・ストロー
-  year: 2018
-  publisher: 英治出版
+- ref: コレクティブインパクト入門
+  note: コレクティブインパクトの理論と日本での応用事例を解説した入門書
+- ref: 社会変革のためのシステム思考実践ガイド
 created_at: '2026-05-04T23:22:30.336Z'
 last_modified_at: '2026-05-04T23:22:30.336Z'
 desc: 複雑な社会課題解決のため、複数の組織が共通の目標、測定基準、活動、コミュニケーション、支援組織を通じて協働するフレームワーク。

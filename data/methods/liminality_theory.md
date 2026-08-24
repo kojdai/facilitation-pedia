@@ -15,11 +15,8 @@ related:
 - threshold_concepts
 - adult_development_theory
 books:
-- title: 通過儀礼
-  author: アーノルド・ファン・ヘネップ
-  year: 2012
-  lang: ja
-  reason: リミナリティ理論の源流・通過儀礼の人類学的古典の日本語訳
+- ref: 通過儀礼
+  note: リミナリティ理論の源流・通過儀礼の人類学的古典の日本語訳
 created_at: '2026-05-08T12:22:33.846Z'
 last_modified_at: '2026-05-08T12:22:33.833Z'
 desc: 変革期における「境界」や「移行」の状態を指す理論。不確実性の中での学習や成長を促すファシリテーションに応用される。

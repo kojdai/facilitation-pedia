@@ -15,10 +15,7 @@ related:
 - growth_mindset
 - resilience_facilitation
 books:
-- title: こころの資本 心理的資本とその展開
-  author: フレッド・ルーサンス ほか
-  publisher: 中央経済社
-  year: 2020
+- ref: こころの資本 心理的資本とその展開
 created_at: '2026-05-09T09:22:39.025Z'
 last_modified_at: '2026-05-09T09:22:39.008Z'
 desc: 希望、自己効力感、レジリエンス、楽観主義という心理的資源の育成を通じて、個人と組織のパフォーマンス向上とウェルビーイングを高める理論と実践。

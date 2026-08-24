@@ -17,10 +17,7 @@ related:
 - mental_models
 - seci_model
 books:
-- title: 学習する組織
-  author: ピーター・M・センゲ
-  year: 2011
-  publisher: 英治出版
+- ref: 学習する組織
 sources:
 - ピーター・M・センゲ『学習する組織 — システム思考で未来を創造する』（枝廣淳子ほか訳, 英治出版）
 created_at: '2026-05-01T22:22:32.547Z'

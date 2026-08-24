@@ -21,10 +21,7 @@ related:
 - immunity_to_change
 - critical_pedagogy
 books:
-- title: おとなの学びと変容 変容的学習とは何か
-  author: ジャック・メジロー
-  year: 2012
-  publisher: 鳳書房
+- ref: おとなの学びと変容 変容的学習とは何か
 created_at: '2026-04-29T23:44:57.845Z'
 last_modified_at: '2026-04-30T23:57:28.224Z'
 desc: 批判的省察を通じて、個人が無意識に持つ前提や信念の枠組み（意味のパースペクティブ）を根本的に再構築し、より包括的な世界観を獲得する学習理論。

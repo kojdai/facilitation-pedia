@@ -15,10 +15,7 @@ related:
 - action_research
 - systems_thinking
 books:
-- title: 拡張による学習 発達研究への活動理論からのアプローチ
-  author: ユーリア・エンゲストローム
-  year: 1999
-  publisher: 新曜社
+- ref: 拡張による学習 発達研究への活動理論からのアプローチ
 created_at: '2026-05-03T02:22:30.115Z'
 last_modified_at: '2026-05-03T02:22:30.115Z'
 desc: 活動理論に基づき、組織やコミュニティの既存の活動システムを分析し、参加者自身が未来の活動モデルを共同で構築・実践する変革的手法。

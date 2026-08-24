@@ -15,11 +15,8 @@ related:
 - trauma_informed_facilitation
 - inclusive_design
 books:
-- title: ニューロダイバーシティの教科書
-  author: 村中直人
-  year: 2020
-  lang: ja
-  reason: 日本語で読めるニューロダイバーシティの基本概念と実践を解説
+- ref: ニューロダイバーシティの教科書
+  note: 日本語で読めるニューロダイバーシティの基本概念と実践を解説
 created_at: '2026-05-12T20:22:59.940Z'
 last_modified_at: '2026-05-12T20:22:59.940Z'
 desc: 神経多様性を持つ参加者が最大限に貢献できるよう、コミュニケーションや環境を調整し、多様な認知スタイルを尊重するファシリテーション手法。包括的な参加と学習を促進する。

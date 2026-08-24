@@ -16,11 +16,8 @@ related:
 - lesson_study
 - critical_incident_technique
 books:
-- title: 組織の学習能力を高める
-  author: デービッド・ガービン
-  year: 2002
-  lang: ja
-  reason: AARと学習する組織の関係を論じた組織学習論の重要著作
+- ref: 組織の学習能力を高める
+  note: AARと学習する組織の関係を論じた組織学習論の重要著作
 created_at: '2026-05-03T12:22:40.399Z'
 last_modified_at: '2026-05-03T12:22:40.398Z'
 desc: 経験から学び、パフォーマンスを向上させるための構造化された振り返り手法。何が起こり、なぜ起こり、どうすれば改善できるかを問い、具体的な行動計画を導き出す。

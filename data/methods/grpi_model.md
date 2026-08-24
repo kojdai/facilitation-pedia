@@ -14,11 +14,8 @@ related:
 - systemic_team_coaching
 - relational_coordination
 books:
-- title: チームの悪魔
-  author: パトリック・レンシオーニ
-  year: 2007
-  lang: ja
-  reason: チームの機能不全の5段階を論じる。GRPIモデルとの相補的な視点を提供
+- ref: チームの悪魔
+  note: チームの機能不全の5段階を論じる。GRPIモデルとの相補的な視点を提供
 created_at: '2026-05-16T21:22:55.268Z'
 last_modified_at: '2026-05-16T21:22:55.268Z'
 desc: チームの有効性を高めるためのフレームワーク。目標(Goals)、役割(Roles)、プロセス(Processes)、人間関係(Interpersonal)の4つの要素を分析し、組織やチームの課題解決とパフォーマンス向上を支援します。

@@ -15,11 +15,8 @@ related:
 - inquiry_based_learning
 - praxis_facilitation
 books:
-- title: 野外学習のすすめ
-  author: 国立青少年教育振興機構
-  year: 2020
-  lang: ja
-  reason: 日本の文脈での場所に根ざした野外教育・体験学習の実践ガイド
+- ref: 野外学習のすすめ
+  note: 日本の文脈での場所に根ざした野外教育・体験学習の実践ガイド
 created_at: '2026-05-17T01:22:51.128Z'
 last_modified_at: '2026-05-17T01:22:51.118Z'
 desc: 学習者が地域社会、文化、自然環境との深いつながりを通じて学ぶことを重視する教育アプローチ。体験的学習と市民参加を促進し、地域課題解決能力を育む。

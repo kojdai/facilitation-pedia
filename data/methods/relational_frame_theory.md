@@ -15,11 +15,8 @@ related:
 - cmm
 - behavioral_analysis
 books:
-- title: よくわかるACT
-  author: スティーブン・C・ヘイズ
-  year: 2012
-  lang: ja
-  reason: ACTの原理と実践を日本語で解説した入門書
+- ref: よくわかるACT
+  note: ACTの原理と実践を日本語で解説した入門書
 created_at: '2026-05-18T07:22:42.098Z'
 last_modified_at: '2026-05-18T07:22:42.097Z'
 desc: 人間の言語と認知行動を説明する学習理論。刺激間の関係を任意にフレーム化する能力に着目し、思考、感情、行動の相互作用を理解し、促進する上で重要な基盤となる。

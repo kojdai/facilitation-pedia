@@ -15,11 +15,8 @@ related:
 - constructive_alignment
 - scaffolding
 books:
-- title: インクルーシブ教育システムの構築
-  author: 国立特別支援教育総合研究所
-  year: 2019
-  lang: ja
-  reason: UDLの日本の文脈への応用・インクルーシブ教育の実践的ガイド
+- ref: インクルーシブ教育システムの構築
+  note: UDLの日本の文脈への応用・インクルーシブ教育の実践的ガイド
 created_at: '2026-05-10T12:22:52.502Z'
 last_modified_at: '2026-05-10T12:22:52.502Z'
 desc: 全ての学習者がアクセスし、参加し、成功できるような学習環境を設計するためのフレームワーク。多様なニーズに対応し、障壁を減らすことを目指す。

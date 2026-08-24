@@ -15,11 +15,8 @@ related:
 - causal_layered_analysis
 - communicative_action_theory
 books:
-- title: システム思考——問題解決と意思決定のためのツール
-  author: ジャック・スターマン
-  year: 2009
-  lang: ja
-  reason: システム思考の理論と多様な方法論を紹介した包括的テキスト
+- ref: システム思考——問題解決と意思決定のためのツール
+  note: システム思考の理論と多様な方法論を紹介した包括的テキスト
 created_at: '2026-05-18T14:22:39.697Z'
 last_modified_at: '2026-05-18T14:22:39.696Z'
 desc: 複数の視点を取り入れ、システムの境界や前提を批判的に問い、倫理的・実践的な課題解決を目指す包括的なシステム思考アプローチ。

@@ -15,11 +15,8 @@ related:
 - motivational_interviewing
 - behavior_change
 books:
-- title: 影響力の武器
-  author: ロバート・チャルディーニ
-  year: 2014
-  lang: ja
-  reason: 態度・規範・行動制御を動かす影響の原則を実証的に解説した必読書
+- ref: 影響力の武器
+  note: 態度・規範・行動制御を動かす影響の原則を実証的に解説した必読書
 created_at: '2026-05-16T10:22:52.328Z'
 last_modified_at: '2026-05-16T10:22:52.324Z'
 desc: 個人の行動意図が、行動への態度、主観的規範、知覚された行動制御によって形成されると説明。ファシリテーションにおいて、行動変容を促す介入設計の基盤となる。

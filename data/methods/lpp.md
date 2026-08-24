@@ -19,14 +19,8 @@ related:
 - situated_learning
 - zone_of_proximal_development
 books:
-- title: 状況に埋め込まれた学習
-  author: ジーン・レイヴ／エティエンヌ・ウェンガー
-  year: 1993
-  publisher: 産業図書
-- title: コミュニティ・オブ・プラクティス
-  author: エティエンヌ・ウェンガー ほか
-  year: 2002
-  publisher: 翔泳社
+- ref: 状況に埋め込まれた学習
+- ref: コミュニティ・オブ・プラクティス
 sources:
 - ジーン・レイヴ／エティエンヌ・ウェンガー『状況に埋め込まれた学習 — 正統的周辺参加』(1991)
 created_at: '2026-04-29T23:44:57.845Z'

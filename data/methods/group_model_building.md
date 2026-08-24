@@ -15,11 +15,8 @@ related:
 - collective_intelligence
 - causal_layered_analysis
 books:
-- title: 世界はシステムで動く
-  author: ドネラ・メドウズ
-  year: 2015
-  lang: ja
-  reason: グループモデルビルディングの理論的基盤・システムダイナミクスの入門書
+- ref: 世界はシステムで動く
+  note: グループモデルビルディングの理論的基盤・システムダイナミクスの入門書
 created_at: '2026-05-04T20:22:41.645Z'
 last_modified_at: '2026-05-04T20:22:41.643Z'
 desc: システム思考に基づき、グループで共有されるメンタルモデルを可視化し、シミュレーションを通じて複雑な問題解決や戦略策定を支援する手法。

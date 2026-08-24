@@ -15,10 +15,7 @@ related:
 - cooperative_learning
 - dialogue_education
 books:
-- title: コミュニティ・オブ・プラクティス
-  author: エティエンヌ・ウェンガー ほか
-  year: 2002
-  publisher: 翔泳社
+- ref: コミュニティ・オブ・プラクティス
 created_at: '2026-05-20T12:22:42.120Z'
 last_modified_at: '2026-05-20T12:22:42.119Z'
 desc: 参加者が共通の関心事について対話し、学び、行動計画を策定するための構造化された小グループ対話プロセス。市民参加やコミュニティ学習に用いられる。

@@ -15,14 +15,8 @@ related:
 - lpp
 - systems_thinking
 books:
-- title: 拡張による学習 発達研究への活動理論からのアプローチ
-  author: ユーリア・エンゲストローム
-  year: 1999
-  publisher: 新曜社
-- title: 文化的-歴史的精神発達の理論
-  author: L・S・ヴィゴツキー
-  year: 2005
-  publisher: 学文社
+- ref: 拡張による学習 発達研究への活動理論からのアプローチ
+- ref: 文化的-歴史的精神発達の理論
 created_at: '2026-05-10T03:22:30.037Z'
 last_modified_at: '2026-05-10T03:22:30.037Z'
 desc: 人間の活動を、道具、ルール、コミュニティ、分業によって媒介されるシステムとして捉え、矛盾を特定し変革的学習を促す理論。

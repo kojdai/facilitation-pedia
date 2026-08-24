@@ -15,11 +15,7 @@ related:
 - bohmian_dialogue
 - theoryu
 books:
-- title: プロセス・コンサルテーション — 援助関係を築くこと
-  author: エドガー・H・シャイン
-  publisher: 白桃書房
-  year: 2002
-  level: 中級
+- ref: プロセス・コンサルテーション — 援助関係を築くこと
 sources:
 - エドガー・H・シャイン『プロセス・コンサルテーション — 援助関係を築くこと』(稲葉元吉・尾川丈一 訳, 白桃書房)
 desc: 観察（Observation）→反応（Reaction）→判断（Judgment）→介入（Intervention）という支援者の内的過程を自覚し、早すぎる判断による誤介入を防ぐシャインのセルフモニタリング枠組み。

@@ -22,10 +22,7 @@ related:
 - immunity_to_change
 - aqal
 books:
-- title: なぜ人と組織は変われないのか
-  author: ロバート・キーガン
-  year: 2013
-  publisher: 英治出版
+- ref: なぜ人と組織は変われないのか
 sources:
 - ロバート・キーガン／リサ・ラスコウ・レイヒー『なぜ人と組織は変われないのか — ハーバード流 自己変革の理論と実践』(英治出版)
 created_at: '2026-04-29T23:44:57.845Z'

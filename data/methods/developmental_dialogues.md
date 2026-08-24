@@ -17,10 +17,7 @@ related:
 - translrn
 - developmental_facilitation
 books:
-- title: なぜ人と組織は変われないのか
-  author: ロバート・キーガン
-  year: 2013
-  publisher: 英治出版
+- ref: なぜ人と組織は変われないのか
 created_at: '2026-05-07T11:22:42.444Z'
 last_modified_at: '2026-05-07T11:22:42.443Z'
 desc: 個人の認知・感情・関係性の発達段階を意識し、より複雑な視点や意味形成を促す対話手法。参加者の成長を支援し、組織の適応能力と学習能力を高めることを目指す。

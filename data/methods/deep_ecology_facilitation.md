@@ -15,10 +15,7 @@ related:
 - regenerative_facilitation
 - deep_democracy
 books:
-- title: 世界は恋人 世界はわたし
-  author: ジョアンナ・メイシー
-  year: 1993
-  publisher: 佼成出版社
+- ref: 世界は恋人 世界はわたし
 created_at: '2026-05-14T21:22:39.551Z'
 last_modified_at: '2026-05-14T21:22:39.550Z'
 desc: 人間中心主義を超え、生命全体の相互依存性を認識する深層生態学的視点から、深い対話と変容を促すファシリテーション。エコロジカルな視点での組織変革やコミュニティ形成を支援する。

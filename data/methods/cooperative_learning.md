@@ -15,11 +15,8 @@ related:
 - pro_social_facilitation
 - communities_of_practice
 books:
-- title: 協同学習入門
-  author: ロバート・ジョンソン, デービッド・ジョンソン
-  year: 2010
-  lang: ja
-  reason: 協同学習の創始者ジョンソン兄弟による実践的入門書の日本語版
+- ref: 協同学習入門
+  note: 協同学習の創始者ジョンソン兄弟による実践的入門書の日本語版
 created_at: '2026-05-17T07:22:55.990Z'
 last_modified_at: '2026-05-17T07:22:55.966Z'
 desc: 小集団で協力し合いながら学習目標を達成する教育手法。相互依存性、個人の責任、対面での促進的相互作用、対人関係スキル、グループプロセスの評価を重視する。

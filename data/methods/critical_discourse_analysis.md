@@ -15,10 +15,7 @@ related:
 - decolonizing_facilitation
 - frame_analysis
 books:
-- title: 言語とパワー
-  author: ノーマン・フェアクロー
-  publisher: 大阪教育図書
-  year: 2008
+- ref: 言語とパワー
 created_at: '2026-05-11T17:22:34.771Z'
 last_modified_at: '2026-05-11T17:22:34.771Z'
 desc: 言語が社会権力関係やイデオロギーをどのように構築し、維持するかを分析する手法。ファシリテーションにおいて、隠れた力学や前提を明らかにし、対話の質を高める。

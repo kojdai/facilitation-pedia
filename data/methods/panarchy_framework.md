@@ -15,11 +15,8 @@ related:
 - resilience_facilitation
 - transition_design
 books:
-- title: 世界はシステムで動く
-  author: ドネラ・H・メドウズ
-  year: 2015
-  lang: ja
-  reason: システム思考とレジリエンスのダイナミクスをわかりやすく解説。パナーキーの理論的文脈
+- ref: 世界はシステムで動く
+  note: システム思考とレジリエンスのダイナミクスをわかりやすく解説。パナーキーの理論的文脈
 created_at: '2026-05-18T20:22:35.648Z'
 last_modified_at: '2026-05-18T20:22:35.646Z'
 desc: 複数の階層と時間スケールでシステムがどのように適応・変革するかを記述する理論。組織のレジリエンスと持続可能性を理解・促進する。

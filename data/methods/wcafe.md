@@ -21,10 +21,7 @@ related:
 - generative_dialogue
 - pro_action_cafe
 books:
-- title: ワールド・カフェ
-  author: アニータ・ブラウン／デイビッド・アイザックス
-  year: 2007
-  publisher: ヒューマンバリュー
+- ref: ワールド・カフェ
 sources:
 - アニータ・ブラウン／デイヴィッド・アイザックス『ワールド・カフェ — カフェ的会話が未来を創る』
 created_at: '2026-04-29T23:44:57.845Z'

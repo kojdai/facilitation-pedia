@@ -14,11 +14,8 @@ related:
 - asset_based_community_development
 - solution_focused
 books:
-- title: 発想の視点を変える
-  author: リチャード・パスカル
-  year: 2012
-  lang: ja
-  reason: ポジティブデビアンスを含む変革の新しいアプローチを日本語で解説
+- ref: 発想の視点を変える
+  note: ポジティブデビアンスを含む変革の新しいアプローチを日本語で解説
 created_at: '2026-05-02T19:22:34.893Z'
 last_modified_at: '2026-05-02T19:22:34.892Z'
 desc: 既存の課題解決に成功している少数派（ポジティブ・デビアンス）の行動様式や戦略を発見し、それを広めることで組織やコミュニティ全体の変革を促す手法。

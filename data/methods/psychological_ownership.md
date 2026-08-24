@@ -15,10 +15,7 @@ related:
 - self_efficacy_theory
 - participatory_design
 books:
-- title: モチベーション3.0 持続する「やる気!」をいかに引き出すか
-  author: ダニエル・ピンク
-  year: 2010
-  publisher: 講談社
+- ref: モチベーション3.0 持続する「やる気!」をいかに引き出すか
 created_at: '2026-05-04T07:22:33.048Z'
 last_modified_at: '2026-05-04T07:22:33.047Z'
 desc: 個人が組織内の目標や資源に対し、まるで自分のものであるかのような心理的状態を感じることで、コミットメントと責任感を高める概念。
