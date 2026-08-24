@@ -33,6 +33,9 @@
 **まちがいの指摘も、説明の書き直しも歓迎します。**
 プログラミングの経験は要りません。ブラウザだけで提案できます。
 
+**専用の編集画面があります**（`/admin`）。ファイルの書式も、YAML も、id も知らなくて構いません。
+関連する手法や参考文献は、名前で検索して選ぶだけです。
+
 → **[CONTRIBUTING.md](CONTRIBUTING.md)** に、GitHub を使ったことがない方向けの手順があります。
 
 いちばん簡単なのは、気づいたことを Issue に書くだけの方法です（3分）。
@@ -66,16 +69,21 @@
 ```
 data/                 ← 正本。**直すのはここ**
 ├── methods/*.md         手法 501（YAML情報欄 + 本文）
-├── people/*.md          人物 105（同上）
-├── concepts.yaml        中核概念 38
-├── disciplines.yaml     源流 13
-├── institutions.yaml    機関 9
-├── books.yaml           書籍 56
-├── relations.yaml       人物・手法間の関係
+├── people/*.md          人物 105
+├── books/*.md           書籍 347
+├── concepts/*.md        中核概念 38
+├── disciplines/*.md     源流 13
+├── institutions/*.md    機関 9
+├── relations.yaml       人物どうしの影響（向き・種類・注釈つき）
 ├── concept-lineage.yaml 概念どうしの影響（A から B が生まれた）
 ├── roadmap.yaml         源流ごとの読書順路
+├── aliases.yaml         手法の別名 → 正式な id
 ├── merges.yaml          統廃合された手法の転送先
 └── maintenance/         運用メタデータ（表示には使わない）
+
+admin/                ← 編集画面（Sveltia CMS）
+├── index.html
+└── config.yml           どの項目をどう編集させるかの定義
 
 pipeline/             ← data/ から dist/atlas.json を作る
 ├── build.py             生成
@@ -105,9 +113,13 @@ dist/atlas.json       ← **生成物**。直しても次のビルドで消え�
 ```bash
 pip install pyyaml
 
-python3 pipeline/validate.py         # 書き方の検査
+python3 pipeline/validate.py         # 書き方の検査（日本語で指摘）
 python3 pipeline/build.py            # dist/atlas.json を生成
+python3 pipeline/test_integrity.py   # 関係が壊れていないかの検査
 python3 pipeline/test_determinism.py # 並び順に依存しないことの検査
+python3 pipeline/test_cms_config.py  # 編集画面が項目を落とさないかの検査
+python3 pipeline/report_gaps.py      # まだ書かれていない手法の一覧
+python3 pipeline/audit_sources.py    # 出典の充足状況
 ```
 
 依存は PyYAML のみです。

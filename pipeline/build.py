@@ -712,15 +712,15 @@ def load_data():
         'people':       load_records('people', 'detail_markdown'),
         'methods':      load_records('methods', 'detail_markdown'),
         'relations':    load_yaml('relations.yaml', []),
-        'disciplines':  load_yaml('disciplines.yaml', []),
-        'institutions': load_yaml('institutions.yaml', []),
+        'disciplines':  load_records('disciplines', 'desc'),
+        'institutions': load_records('institutions', 'desc'),
         'books':        load_records('books', 'note'),
         'meta':         load_yaml('meta.yaml', {}),
     }
     fac = load_yaml('facilitation.yaml', {})
     data['_aliases'] = load_yaml('aliases.yaml', {}) or {}
     patch = {
-        'concepts':                  load_yaml('concepts.yaml', []),
+        'concepts':                  load_records('concepts', 'desc'),
         'methods_merge':             load_yaml('merges.yaml', {}),
         'concept_lineage':           load_yaml('concept-lineage.yaml', []),
         'discipline_lineage':        load_yaml('discipline-lineage.yaml', []),

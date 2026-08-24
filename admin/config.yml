@@ -1,0 +1,320 @@
+# ファシリテーション学習地図 — 編集画面の設定（Sveltia CMS）
+#
+# ここで定義した項目だけが保存される。**宣言されていない項目は保存時に消える**ので、
+# data/ 側にフィールドを足したら必ずここにも足すこと。
+#
+# 参照（リレーション）は、表示は人が読める名前・保存は id、という形にしてある。
+# 編集する人が `bk_0001` のような記号を見ることはない。
+
+backend:
+  name: github
+  repo: OWNER/REPO          # 公開時に置き換える
+  branch: main
+  # 書き込み権限のない人でも、自分のフォーク経由で提案できるようにする。
+  # これがないと「編集できるのは限られた人だけ」になり、開いた意味が薄れる。
+  open_authoring: true
+  # PR のタイトル。誰が何を直したのかが一覧で分かるようにする。
+  commit_messages:
+    create: '{{collection}} を追加：{{slug}}'
+    update: '{{collection}} を更新：{{slug}}'
+    delete: '{{collection}} を削除：{{slug}}'
+    openAuthoring: '{{message}}（{{author-login}}）'
+
+# 下書き → レビュー → 公開。編集はすぐには反映されず、いったん提案になる。
+publish_mode: editorial_workflow
+
+locale: ja
+site_url: https://helping.jp/map
+
+# 画像は扱わない（この地図は文章と関係だけで構成されている）
+media_folder: data/_media
+public_folder: /_media
+
+collections:
+  # ── 手法 ─────────────────────────────────────────────
+  - name: methods
+    label: 手法
+    label_singular: 手法
+    folder: data/methods
+    extension: md
+    format: frontmatter
+    create: true
+    slug: '{{fields.id}}'
+    identifier_field: ja
+    summary: '{{ja}}（{{en}}）'
+    sortable_fields: [ja, en, status]
+    view_groups:
+      - label: 監修状態
+        field: status
+    fields:
+      - { name: id, label: ID, widget: string, hint: '半角英数と _ のみ。ファイル名になります。一度決めたら変えないでください（リンクが切れます）' }
+      - { name: ja, label: 名称（日本語）, widget: string }
+      - { name: en, label: 名称（英語）, widget: string, required: false }
+      - { name: icon, label: 絵文字, widget: string, required: false, hint: '地図の表示では使っていません。データとして残しているだけです' }
+      - name: status
+        label: 監修状態
+        widget: select
+        options: [Draft, Verified, Needs_Review]
+        default: Draft
+        hint: '監修が済んでいなければ Draft のままにしてください'
+      - { name: essential, label: 重要な手法, widget: boolean, default: false, required: false }
+      - name: desc
+        label: 短い説明
+        widget: text
+        hint: '一覧に出る1〜2文。「何を扱う手法か」を書きます。優劣の評価は書きません'
+      - name: disciplines
+        label: 源流
+        widget: relation
+        collection: disciplines
+        search_fields: [ja, en]
+        value_field: id
+        display_fields: [ja]
+        multiple: true
+        required: false
+        hint: '中核概念が決まっていれば自動で入るので、ふつうは空でかまいません'
+      - name: concept
+        label: 中核概念（手で指定する場合）
+        widget: relation
+        collection: concepts
+        search_fields: [ja, en]
+        value_field: id
+        display_fields: [ja]
+        required: false
+        hint: 'ふだんは空でかまいません。自動の分類がおかしいときだけ、ここで正しい概念を指定します'
+      - name: people
+        label: 主要人物
+        widget: relation
+        collection: people
+        search_fields: [name, en]
+        value_field: id
+        display_fields: [name]
+        multiple: true
+        required: false
+      - name: related
+        label: 関連する手法
+        widget: relation
+        collection: methods
+        search_fields: [ja, en]
+        value_field: id
+        display_fields: [ja]
+        multiple: true
+        required: false
+        hint: '片側だけ書けば十分です。相手側からのリンクは自動で張られます'
+      - name: books
+        label: 参考文献
+        widget: list
+        required: false
+        label_singular: 文献
+        summary: '{{fields.ref}}'
+        fields:
+          - name: ref
+            label: 書籍
+            widget: relation
+            collection: books
+            search_fields: [title, author]
+            value_field: id
+            display_fields: [title, author]
+            hint: '一覧にない本は、先に「書籍」から追加してください'
+          - name: note
+            label: この手法にとっての意味
+            widget: string
+            required: false
+            hint: '同じ本でも、手法によって推す理由は変わります。ここはその手法にとっての意味を書く欄です'
+      - name: sources
+        label: 出典
+        widget: list
+        field: { name: source, label: 出典, widget: string }
+        required: false
+        hint: 'あとから誰かが確かめられる形で。日本語で読めるものを優先してください'
+      - name: body
+        label: 本文
+        widget: markdown
+        hint: '解説の本文。見出し・箇条書き・太字が使えます'
+      - { name: created_at, label: 作成日時, widget: datetime, required: false }
+      - { name: last_modified_at, label: 更新日時, widget: datetime, required: false }
+
+  # ── 人物 ─────────────────────────────────────────────
+  - name: people
+    label: 人物
+    label_singular: 人物
+    folder: data/people
+    extension: md
+    format: frontmatter
+    create: true
+    slug: '{{fields.id}}'
+    identifier_field: name
+    summary: '{{name}}（{{years}}）'
+    sortable_fields: [name, era, status]
+    fields:
+      - { name: id, label: ID, widget: string, hint: '半角英数と _ のみ。例：eschein' }
+      - { name: name, label: 名前, widget: string }
+      - { name: en, label: 英語表記, widget: string, required: false }
+      - { name: years, label: 生没年, widget: string, required: false, hint: '例：1928-2023 / 1981-' }
+      - { name: school, label: 所属・学派, widget: string, required: false }
+      - name: era
+        label: 時代
+        widget: select
+        options: [precursor, founder, developer, '1940-65', '1965-90', '1990-', '1990-2010', '2010-', contemporary]
+        required: false
+        hint: '系譜ページの並び順に使います'
+      - name: status
+        label: 監修状態
+        widget: select
+        options: [Draft, Verified, Needs_Review]
+        default: Draft
+      - { name: role, label: 一行紹介, widget: text, hint: 'この人が何をした人か。一覧に出ます' }
+      - name: disciplines
+        label: 源流
+        widget: relation
+        collection: disciplines
+        search_fields: [ja, en]
+        value_field: id
+        display_fields: [ja]
+        multiple: true
+        required: false
+        hint: '手法との紐づけから自動で決まります。どの手法にも紐づかない人だけ、ここで指定します'
+      - name: institutions
+        label: 所属機関
+        widget: relation
+        collection: institutions
+        search_fields: [name]
+        value_field: id
+        display_fields: [name]
+        multiple: true
+        required: false
+      - { name: achievements, label: 主な功績, widget: list, field: { name: item, label: 功績, widget: string }, required: false }
+      - { name: works, label: 主な著作, widget: list, field: { name: item, label: 著作, widget: string }, required: false }
+      - { name: quote, label: 引用句, widget: string, required: false, hint: '短いものだけ。長い引用は載せられません' }
+      - { name: sources, label: 出典, widget: list, field: { name: source, label: 出典, widget: string }, required: false }
+      - { name: body, label: 本文, widget: markdown }
+      - { name: pos_x, label: 系譜図のX座標, widget: number, required: false, value_type: float }
+      - { name: pos_y, label: 系譜図のY座標, widget: number, required: false, value_type: float }
+      - { name: created_at, label: 作成日時, widget: datetime, required: false }
+      - { name: last_modified_at, label: 更新日時, widget: datetime, required: false }
+
+  # ── 書籍 ─────────────────────────────────────────────
+  - name: books
+    label: 書籍
+    label_singular: 書籍
+    folder: data/books
+    extension: md
+    format: frontmatter
+    create: true
+    slug: '{{fields.id}}'
+    identifier_field: title
+    summary: '{{title}} — {{author}}'
+    sortable_fields: [title, author, year]
+    fields:
+      - { name: id, label: ID, widget: string, hint: '書名をそのまま入れてください（記号 / : ? などは除く）' }
+      - { name: title, label: 書名, widget: string }
+      - { name: author, label: 著者, widget: string, required: false }
+      - { name: publisher, label: 出版社, widget: string, required: false }
+      - { name: year, label: 発行年, widget: number, required: false, value_type: int }
+      - name: lang
+        label: 言語
+        widget: select
+        options: [ja, en]
+        required: false
+      - name: level
+        label: 読む順序
+        widget: select
+        options: [入門, 中級, 上級]
+        required: false
+        hint: '読書ロードマップでの並び順に使います'
+      - { name: essential, label: 必読, widget: boolean, default: false, required: false }
+      - name: author_id
+        label: 著者（人物として登録されている場合）
+        widget: relation
+        collection: people
+        search_fields: [name, en]
+        value_field: id
+        display_fields: [name]
+        required: false
+      - { name: body, label: この本についての説明, widget: markdown, required: false, hint: '本そのものの解説。「どの手法にとってなぜこの本か」は手法側に書きます' }
+
+  # ── 中核概念 ──────────────────────────────────────────
+  - name: concepts
+    label: 中核概念
+    label_singular: 中核概念
+    folder: data/concepts
+    extension: md
+    format: frontmatter
+    create: true
+    slug: '{{fields.id}}'
+    identifier_field: ja
+    summary: '{{ja}}（{{en}}）'
+    fields:
+      - { name: id, label: ID, widget: string }
+      - { name: ja, label: 名称（日本語）, widget: string }
+      - { name: en, label: 名称（英語）, widget: string, required: false }
+      - name: disciplines
+        label: 源流
+        widget: relation
+        collection: disciplines
+        search_fields: [ja, en]
+        value_field: id
+        display_fields: [ja]
+        multiple: true
+      - name: anchor_method
+        label: この概念の中核手法
+        widget: relation
+        collection: methods
+        search_fields: [ja, en]
+        value_field: id
+        display_fields: [ja]
+        required: false
+        hint: 'その概念を代表する1つの手法。ここに入れた手法が「中核」として最上位に並びます'
+      - name: seeds
+        label: 主要な手法
+        widget: relation
+        collection: methods
+        search_fields: [ja, en]
+        value_field: id
+        display_fields: [ja]
+        multiple: true
+        required: false
+        hint: '中核に次ぐ手法。ここに入っていない手法は、関連の張られ方から自動で振り分けられます'
+      - { name: body, label: 説明, widget: markdown }
+
+  # ── 源流 ─────────────────────────────────────────────
+  - name: disciplines
+    label: 源流（研究伝統）
+    label_singular: 源流
+    folder: data/disciplines
+    extension: md
+    format: frontmatter
+    create: false      # 13の源流は地図の骨格。増やすのは大きな判断なので GUI からは作らない
+    slug: '{{fields.id}}'
+    identifier_field: ja
+    summary: '{{ja}}'
+    fields:
+      - { name: id, label: ID, widget: string }
+      - { name: ja, label: 名称（日本語）, widget: string }
+      - { name: en, label: 名称（英語）, widget: string, required: false }
+      - { name: hex, label: 識別色, widget: color, required: false, hint: '地図で源流を見分けるための色。細い罫とチップにだけ使われます' }
+      - { name: body, label: 説明, widget: markdown }
+
+  # ── 機関 ─────────────────────────────────────────────
+  - name: institutions
+    label: 機関
+    label_singular: 機関
+    folder: data/institutions
+    extension: md
+    format: frontmatter
+    create: true
+    slug: '{{fields.id}}'
+    identifier_field: name
+    summary: '{{name}}'
+    fields:
+      - { name: id, label: ID, widget: string }
+      - { name: name, label: 名称, widget: string }
+      - { name: country, label: 国, widget: string, required: false }
+      - { name: year, label: 設立年, widget: string, required: false, hint: '例：1947–' }
+      - { name: url, label: 公式サイト, widget: string, required: false }
+      - name: status
+        label: 監修状態
+        widget: select
+        options: [Draft, Verified, Needs_Review]
+        default: Draft
+      - { name: body, label: 説明, widget: markdown }
+      - { name: last_modified_at, label: 更新日時, widget: datetime, required: false }

@@ -103,7 +103,7 @@ def check_records(subdir, id_field, required, problems):
                 str(path), f"`status: {st}` は使えない値です。",
                 f"使えるのは {' / '.join(sorted(STATUSES))} のいずれかです。"
                 "監修が済んでいないものは Draft のままにしてください。"))
-        if not (body or "").strip() and subdir != "books":
+        if not (body or "").strip() and subdir not in ("books",):
             problems.append(Problem(str(path), "本文が空です。",
                                     "情報欄を閉じる `---` の下に、解説の本文を書きます。"))
         records[rid] = front
@@ -115,10 +115,13 @@ def main():
     methods = check_records("methods", "id", ["ja", "desc"], problems)
     books = check_records("books", "id", ["title"], problems)
     people = check_records("people", "id", ["name"], problems)
-    concepts = load_yaml("concepts.yaml", problems) or []
-    disciplines = load_yaml("disciplines.yaml", problems) or []
+    concept_recs = check_records("concepts", "id", ["ja"], problems)
+    discipline_recs = check_records("disciplines", "id", ["ja"], problems)
+    check_records("institutions", "id", ["name"], problems)
+    concepts = [dict(v, id=k) for k, v in concept_recs.items()]
+    disciplines = [dict(v, id=k) for k, v in discipline_recs.items()]
     for name in ("relations.yaml", "concept-lineage.yaml", "discipline-lineage.yaml",
-                 "facilitation.yaml", "roadmap.yaml", "institutions.yaml",
+                 "facilitation.yaml", "roadmap.yaml", "aliases.yaml",
                  "merges.yaml", "meta.yaml"):
         load_yaml(name, problems)
 
@@ -162,13 +165,14 @@ def main():
             continue
         for d in (c.get("disciplines") or []):
             if d not in disc_ids:
-                problems.append(Problem(os.path.join(DATA, "concepts.yaml"),
-                                        f"概念 `{c.get('id')}` の源流 `{d}` は存在しません。"))
+                problems.append(Problem(os.path.join(DATA, "concepts", f"{c.get('id')}.md"),
+                                    f"源流 `{d}` は存在しません。",
+                                    "data/disciplines/ にある id から選んでください。"))
         a = c.get("anchor_method")
         if a and a not in methods:
             problems.append(Problem(
-                os.path.join(DATA, "concepts.yaml"),
-                f"概念 `{c.get('id')}` の代表手法 `{a}` が見つかりません。",
+                os.path.join(DATA, "concepts", f"{c.get('id')}.md"),
+                f"代表手法 `{a}` が見つかりません。",
                 f"data/methods/{a}.md を作るか、別の手法を指してください。"))
 
     print(f"検査しました： 手法 {len(methods)} / 人物 {len(people)} / 書籍 {len(books)} / "

@@ -30,6 +30,13 @@ jobs:
         # ファイルを1つ足しただけで無関係な手法の分類が動き、レビュー不能な差分が出る。
         run: python3 pipeline/test_determinism.py
 
+      - name: 関係が壊れていないか
+        run: python3 pipeline/test_integrity.py
+
+      - name: 編集画面が項目を落とさないか
+        # config.yml に宣言のない項目は、GUI で保存した瞬間に消える。
+        run: python3 pipeline/test_cms_config.py
+
       - name: 生成物が正本と食い違っていないか
         # dist/atlas.json は生成物。手で直されていたらここで気づける。
         run: |
